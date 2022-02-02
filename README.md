@@ -1,1 +1,3 @@
-# school_files
+# School files
+
+Repository with my school files.
