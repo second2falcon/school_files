@@ -287,27 +287,27 @@ Buitenlande politiek van Hitler in de jaren 30
 
 ---
 
-### 5.?
-## Nederland mobiliseert (november 1939)
+# 5.?
+# Nederland mobiliseert (november 1939)
 
 - De Nederlandse regering hoopt dat, net als tijdens de Eerste Wereldoorlog, Nederland neutraal zou blijven.
 - Uiteindelijk wordt pas laat besloten om toch te mobiliseren en gebruik te maken van de Hollandse Waterlinie.
 
-## Duitsland valt aan (10 mei 1940)
+# Duitsland valt aan (10 mei 1940)
 - Op vrijdagmorgen, om 3.55, valt het Duitse leger Nederland aan.
 - Op sommige plekken, zoals bij de Afsluitdijk en de Grebbelinie, wordt nog behoorlijk tegenstand geboden, maar tegen de Duitse Blitzkrieg is niets opgewassen.
 
-## Nederland capituleert (15 mei 1940)
+# Nederland capituleert (15 mei 1940)
 
-## Deel van Duitsland (29 mei 1940)
+# Deel van Duitsland (29 mei 1940)
 - Nederland wordt een deel van Duitsland: Reichskommissariat Niederlande
 - De Oostenrijker **Arthur Seyss-Inquart** wordt Reichskommisar.
 
 - De Nationaal-Socialistische Beweging (NSB), die **collaboreerde** met de Duitsers, is de enige politieke organisatie die mag blijven bestaan. 
 - De leider van de NSB, **Anthon Mussert**, mag zich "Leider van het Nederlandsche Volk" noemen, maar de Duitsers zijn uiteindelijk de baas.
 
-## Gelijkschakeling 
-# vanaf mei 1940
+# Gelijkschakeling 
+## vanaf mei 1940
 - Elke burger, organisatie en vereniging moet zich houden aan de ideeën van de Nazi's en trouw zijn aan het Leidersbeginsel.
 - Iedereen die dit niet doet, wordt ontslagen en/of opgepakt.
 - Journalisten mochten alleen schrijven wat de Nazi's opdroegen (**censuur**).
@@ -315,17 +315,17 @@ Buitenlande politiek van Hitler in de jaren 30
 - Alle post- en sierduiven moeten worden gedood. Duiven vliegen vrij rond en kunnen boodschappen brengen naar de geallieerden.
 - Duivenpootjes met ring moeten als bewijs worden ingeleverd.
 
-## De eerste bezettingsmaanden
-# mei 1940 - februari 1941
+# De eerste bezettingsmaanden
+## mei 1940 - februari 1941
 - De Duitsers gedragen zich meestal keurig en de meeste Nederlanders pakken hun normale leven op en werken, passief of actief, met de Duitsers samen.
 - Nederlandse bedrijven kunnen goed geld verdienen aan de "Duitse oorlog"...
 
 - Behalve de NSB zijn er ook andere Nederlanders die actief tot samenwerking oproepen, zoals de Nederlandsche Unie. Andere Nederlanders kiezen bewust om samen te werken, om te voorkomen dat hun positie wordt ingenomen door een NSB-er of Duitser.
 
-## Februaristaking
-# februari 1941
+# Februaristaking
+## februari 1941
 - De eerste grote verzetactie tegen de Dtuitse bezetter in Nederland.
 - Aanleiding waren de razzia's in Amsterdam, als reactie op de moord op een NSB-er. 
 - De staking was het enige massale en openlijke protest tegen de Jodenvervolging in heel bezet Europa.
 
-## Jodenvervolging in Nederland
+# Jodenvervolging in Nederland
