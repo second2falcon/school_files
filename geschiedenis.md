@@ -266,11 +266,11 @@ Hitler blijft populair
 		- De nazi-regering wist door deze veranderingen de economische crisis en werkloosheid terug te dringen
 		- Hierdoor bleven de mensen geloven in Hitler en zijn manier van besturen
 
-4.5.1 Een nieuw Duits Rijk
+ ### 4.5.1 Een nieuw Duits Rijk
 
 .Niet alleen het oplossen van de werkloosheid hielp bij Hitler zijn populariteit.
 
-.HItler en de NSDAP wilde de afspraken van het Verdrag van Versailles ongedaan maken. 
+.Hitler en de NSDAP wilde de afspraken van het Verdrag van Versailles ongedaan maken. 
  Duitsland zou niet langer meer moeten lijkden onder dit verdrag volgens Hitler.
 .Het volk was het hiermee eens!
 
@@ -284,3 +284,48 @@ Buitenlande politiek van Hitler in de jaren 30
 	2. Lebensraum: Het idee van de nazi's dat ze gebieden in Oost-Europa mochten veroveren om zo Duitsland sterker te maken.
 
 .Overigens kwamen beide gedachtes voor uit de rassenleer: indeling van de mensheid op basis ban uiterlijke kenmerken. >racisme
+
+---
+
+### 5.?
+## Nederland mobiliseert (november 1939)
+
+- De Nederlandse regering hoopt dat, net als tijdens de Eerste Wereldoorlog, Nederland neutraal zou blijven.
+- Uiteindelijk wordt pas laat besloten om toch te mobiliseren en gebruik te maken van de Hollandse Waterlinie.
+
+## Duitsland valt aan (10 mei 1940)
+- Op vrijdagmorgen, om 3.55, valt het Duitse leger Nederland aan.
+- Op sommige plekken, zoals bij de Afsluitdijk en de Grebbelinie, wordt nog behoorlijk tegenstand geboden, maar tegen de Duitse Blitzkrieg is niets opgewassen.
+
+## Nederland capituleert (15 mei 1940)
+
+## Deel van Duitsland (29 mei 1940)
+- Nederland wordt een deel van Duitsland: Reichskommissariat Niederlande
+- De Oostenrijker **Arthur Seyss-Inquart** wordt Reichskommisar.
+
+- De Nationaal-Socialistische Beweging (NSB), die **collaboreerde** met de Duitsers, is de enige politieke organisatie die mag blijven bestaan. 
+- De leider van de NSB, **Anthon Mussert**, mag zich "Leider van het Nederlandsche Volk" noemen, maar de Duitsers zijn uiteindelijk de baas.
+
+## Gelijkschakeling 
+# vanaf mei 1940
+- Elke burger, organisatie en vereniging moet zich houden aan de ideeën van de Nazi's en trouw zijn aan het Leidersbeginsel.
+- Iedereen die dit niet doet, wordt ontslagen en/of opgepakt.
+- Journalisten mochten alleen schrijven wat de Nazi's opdroegen (**censuur**).
+
+- Alle post- en sierduiven moeten worden gedood. Duiven vliegen vrij rond en kunnen boodschappen brengen naar de geallieerden.
+- Duivenpootjes met ring moeten als bewijs worden ingeleverd.
+
+## De eerste bezettingsmaanden
+# mei 1940 - februari 1941
+- De Duitsers gedragen zich meestal keurig en de meeste Nederlanders pakken hun normale leven op en werken, passief of actief, met de Duitsers samen.
+- Nederlandse bedrijven kunnen goed geld verdienen aan de "Duitse oorlog"...
+
+- Behalve de NSB zijn er ook andere Nederlanders die actief tot samenwerking oproepen, zoals de Nederlandsche Unie. Andere Nederlanders kiezen bewust om samen te werken, om te voorkomen dat hun positie wordt ingenomen door een NSB-er of Duitser.
+
+## Februaristaking
+# februari 1941
+- De eerste grote verzetactie tegen de Dtuitse bezetter in Nederland.
+- Aanleiding waren de razzia's in Amsterdam, als reactie op de moord op een NSB-er. 
+- De staking was het enige massale en openlijke protest tegen de Jodenvervolging in heel bezet Europa.
+
+## Jodenvervolging in Nederland
