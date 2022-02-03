@@ -1,3 +1,3 @@
 # School files
 
-Repository with my school files.
+Repository with my school notes and files.
