@@ -1,7 +1,7 @@
-Het gezicht van de aarde verandert
+# Het gezicht van de aarde verandert
 
-Geologische tijdschaal:
-(Geschiedenis van de aarde)
+## Geologische tijdschaal:
+### (Geschiedenis van de aarde)
 
 Vier hoofdperiodes:
 1. Precambrium
@@ -33,7 +33,7 @@ Kenozoïcum:
 .Het leven krijgt de vorm zoals we die nu kennen
 .Aan het einde van dit tijdperk ontstaat de mens
 
-De meteorietinslag bij Yucatan:
+### De meteorietinslag bij Yucatan:
 .12 kilometer diep
 .100 kilometer lang
 .Bombardement van stenen op aarde
