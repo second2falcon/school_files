@@ -13,4 +13,4 @@ Gläserne Manufaktur:
 - Volkswagen fabriek
 - Auto's die er worden geproduceerd: 
 -   id.3
--   e-gold (niet meer actueel)
+-   e-golf (productie is in Dresden al gestopt)
