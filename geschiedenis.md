@@ -329,3 +329,16 @@ Buitenlande politiek van Hitler in de jaren 30
 - De staking was het enige massale en openlijke protest tegen de Jodenvervolging in heel bezet Europa.
 
 # Jodenvervolging in Nederland
+
+---
+---
+# Paragraaf 5.2.1
+- Einde 16e eeuw: Nederlandse zeevaarders stichten handelsposten in het gebied dat nu Indonesië heet.
+- De macht van de Verenigde Oost-Indische Compagnie stijgt hierdoor.
+- Nederlanders verdienen hierdoor veel geld.
+- Nederlands-Indië werd langzamerhand een *Kolonie* (Kolonie: Gebied dat het bezit is van, en bestuurd wordt door, een ander land om zoveel mogelijk geld eraan te verdienen.
+- Rond 1900: Nederlnd heeft het gehele rijk in hun macht.
+
+## Hoe was het binnen deze kolonie?
+- De Nederlanders waren de baas!
+- Er kwamen grote *plantages* waarin de 'gewone' Indonesische bevolking hard moest werken (cultuurstelsel: 20% van het land was bedoeld voor de Nederlandse markt).
