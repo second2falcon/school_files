@@ -342,3 +342,6 @@ Buitenlande politiek van Hitler in de jaren 30
 ## Hoe was het binnen deze kolonie?
 - De Nederlanders waren de baas!
 - Er kwamen grote *plantages* waarin de 'gewone' Indonesische bevolking hard moest werken (cultuurstelsel: 20% van het land was bedoeld voor de Nederlandse markt).
+- Producten uit Nederlands Indië: Nootmuskaat, tabak, peper, koffie, etc.
+- Maar ook moesten de Indonesiërs in de huizen van de Nederlanders hard werken (schoonmaken, baby's verzorgen, etc.)
+- Nederlanders en Indonesiërs leefden vrijwel apart van elkaar (apartheidssamenleving)
