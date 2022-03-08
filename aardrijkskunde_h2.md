@@ -85,3 +85,34 @@ Gemiddeld sterven soorten om de 23 miljoen jaar uit.
 **Metamorfgesteente**:
 - Gesteente dat verander door hoge druk en/of temperatuur.
 
+---
+---
+# § 2.3 
+## Delfstoffen in soorten en maten
+### Soorten delfstoffen:
+- Metalen. Zoals: ijzer, aluminium en goud
+- Fossiele brandstoffen. Zoals: Steenkool, aardolie en aardgas
+- Diverse grondstoffen. Zoals: Keukenzout, grind en kalksteen
+
+### Steenkool (en aardgas)
+In het tijdvak Carboon lag Europa rond de evenaar en er was een tropisch klimaat.
+
+**Het ontstaan van steenkool**:
+1. Grote hoeveelheden moerasplanten sterven af.
+2. De moerasplanten worden omgevormd tot veen.
+3. Venn wordt afgedekt door dikke lagen zand en klei, hogere druk en hoge temperatuur zorgen ervoor dat het inkolingsproces begint: bruinkool ontstaat.
+4. De druk en de temperatuur stijden, water en gassen ontsnappen waardoor het koolsto gehalte stijgt: steenkool ontstaat.
+
+**Het ontsnappen van aardgas**:
+- Er is geen afsluitende gesteentelaag die het gas tegenhoudt (aardgas ontsnapt in de atmostfeer).
+
+### Aardolie (het zwarte goud)
+*Tijdvakken: Trias, Jura en Krijt*
+**Condities bij het ontstaan van aardolie**:
+- Enorme hoeveelheid plankton (vetrijk) in warme ondiepe zeeën.
+- Dode plankton dwarrelt naar de bodem van de zee.
+- Dikke lagen sedimenten vormen zich bovenop het plankton.
+- Temperatuur en druk stijgt in de laag met plankton.
+- In het olievenster ontstaat aardolie uit plankton.
+
+**Olievenster: de temperatuur in de aarlag tussen de 60 graden Celsius en 120 graden Celsius waar aardolie kan ontstaan.**
