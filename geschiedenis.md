@@ -345,3 +345,16 @@ Buitenlande politiek van Hitler in de jaren 30
 - Producten uit Nederlands Indië: Nootmuskaat, tabak, peper, koffie, etc.
 - Maar ook moesten de Indonesiërs in de huizen van de Nederlanders hard werken (schoonmaken, baby's verzorgen, etc.)
 - Nederlanders en Indonesiërs leefden vrijwel apart van elkaar (apartheidssamenleving)
+
+## 1602 -> VOC
+- Specerijen
+- J.P. Coen -> Banda -> eigenwijze prins "Ik handel niet met de VOC, alleen met de Engelsen." -> VOC Hoofsman (Coen) stuurt schepen naar Banda en er kon niemand van het eiland vanaf. De VOC heeft dus alle inwoners van Banda laten verhongeren (genocide).
+- Monopolie op nootmuskaat en andere specerijen
+
+## 1795 is het einde van de VOC
+- 1815 Nederland bedenkt het cultuurstelsel, Tabak, koffie, thee
+- Multatuli werkte voor de Nederlandse regering op Java - Max Havelaar ; Hij merkt dat het cultuurstelsel grote shit is en de Indo's worden gebruikt als slaven.
+
+## Rond 1900
+- Er worden wegen gebouwd en er wordt geinvesteerd in school -> ethische politiek -> Hatta, Soekarno en Shahrir zijn zeer geïntereseerd in school en mogen in Nederland studeren.
+- 1920 -> Olie en rubber wordt waardevol
