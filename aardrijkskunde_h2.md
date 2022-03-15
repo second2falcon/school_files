@@ -116,3 +116,63 @@ In het tijdvak Carboon lag Europa rond de evenaar en er was een tropisch klimaat
 - In het olievenster ontstaat aardolie uit plankton.
 
 **Olievenster: de temperatuur in de aarlag tussen de 60 graden Celsius en 120 graden Celsius waar aardolie kan ontstaan.**
+
+# § 2.4 Delfstoffen in Nederland
+## Delfstoffen in de diepte en aan de oppervlakte
+- Steenkool
+- Aardgas
+- Aardolie
+- Zout
+- Kalksteen
+- zand en grind
+- Klei
+
+### Steenkool (diepte)
+**Steenkool bevindt zich inde volledige ondergrond van Nederland. Alleen in Limburg is steenkool gewonnen. 40 jaar geleden is dat gestopt omdat**:
+- Het te vervuilend was
+- Het te duur geworden was
+- Er was een alternatief (aardgas)
+
+### Aardgas (diepte)
+**Nederlands gas is ontstaan bij het inkolingsproces van steenkool**
+1. Aardolie en aargas ontstaan in *moedergesteente*.
+2. Aardolie en aargas migreren naar hogere lagen door *plooiingen* of *breuken*.
+3. Olie en gas blijven in *reservoirgesteente* zitten.
+4. Olie en gas worden tegengehouden door een *ondoordringbare laag*.
+
+### Zout (diepte) [^1]
+**Zoutsteen is een belangrijke ondoordringbare laag waardoor aardgas in het reservoirgesteente blijft zitten.<br />**
+
+**Zout wortt in Nederland gebruikt voor de productie van chloor.<br />**
+
+**Chloor wordt gebruikt voor PVC, textiel en zeep.<br />**
+
+
+### Aardolie (diepte)
+**Kleine aardolieveldjes in Nederland. Er worden kleine hoeveelheden olie gewonnen.**
+
+### Kalksteen (oppervlakte)
+**Wordt gewonnnen door dagbouw.<br />**
+
+**Ontstaan in het Krijt.<br />**
+
+**Kalksteen wordt gebruikt voor de productie van bouwstenen, cementproductie en meststoffen.<br />**
+
+### Zand en grind (oppervlakte)
+**Is naar Nederland gekomen in het Pleistoceen door snel stromende rivieren, gletjers en wind. Wordt gebruikt als ophoog- en bouwmateriaal.**
+
+### Klei (oppervlakte)
+**Wordt gewonnen langs de grote rivieren. De klei is daar gekomen door overstromingen in het Holoceen. <br />**
+
+
+**Wordt gebruikt voor de productie van bakstenen.<br />**
+
+## Delfstoffen in Nederland [^2]
+
+
+
+
+---
+---
+[^1] Bron 23 pagina 35
+[^2] Bron 21 pagina 34
