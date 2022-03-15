@@ -358,3 +358,18 @@ Buitenlande politiek van Hitler in de jaren 30
 ## Rond 1900
 - Er worden wegen gebouwd en er wordt geinvesteerd in school -> ethische politiek -> Hatta, Soekarno en Shahrir zijn zeer geïntereseerd in school en mogen in Nederland studeren.
 - 1920 -> Olie en rubber wordt waardevol
+
+# § 5.3
+## Japan bezet Nederlands-Indië
+**Japan kijkt naar Nederlands-Indië**
+- Japan wilt in Azië een groot rijk stichten
+- In Nederlands-Indië was rijk aan grondstoffen )olie en metaal), wat de Japanners goed konden gebruiken.
+- Er was echter één land dat een stokje stak voor deze droom, dit was de VS. 
+
+**Na Pearl Harbor**
+- Japan valt naburige landen aan, waaronder Nederlands-Indië.
+- Het koninklijke Nederlands-Indisch leger (KNIL) is geen partij tegen de Japanners.
+- Gevolg: einde van de Nederlands heerschappij over Indonesië.
+- Sommige Indonesiërs zagen de Japanners als bevrijders.
+- Door de voedseltekorten werden de Indonesiërs verplicht te gaan werken voor de Japanners.
+- Japanners verliezen steun van de Indonesiërs.
