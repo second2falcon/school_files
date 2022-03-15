@@ -174,5 +174,6 @@ In het tijdvak Carboon lag Europa rond de evenaar en er was een tropisch klimaat
 
 ---
 ---
-[^1] Bron 23 pagina 35
+[^1] Bron 23 pagina 35 <br />
+
 [^2] Bron 21 pagina 34
