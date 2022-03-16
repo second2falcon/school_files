@@ -1,4 +1,5 @@
 # School files
 
-Repository with my school notes and files.
-Probably not gonna use it.
+Repository with notes from class.<br />
+
+(notes might be incomplete)
