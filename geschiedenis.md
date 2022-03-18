@@ -363,7 +363,7 @@ Buitenlande politiek van Hitler in de jaren 30
 ## Japan bezet Nederlands-Indië
 **Japan kijkt naar Nederlands-Indië**
 - Japan wilt in Azië een groot rijk stichten
-- In Nederlands-Indië was rijk aan grondstoffen )olie en metaal), wat de Japanners goed konden gebruiken.
+- In Nederlands-Indië was rijk aan grondstoffen (olie en metaal), wat de Japanners goed konden gebruiken.
 - Er was echter één land dat een stokje stak voor deze droom, dit was de VS. 
 
 **Na Pearl Harbor**
@@ -373,3 +373,11 @@ Buitenlande politiek van Hitler in de jaren 30
 - Sommige Indonesiërs zagen de Japanners als bevrijders.
 - Door de voedseltekorten werden de Indonesiërs verplicht te gaan werken voor de Japanners.
 - Japanners verliezen steun van de Indonesiërs.
+
+# § ?
+## Dekolonisatie & politionele acties
+Japan: wilde Nederlands-Indië voor de grondstoffen. (Indonesië was 4 jaar door Japan bezet). Nederlanders moesten werken voor Japan aan bijvoorbeeld de Birma spoorweg. Permuda's waren jonge, Indonesische hulptroepen van de Japanners.<br/>
+Augustus 1945 : Nederlands-Indië wordt bevreid. Tot daaraantoe zaten de Nederlanders in kampen en waren de anderen op zich zelf gesteld. Er werd toen de proklamasi (onafhankelijkheid) verklaard. Nederland hoort dat en is 'hol' up'. Ze sturen soldaten en het KNIL werd gereorganiseerd.<br/>
+1946 werden er tienduizende soldaten naar Indonesië gestuurd. Dit worden politionele acties genoemd. <br/>
+1948 was de 2e lichting aka 2e politionele actie.<br/>
+1949 Nederland trekt zich officieel terug. <br/>
