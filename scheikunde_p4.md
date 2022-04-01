@@ -1,0 +1,11 @@
+- Meth  - C
+- Eth   - C2
+- Prop  - C3
+- But   - C4
+- Pent  - C5
+- Hex   - C6
+- Hept  - C7 
+- Oct   - C8 <br/>
+
+- -aan = hoofdgroep
+- -yl  = zijgroep
