@@ -381,3 +381,21 @@ Augustus 1945 : Nederlands-Indië wordt bevreid. Tot daaraantoe zaten de Nederla
 1946 werden er tienduizende soldaten naar Indonesië gestuurd. Dit worden politionele acties genoemd. <br/>
 1948 was de 2e lichting aka 2e politionele actie.<br/>
 1949 Nederland trekt zich officieel terug. <br/>
+
+---
+---
+
+# § 6.2
+## .1 Verschillende ideologieën
+### Amerika
+**Politiek**: <br/>
+- Verenigde Staden: Democratie (het volk kiest het parlement), er zijn dus meerdere partijen! <br/>
+- Kernwaarde van democratie: Vrijheid!<br/>
+- Kernwaarde: datgene wat je het allerliefste wilt behalen <br/>
+
+**Economie**:<br/>
+- Kapitalisme: Economisch systeem waarbij iedereen vrij is om zelf keuzes te maken
+- Kenmerken Kapitalisme: <br/> 1. Hierbij zijn *prodcutiemiddelen* privé bezit van de ondernemers (Prodcutiemiddelen zorgen ervoor dat je producten kan maken (denk aan grond, machines en werknemers);<br/> 2. Vrijemarkteconomie: Economisch systeem gebaseerd op vraag en aanbod zonder grote overheidsbemoeienis;<br/> 3. Men streeft naar zoveel mogelijk winst;
+### Sovjet Unie
+**Politiek & economie**:
+- Comunisme: het streven naar gelijkheid: <br/> 1. Iedereen is gelijk; <br/> 2. Productiemiddelen is gemeenschappelijk eigendom (van iedereen); <br/> 3. Planneneconomie: Economie waarbij de overheid de economie bepaalt; <br/> 4. Er is sprake van een éénpartijstaat: Land waarbij het bestuur in handen is van één partij die alles binnen het land bepaalt,<br/>
