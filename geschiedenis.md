@@ -399,3 +399,31 @@ Augustus 1945 : Nederlands-Indië wordt bevreid. Tot daaraantoe zaten de Nederla
 ### Sovjet Unie
 **Politiek & economie**:
 - Comunisme: het streven naar gelijkheid: <br/> 1. Iedereen is gelijk; <br/> 2. Productiemiddelen is gemeenschappelijk eigendom (van iedereen); <br/> 3. Planneneconomie: Economie waarbij de overheid de economie bepaalt; <br/> 4. Er is sprake van een éénpartijstaat: Land waarbij het bestuur in handen is van één partij die alles binnen het land bepaalt,<br/>
+
+## .?
+### Conferentie van Jalta (februari 1945)
+- Churchill (GB), Roosevelt (VS) en Stalin (SU)
+- Hoe zien Europa en de wereld er na de oorlog uit?
+- Wie heeft macht en invloed in Europa?
+- Wat doen we met Duitsland en de Duitsers? <br/>
+
+**Afspraken**:
+- Oprichting van de *Verenigde Naties* (VN)
+- Democratische regeringen in Europa
+- Stalin wordt bondgenoot in de oorlog tegen Japan
+- Straffen van oorlogsmisdadigers
+- Denazificatie en democratiseren
+- Invloedssferen
+- Bezettingszones: Duitsland en Berlijn worden verdeeld in 4 zones
+
+### Begin van de Koude Oorlog (vanaf 1945)
+- *Geen gezamelijke vijand* meer: Hitler is verslagen
+- *Andere spelers*: Churchill en Roosevelt zijn er niet meer bij (Potsdam, juli 1945)
+- Stalin krijgt steeds meer *communistische invloed* in delen van Oost-Europa
+- De VS hebben een *atoombomb* (angst bij de Sovjet-Unie)
+
+### Gevolgen
+- Er wordt niet meer gepraat
+- Steeds *minder vertrouwen* tussen de landen
+- Geen oplossing voor Duitsland en Berlijn
+- Ontstaan van twee *machtsblokken* in Europa
