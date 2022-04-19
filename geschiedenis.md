@@ -400,7 +400,7 @@ Augustus 1945 : Nederlands-Indië wordt bevreid. Tot daaraantoe zaten de Nederla
 **Politiek & economie**:
 - Comunisme: het streven naar gelijkheid: <br/> 1. Iedereen is gelijk; <br/> 2. Productiemiddelen is gemeenschappelijk eigendom (van iedereen); <br/> 3. Planneneconomie: Economie waarbij de overheid de economie bepaalt; <br/> 4. Er is sprake van een éénpartijstaat: Land waarbij het bestuur in handen is van één partij die alles binnen het land bepaalt,<br/>
 
-## .?
+## .2
 ### Conferentie van Jalta (februari 1945)
 - Churchill (GB), Roosevelt (VS) en Stalin (SU)
 - Hoe zien Europa en de wereld er na de oorlog uit?
@@ -416,7 +416,7 @@ Augustus 1945 : Nederlands-Indië wordt bevreid. Tot daaraantoe zaten de Nederla
 - Invloedssferen
 - Bezettingszones: Duitsland en Berlijn worden verdeeld in 4 zones
 
-### Begin van de Koude Oorlog (vanaf 1945)
+### Begin van de Koude Oorlog (Conferentie van Potsdam)(vanaf 1945)
 - *Geen gezamelijke vijand* meer: Hitler is verslagen
 - *Andere spelers*: Churchill en Roosevelt zijn er niet meer bij (Potsdam, juli 1945)
 - Stalin krijgt steeds meer *communistische invloed* in delen van Oost-Europa
@@ -427,3 +427,22 @@ Augustus 1945 : Nederlands-Indië wordt bevreid. Tot daaraantoe zaten de Nederla
 - Steeds *minder vertrouwen* tussen de landen
 - Geen oplossing voor Duitsland en Berlijn
 - Ontstaan van twee *machtsblokken* in Europa
+
+## .3
+### Trumandoctrine & ijzeren gordijn
+- Sovjet-Unie kreeg steeds meer macht in de oosterse landen (Oostblok)
+- Gevolg: Truman komt in 1947 met de *Trumandoctrine*(Trumandoctrine: actief ervoor zorgen dat communisme niet nog verder kan verspreiden)
+- Churchill: beschrijft het verschil tussen het oostblock en west Europa als een *ijzeren gordijn* (Ijzeren gordijn: Streng afgesloten grens tussen Oost- en West-Europa die de scheiding aangeeft tussen het communistische oosten en het kapitalstische westen)
+- Marshallplan: Financiële steun van de VS aan Europa met een aantal voorbedachte doelen
+- Truman en Marshall wilde hiermee vier doelen behalen:
+1. Afzet markt voor de VS creëren (economisch)
+2. Helpen met de wederopbouw van Europa (spoorwegen, fabrieken, etc.)
+3. Amerikanen hoopten dat de Europeanen beter met elkaar gingen werken (geen bondgenootschappen zoals tijdens WO1 en/of WO2)
+4. De Amerikanen wilden voorkomen dat meerdere landen zich zouden aansluiten bij het communisme
+- Stalin was hier filnk tegen
+### Reactie van Stalin op Truman en Marshall (1948, 1949)
+- Stalin probeerde d.m.v. de *blokkade van Berlijn* de hele stad in te nemen (Blokkade van Berlijn: Toegangswegen vanuit het Westen naar West-Berlijn worden afgesloten)
+- Gevolg: Amerika richt de *luchtbrug van Berlijn* op (Luchtbruh van Berlijn: De aanvoer van goederen door de lucht door de Amerikanen om Berlijn van goederen te voorzien tijdens de blokkade)
+- Na enige tijd heft Stalin de blokkade op
+- 1949: De westelijke bezettingstones smelten samen tot de BRD (Bonrsrepubliek Duitsland, Bundesrepublik Deutschland)
+- Oost-Duitsland ging na dat jaar verder als de DDR (Duits Democraische Republiek, Deutsche Demokratische Republik)
