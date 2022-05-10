@@ -456,6 +456,7 @@ Maar...<br/>
 - Steeds meer Oost-Europese landen worden satellietstaten (voorbeelden hiervan zijn Estland, Letland, Litouwen, Polen, Tsjechië, Slowakije, Hongarije, Roemenië, Bulgarije, Macedonië, Moldavië, Oekraïne, Wit-Rusland) van Rusland (**Satellietstaten**: Land dat alles moet doen wat een ander land zegt)
 - In deze landen heerste er een totalitaire communistische dictatuur
 <br/>
+
 ### Hoop neemt toe
 - Nikita Chroesjtsjov, opvolger van Stalin in 1953 sprak over Vreedzame co-existentie
 - Maar de mensen binnen het Oostblok zouden niet veel verandering merken
