@@ -442,7 +442,27 @@ Augustus 1945 : Nederlands-Indië wordt bevreid. Tot daaraantoe zaten de Nederla
 - Stalin was hier filnk tegen
 ### Reactie van Stalin op Truman en Marshall (1948, 1949)
 - Stalin probeerde d.m.v. de *blokkade van Berlijn* de hele stad in te nemen (Blokkade van Berlijn: Toegangswegen vanuit het Westen naar West-Berlijn worden afgesloten)
-- Gevolg: Amerika richt de *luchtbrug van Berlijn* op (Luchtbruh van Berlijn: De aanvoer van goederen door de lucht door de Amerikanen om Berlijn van goederen te voorzien tijdens de blokkade)
+- Gevolg: Amerika richt de *luchtbrug van Berlijn* op (Luchtbrug van Berlijn: De aanvoer van goederen door de lucht door de Amerikanen om Berlijn van goederen te voorzien tijdens de blokkade)
 - Na enige tijd heft Stalin de blokkade op
 - 1949: De westelijke bezettingstones smelten samen tot de BRD (Bonrsrepubliek Duitsland, Bundesrepublik Deutschland)
 - Oost-Duitsland ging na dat jaar verder als de DDR (Duits Democraische Republiek, Deutsche Demokratische Republik)
+
+# § 6.3
+## .1 Spanningen lopen op + opkomende bondgenootschappen
+### Spanningen lopen op
+- Sovjet Unie weet in 1949 een kernwapen te produceren > gevolg Wapenwedloop (**Wapenwedloop**: wedstrijd tussen de VS en de Sovjet-Unie over wie er de meeste en krachtigste wapens heeft in tijden van de Koude oorlog)<br/>
+- Deze wapenwedloop zorgde voor een Wederzijdse afschrikking, waardiir het gebruik van atoomwapens miner reëel leek
+Maar...<br/>
+- Steeds meer Oost-Europese landen worden satellietstaten (voorbeelden hiervan zijn Estland, Letland, Litouwen, Polen, Tsjechië, Slowakije, Hongarije, Roemenië, Bulgarije, Macedonië, Moldavië, Oekraïne, Wit-Rusland) van Rusland (**Satellietstaten**: Land dat alles moet doen wat een ander land zegt)
+- In deze landen heerste er een totalitaire communistische dictatuur
+<br/>
+### Hoop neemt toe
+- Nikita Chroesjtsjov, opvolger van Stalin in 1953 sprak over Vreedzame co-existentie
+- Maar de mensen binnen het Oostblok zouden niet veel verandering merken
+- Hongaarse opstand: Opstand van de Hongaarse bevolking tegen de overheersing van de Sovjet-Unie in 1956 (wordt neergeslagen)
+
+### Nieuwe bondgenootschappen
+- EGKS (Europese Gemeenschap voor Kolen en Staal) word opgericht in 1951 en is de eerste vorm van een Europese eenwording
+- Maar ook op militair gebied kwam er bondgenoten, namelijk: 
+- 	**NAVO**: Noord-Atlantische Verdragsorganisatie, militaire samenwerking tussen de westerse landen onder leiding van de Verenigde Staten, opgericht in 1949
+- 	**Warschaupact**: Militaire samenwerking tussen de Oostbloklanden onder leiding van de Sovjet-Unie, opgericht in 1955
