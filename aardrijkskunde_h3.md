@@ -42,4 +42,15 @@ Een hele krachtige en schone energiebron. Bij de opwekking van kernenergie ontst
 ### Twee manieren van winnen
 1. Conventionele olie en gas: Olie en gas kan op een gemakkelijke manier gewonnen worden zonder dat er al te veel schade aan de omgeving komt.
 2. Teerzanden: Afzetting zand, klei en olie. Veel teerzanden nodig voor een beetje olie. Nadeel is dat er veel afval is (olieresten, chemicaliën en zware metalen).
-Test
+### Waarom transitie?
+Op dit moment hebben we een te hoog energieverbruik/pp waardoor onze co2-voetafdruk/pp ook te hoog is. We weten allemaal dat dit leidt tot opwarming van de aarde. Twee oplossingen:
+1. We gaan terug naar een tijdperk waarin we minder energie gebruiken.
+2. We gaan op een andere manier energie opwekken (energietransitie)
+</br>
+Waarom dit zo hard nodig is zie je bijvoorbeeld in de volgende documentaires:
+- Cow spiracy
+- David Attenborough: A life of our planet
+- Down to earth with Zac Efron
+- Kiss the ground
+</br>
+Neem alle Amerikaanse documentaires met een korreltje zour. Maar haal er uit wat jij er uit wil halen.
