@@ -42,3 +42,4 @@ Een hele krachtige en schone energiebron. Bij de opwekking van kernenergie ontst
 ### Twee manieren van winnen
 1. Conventionele olie en gas: Olie en gas kan op een gemakkelijke manier gewonnen worden zonder dat er al te veel schade aan de omgeving komt.
 2. Teerzanden: Afzetting zand, klei en olie. Veel teerzanden nodig voor een beetje olie. Nadeel is dat er veel afval is (olieresten, chemicaliën en zware metalen).
+Test
