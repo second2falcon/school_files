@@ -1,7 +1,7 @@
 # Energietransitie
 ## De aarde warmt op!
-### Broeikaseffect versus versterkt broeikaseffect
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Fmrgeogwagg.wordpress.com%2F2015%2F06%2F24%2Fgreenhouse-effect-and-anthropogenic-warming%2F&psig=AOvVaw20CRKOpuhV3YpNvas-ImFu&ust=1652255420896000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCjjte51PcCFQAAAAAdAAAAABAD)
+### [Broeikaseffect versus versterkt broeikaseffect](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmrgeogwagg.wordpress.com%2F2015%2F06%2F24%2Fgreenhouse-effect-and-anthropogenic-warming%2F&psig=AOvVaw20CRKOpuhV3YpNvas-ImFu&ust=1652255420896000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCjjte51PcCFQAAAAAdAAAAABAD)
+
 **Broeikaseffect**:
 1.  Zonnestraling (licht) komt door de atmosfeer
 2.  Zonneenergie wordt door het aardoppervlak omgezet in warmte...
@@ -27,3 +27,18 @@ Door alle gevolgen van de opwarming van de aarde zal het aantal klimaatmigranten
 Welke gebieden zijn het meest kewtsbaar?
 - dichtbevolkte kustgebied in ontwikkelingslanden
 - oorspronkelijke bevolking in de noordelijke gebieden
+
+### Traditionele ernergiebronnen
+**Fossiele brandstoffen** zijn lang geleden ontstaan uit planten/dierenresten.
+- Bruinkool
+- Steenkool
+- Olie
+- Gas
+Dit zijn uitputbare energiebronnen. De bronnen raken op voordat ze aangevuld zijn.
+</br>
+**Kernenergie**
+Een hele krachtige en schone energiebron. Bij de opwekking van kernenergie ontstaat radioactiviteit, dit is dodelijk als het vij komt.
+
+### Twee manieren van winnen
+1. Conventionele olie en gas: Olie en gas kan op een gemakkelijke manier gewonnen worden zonder dat er al te veel schade aan de omgeving komt.
+2. Teerzanden: Afzetting zand, klei en olie. Veel teerzanden nodig voor een beetje olie. Nadeel is dat er veel afval is (olieresten, chemicaliën en zware metalen).
