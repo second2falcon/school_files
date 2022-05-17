@@ -467,3 +467,27 @@ Maar...<br/>
 - Maar ook op militair gebied kwam er bondgenoten, namelijk: 
 - 	**NAVO**: Noord-Atlantische Verdragsorganisatie, militaire samenwerking tussen de westerse landen onder leiding van de Verenigde Staten, opgericht in 1949
 - 	**Warschaupact**: Militaire samenwerking tussen de Oostbloklanden onder leiding van de Sovjet-Unie, opgericht in 1955
+
+
+# § ?
+### Hoe zat het ook alweer?
+- Noord-Vietnam was *communistisch* (en bestuurd door de Vietminh)
+- Zuid- Vietnam was *kapitalistisch* (en werd ondersteund door de Amerikanen)
+- Grens ligt bij de *17e breedtegraad*
+- Dominitheorie van president Eisenhower (Dominotheorie: Als een land communistisch werd, zou net als een rij dominostenen, heel Zuidoost-Azië voor het communisme vallen.)
+- Guerilla:
+- 	Vietminh was een Noord-Vietnamese guerilla groep. Ze vochten tot 1945 tegen Japan en naar 45 tegen Frankrijk. De leider van de Vietminh was Hồ Chí Minh. Deze beweging/groep was nationalistisch maar ook communistisch.
+- Noord-Vietnam was bestuurd door Hồ Chí Minh
+- Zuid-Vietnam werd bestuurd door Ngô Đình Diệm
+
+### Amerikaanse steun aan Zuid-Vietnam
+*Doel: voorkomen dat Zuid-Vietnam onder de voet wordt gelopen door het communistische Noord-Vietnam*
+- Noord-Vietnam steunen communistische aanhangers in Zuid-Vietnam: **Vietcong**
+- Er ontstaan een *burgeroorlog* in 1957
+
+### **Tonking-incident** augustus 1964 ('Aanslag' op het Amerikaanse marineschip Maddox door Noord-Vietnam)
+
+### Gevolgen
+- Amerikanen zien de aanglas als een oorlogsverklaring
+- President Johnson krijgt *carte blanche* om het probleem op te lossen (lees: *oorlogsverklaring*)
+- Operation *Rolling Thunder*
