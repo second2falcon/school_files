@@ -48,10 +48,10 @@ Op dit moment hebben we een te hoog energieverbruik/pp waardoor onze co2-voetafd
 2. We gaan op een andere manier energie opwekken (energietransitie)
 </br>
 Waarom dit zo hard nodig is zie je bijvoorbeeld in de volgende documentaires:
-- Cow spiracy
-- David Attenborough: A life of our planet
-- Down to earth with Zac Efron
-- Kiss the ground;
+. Cow spiracy
+. David Attenborough: A life of our planet
+. Down to earth with Zac Efron
+. Kiss the ground;
 
 </br>
 </br>
