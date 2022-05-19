@@ -491,3 +491,35 @@ Maar...<br/>
 - Amerikanen zien de aanglas als een oorlogsverklaring
 - President Johnson krijgt *carte blanche* om het probleem op te lossen (lees: *oorlogsverklaring*)
 - Operation *Rolling Thunder*
+
+### Waarom ging het mis in Vietnam?
+### Hoe verliep de oorlog?
+- De Amerikanen vochten in een volstrekt onbekend jungle-gebied, terwijl de Vietnamezen dit gebied goed kenden
+- Guerillla-oorlogsvoering: geen massale aanvallen, maar kleine, onverwachte aanvallen van de Vietcong
+- De vijand bevond zich ook tussen de bondgenoten
+- De Vietcong maakte gebruik van tunnels, ondergrondse bunkers en waren soms vrijwel onzichtbaar
+- [De vietcong voerde een guerillaoorlog: kleine gewapende groepen yorgden voor onverwachte aanvallen](https://earthlymission.com/wp-content/uploads/2019/06/viet_cong_tunnels_vietnam_war_fb.jpg)
+
+### Van kwaad tot erger, napalm en agent orange
+- De Verenigde Staten zetten alles in om de oorlog te winnen
+- 	Napalm: klevende benzine
+- 	Agent orange: ontbladeringsmiddel waar ook ernstige ziektes door ontstaan
+
+### Steeds meer protesten tegen de oorlog
+- Er reizen veel journalisten mee met de soldaten
+- De oorlog is vanuit de huiskamer te volgen op televisie en in de krant
+- Niet alleen de Vietnamezen, maar ook de eigen soldaten begaan vreselijke oorlogsmisdaden
+- De frustratie van de soldaten zijn duidelijk te zien: "Wat doen we daar?!"
+- *Vergeet dit ook niet: de meeste protesten zijn in Amerika zelf, maar ook in Nederland wordt tegen de oorlog geprotesteerd*
+
+### Afloop van de oorlog
+- Nixon, vanaf 1969 president, wil de oorlog beëindigen
+- Zo min mogelijk gezichtsverlies voor de Amerikanen: Peace of Honour
+- Vietnamisering: geef de oorlog terug aan de Vietnamezen
+- Terugtrekking van de Amerikaanse troepen
+- Vredesverdrag met Noord-Vietnam/Vietcong in Parijs (1973)
+
+### Gevolgen van de Vietnamoorlog
+- Het Amerikaanse zelfvetrouwen heeft een enorme dreun gehad
+- Veel Vietnamveteranen met posttraumatische stressstoornis, maar worden vooral als moordenaas gezien
+- Enorme staatsschuld van de Verenigde Staten door de oorlogskosten
