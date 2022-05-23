@@ -1,6 +1,6 @@
 # Energietransitie
 ## De aarde warmt op!
-### [Broeikaseffect versus versterkt broeikaseffect](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmrgeogwagg.wordpress.com%2F2015%2F06%2F24%2Fgreenhouse-effect-and-anthropogenic-warming%2F&psig=AOvVaw20CRKOpuhV3YpNvas-ImFu&ust=1652255420896000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJCjjte51PcCFQAAAAAdAAAAABAD)
+### [Broeikaseffect versus versterkt broeikaseffect](https://mrgeogwagg.files.wordpress.com/2015/06/natural-and-enhanced-greenhouse-effect.jpg)
 
 **Broeikaseffect**:
 1.  Zonnestraling (licht) komt door de atmosfeer
