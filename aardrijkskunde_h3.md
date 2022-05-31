@@ -55,3 +55,18 @@ Waarom dit zo hard nodig is zie je bijvoorbeeld in de volgende documentaires:
 - Kiss the ground
 
 Neem alle Amerikaanse documentaires met een korreltje zour. Maar haal er uit wat jij er uit wil halen.
+
+## Het tegengaan van klimaatverandering
+### Verkleinen uitstoot broeikasgassen
+1. Afremmen van bevolkingsgroei = minder mensen is minder energieverbruik
+2. Energiebesparing = ecologische voetafdruk verkleinen
+3. Afvang en opslag broeikasgassen = luchtfiltes bij steenkoolfabrieken
+4. Energietransitie = overschakelen op hernieuwbare energie (groene energie)
+
+### Nadeel hernieuwbare energie
+Wat is het nadeel van:
+- Zonneenergie: niet altijd beschikbaar
+- Windenergie: niet alle plekken zijn geschikt
+- Waterkracht: niet alle plekken zijn geschikt, het brengt gevaren met zich en er zijn gevolgen voor gebieden stroomopwaarts en afwaarts
+- Aardwarmte: niet alle plekken zijn geschikt en het is duur
+- Biomassa: CO2 uitstoot
