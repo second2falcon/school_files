@@ -523,3 +523,11 @@ Maar...<br/>
 - Het Amerikaanse zelfvetrouwen heeft een enorme dreun gehad
 - Veel Vietnamveteranen met posttraumatische stressstoornis, maar worden vooral als moordenaas gezien
 - Enorme staatsschuld van de Verenigde Staten door de oorlogskosten
+
+## Cubacrisis
+### Ontspanning
+- Na de Cubacrisis was er voor kort een periode van relatieve ontspanning
+	- Er kwam en Hotline (soort telefoonverbinding) tussen de leiders van de Sovjet-Unie en Amerika
+	- Er werd zelfs heel zachtjes onderhandeld over de vermindering van atoom wapens (Salt 1-verdrag)
+		- Salt 1-verdrag (Strategic Arms Limitation Treaty): Akkoord tussen Amerika en de SU over het beperken van het aantal kernwapens, 1972
+- (Elk land mocht *maar* 2250 langeafstandsraketten hebben)
