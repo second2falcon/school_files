@@ -531,3 +531,24 @@ Maar...<br/>
 	- Er werd zelfs heel zachtjes onderhandeld over de vermindering van atoom wapens (Salt 1-verdrag)
 		- Salt 1-verdrag (Strategic Arms Limitation Treaty): Akkoord tussen Amerika en de SU over het beperken van het aantal kernwapens, 1972
 - (Elk land mocht *maar* 2250 langeafstandsraketten hebben)
+- President Ronald Reagan komt met het SDI-project (Plan om Amerika met een 'rakettenschild' te verdedigen)
+	- SDI: Strategic Defense Initiative
+- Dit project leidde tot nieuwe spanningen, de Sovjet dreigde met het opnieuw opschroeven van atoomwapen productie
+- Gevolg: er komen kernwapendemonstraties (ook in Nederland)
+	- De afkeer van de bevolking tegen nucleaire wapens en de 'oorlog' bleek groot te zijn
+
+## ?
+### Praagse lente
+- 1968: Tsjecho-Slowakije krijgt een nieuwe communistische leider (Alexander Dubček)
+- Dubček wilt 'communisme met een menselijk gezicht invoeren'. Als gevolg van deze uitspraak ontstaat *De Praagse Lente*
+	- Praagse Lente: Korte periode van meer vrijheid in Tsjecho-Slowakije in het voorjaar van 1968
+- Sovjet-Unie grijpt wederom met geweld in (dit hebben wij eerder gezien in Hongarije)
+
+### De Sovjet-Unie gaat richting zijn einde
+- In de jaren 80 begint de SOvjet--Unie uiteen te vallen, maar waarom?
+1. De kernwapenwedloop kost veel te veel geld
+2. Sovjet-Unie was Afghanistan ingevallen om daar de plaatselijke communistische partij te steunen, echter was daar geen geld voor en liep die voor de Sovjet-Unie nadelig af
+3. De planeconomie en vijfjarenplan bleek niet meer te werken. Er waren te weinig producten en ook de kwaliteit daarvan was er slecht.
+- Michail Sergejevitsj Gorbatsjov vond daarom dat er verandering moest komen (glasnost & perestrojka)
+	- Glasnost: Er komt meer openheid in de politiek zodat mensen meer vrijheid en inspraak hebben in de Sovjet-Unie, vanaf 1985
+	- Perestrojka: Economische hervormingen van Gorbatsjov om de vastgelopen economie in de Sovjet-Unie weer op gang te brengen, vanaf 1985 (vrijheid van economie!)
