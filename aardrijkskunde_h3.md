@@ -70,3 +70,22 @@ Wat is het nadeel van:
 - Waterkracht: niet alle plekken zijn geschikt, het brengt gevaren met zich en er zijn gevolgen voor gebieden stroomopwaarts en afwaarts
 - Aardwarmte: niet alle plekken zijn geschikt en het is duur
 - Biomassa: CO2 uitstoot
+
+### Klimaatwet
+- Naar aanleiding van het klimaatakkoord van Parijs
+- Omdat Nederland te veel CO2 uitstoot
+- Alle politieke partijen hebben ondertekend, het zou niet mogen uitmaken wie er in Nederland regeert
+
+### Het CO2-beleid van Nederland
+Vier CO2 functionaliteiten:
+1. **Kracht en licht**: elektriciteitsproductie verduurzamen
+2. **Hoge temperatuurwarmte**: nergie-intensieve industrie kan blijven mits er een oplossing bedacht wordt voor de opvand en opslag van CO2
+3. **Lage temperatuurwarmte**: gebouw verwarming niet meer ops gas maar door middel van een warmtepomp
+4. **Vervoer**: niet meer alleen op fossiele brandstoffen maar op biobrandstof en waterstof
+
+### De inrichting van het landschap verandert
+</br>
+
+### De opslag van energie
+- Waterstof kan de oplossing zijn.
+  - Waterstof is geen energiebron maar een energiedrager (bron 23 pagina 53)
