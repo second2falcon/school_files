@@ -1,5 +1,5 @@
 # School files
 
-Repository with notes from class.<br />
+Repository with stuff from class.<br />
 
 (notes might be incomplete)
