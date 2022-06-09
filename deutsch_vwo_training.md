@@ -19,4 +19,18 @@
 13. "Erstaunlicherweise..."
 14. C
 15. B
-16. 
+16. C
+17. C
+18. D
+19. 
+    | Stelling      | wel/niet |
+    | ----------- | ----------- |
+    |   1         | wel         |
+    |   2         | wel         |
+    |   3         | wel         |
+    |   4         | wel         |
+    |   5         | niet        |
+    |   6         | wel         | </br>
+20. A
+21. C
+22. De schrijver wil een grootschalig projekt van de regering waarin meer mensen echt werken in een bedrijf.
