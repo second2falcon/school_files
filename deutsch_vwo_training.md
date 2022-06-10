@@ -34,3 +34,19 @@
 20. A
 21. C
 22. De schrijver wil een grootschalig projekt van de regering waarin meer mensen echt werken in een bedrijf.
+23. B
+24. C
+25. D
+26. 
+    | Stelling    | wel/niet    |
+    | ----------- | ----------- |
+    |   1         | wel         |
+    |   2         | niet        |
+    |   3         | wel         |
+    |   4         | wel         | </br>
+27. De moedertaal.
+28. D
+29. D
+30. C
+31. D
+32. 
