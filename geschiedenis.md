@@ -552,3 +552,15 @@ Maar...<br/>
 - Michail Sergejevitsj Gorbatsjov vond daarom dat er verandering moest komen (glasnost & perestrojka)
 	- Glasnost: Er komt meer openheid in de politiek zodat mensen meer vrijheid en inspraak hebben in de Sovjet-Unie, vanaf 1985
 	- Perestrojka: Economische hervormingen van Gorbatsjov om de vastgelopen economie in de Sovjet-Unie weer op gang te brengen, vanaf 1985 (vrijheid van economie!)
+
+# Nutshell
+- 1948 -> Berlijnse blokkade (niet Berlijnse muur)
+	- Berlijn is een stad verdeeld in 2 zones (Oost- en West-Berlijn)
+	- Invoer Deutsche Mark in West-Duitsland en West-Berlijn
+	- Stalin isoleert West-Berlijn (echte Berlijnse blokkade)
+- 1949 -> De Sovjet-Unie kreeg kernwapens en dus begon de wapenwedloop; China wordt ook communistisch onder leiding Mao Zedong; oprichting NAVO/OTAN/NATO; BRD en DDR scheiden
+- 1955 -> Warschaupact 
+- 1956 -> Hongarije; Communistisch land; ANTI-Russen, bevolking komt in opstand; Vietnam komt op
+- 1961 -> De (Berlijnse) Muur; 
+- 1962 -> Cubacrisis Raket installatie's waren gevonden; Russische kernbomb op een onderzeeër; detente
+- 1968 -> Tsjecho-Slowakije Jan Pallach zet zich in brand
