@@ -564,3 +564,4 @@ Maar...<br/>
 - 1961 -> De (Berlijnse) Muur; 
 - 1962 -> Cubacrisis Raket installatie's waren gevonden; Russische kernbomb op een onderzeeër; detente
 - 1968 -> Tsjecho-Slowakije Jan Pallach zet zich in brand
+- 1980 -> Polen
