@@ -545,7 +545,7 @@ Maar...<br/>
 - Sovjet-Unie grijpt wederom met geweld in (dit hebben wij eerder gezien in Hongarije)
 
 ### De Sovjet-Unie gaat richting zijn einde
-- In de jaren 80 begint de SOvjet--Unie uiteen te vallen, maar waarom?
+- In de jaren 80 begint de Sovjet-Unie uiteen te vallen, maar waarom?
 1. De kernwapenwedloop kost veel te veel geld
 2. Sovjet-Unie was Afghanistan ingevallen om daar de plaatselijke communistische partij te steunen, echter was daar geen geld voor en liep die voor de Sovjet-Unie nadelig af
 3. De planeconomie en vijfjarenplan bleek niet meer te werken. Er waren te weinig producten en ook de kwaliteit daarvan was er slecht.
@@ -564,4 +564,13 @@ Maar...<br/>
 - 1961 -> De (Berlijnse) Muur; 
 - 1962 -> Cubacrisis Raket installatie's waren gevonden; Russische kernbomb op een onderzeeër; detente
 - 1968 -> Tsjecho-Slowakije Jan Pallach zet zich in brand
-- 1980 -> Polen
+- 1977 -> Eerste Star Wars Film, Reagan is een groote fan hier van. SDI project (ruimte schild)
+- 1979 -> Afghanistan, zuidelijk van de Sovjet-Unie, de Sovjet-Unie helpt de communisten het Islam in te demmen;
+- 1980 -> Polen; Amerika: Ronald Reagan wordt president: Ik wil de Sovjet-Unie vernichten. Ronald Reagan gaat de tegenstanders (in dit geval de Afghanen, Osama bin Laden) van de Sovjet-Unie bewapenen. 
+- 1985 Perestrojka - economische hervorming waardoor economische vrijheid komt; Glasnost: politieke openheid/vrijheid waardoor er vrij journalisme komt en de meningsvrijheid wordt uitgebreid
+
+
+Stalin 			1945-1953</BR>
+Chrastjov 		1954-1964</br>
+Brezjnew 		1964-1982</br>
+Gorbatsjov 		1985-1989(1991)</br>
