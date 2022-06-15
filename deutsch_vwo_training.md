@@ -4,24 +4,24 @@
 
 **Antwoordblad**: https://debijlesstudent.b-cdn.net/wp-content/uploads/2022/03/Antwoorden-Duits-2021-VWO-tijdvak-1.pdf </br></br>
 
-1. A
-2. B
-3. B
-4. D
-5. A
-6. Dat de jongeren uit zich zelf die dieet aan gaan.
-7. C
-8. D
-9. D
-10. c, a, d, b
-11. A
-12. De heteluchtballon rit
-13. "Erstaunlicherweise..."
-14. C
-15. B
-16. C
-17. C
-18. D
+1. A 1pt
+2. B x
+3. B x
+4. D 1pt
+5. A x
+6. Dat de jongeren uit zich zelf die dieet aan gaan. 1pt
+7. C 1pt
+8. D 1pt
+9. D 1pt
+10. c, a, d, b 1pt
+11. A 1pt
+12. De heteluchtballon rit 1pt
+13. "Erstaunlicherweise..." 1pt
+14. C 1pt
+15. B x
+16. C x
+17. C  1pt
+18. D x
 19. 
     | Stelling      | wel/niet |
     | ----------- | ----------- |
@@ -30,23 +30,31 @@
     |   3         | wel         |
     |   4         | wel         |
     |   5         | niet        |
-    |   6         | wel         | </br>
-20. A
-21. C
-22. De schrijver wil een grootschalig projekt van de regering waarin meer mensen echt werken in een bedrijf.
-23. B
-24. C
-25. D
+    |   6         | wel         | 3pt </br>
+20. A x
+21. C x
+22. De schrijver wil een grootschalig projekt van de regering waarin meer mensen echt werken in een bedrijf. x
+23. B 1pt
+24. C 1pt
+25. D x
 26. 
     | Stelling    | wel/niet    |
     | ----------- | ----------- |
-    |   1         | wel         |
+    |   1         | wel         | x
     |   2         | niet        |
     |   3         | wel         |
-    |   4         | wel         | </br>
-27. De moedertaal.
-28. D
-29. D
-30. C
-31. D
+    |   4         | wel         | 1pt </br>
+27. De moedertaal. 1pt
+28. D 1pt
+29. D 1pt
+30. C x
+31. D 1pt
 32. 
+33. 
+34. 
+35. 
+36. 
+37. 
+38. 
+39. 
+40. 
