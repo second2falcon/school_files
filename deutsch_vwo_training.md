@@ -64,4 +64,14 @@
 37. A
 38. B
 39. 
-40. 
+    | Stelling    | wel/niet    |
+    | ----------- | ----------- |
+    |   1         | wel         | 
+    |   2         | niet        |
+    |   3         | wel         |
+    |   4         | niet        | 
+    |   5         | niet        | 
+    |   6         | wel         | 
+    |   7         | niet        | 
+    |   8         | wel         | </br>
+40. "Verwitterung und Gesteinsabtragung"
