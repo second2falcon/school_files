@@ -574,3 +574,6 @@ Stalin 			1945-1953</BR>
 Chrastjov 		1954-1964</br>
 Brezjnew 		1964-1982</br>
 Gorbatsjov 		1985-1989(1991)</br>
+
+### Text nutshell
+In 1948 begon de Berlijnse blokkade welke Berlijn (en de rest van Duitsland) verdeelde in eigenlijk 4 zones, maar de VS, het VK en Frankrijk besloten samen een groot gedeelte te vormen. Er kwamen dus 2 zones, Oost- en West-Duitsland (en ook Oost- en West-Berlijn). Nadat Stalin (de aanvoerder van de Sovjet-Unie op dat moment) West-Berlijn isoleerde begon de blokkade eigenlijk echt. West-Duisland vond dit echter geen probleem, ze startten een luchtbrug om resourcen van West-Duitsland (BRD, Bundesrepublik Deutschland) naar West-Berlijn te brengen. Een stuk later (in 1949) kregen de Sovjets kernwapens welke het startschot was voor de wapenwedloop tussen Amerikanen en Sovjets. In het zelfde jaar werd Chino communistisch onder leiding van Mao Zedong. De wapenwedloop was ook het startschot voor iets anders, de NAVO (Noord-Atlantische Verdragsorganisatie) (Engels: NATO, North Atlantic Treaty Organization; Frans: OTAN, Organisation du traité de l'Atlantique nord). De NAVO legde vast dat als een van de lid staten/landen werd aangevallen dat ze elkaar zouden helpen. 6 jaar later kwam er iets wat op de NAVO lijkt, maar dan voor SU satelietstaten
