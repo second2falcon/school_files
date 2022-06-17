@@ -49,29 +49,31 @@
 29. D 1pt
 30. C x
 31. D 1pt
-32. B
-33. B
-34. C
+32. B 1pt
+33. B 1pt
+34. C x
 35. 
     | Stelling    | wel/niet    |
     | ----------- | ----------- |
     |   1         | wel         | 
-    |   2         | niet        |
-    |   3         | wel         |
+    |   2         | niet        | 
+    |   3         | wel         | 
     |   4         | niet        | 
-    |   5         | niet        | </br>
-36. B
-37. A
-38. B
+    |   5         | niet        | 3pt </br>
+36. B 1pt
+37. A 1pt
+38. B x
 39. 
     | Stelling    | wel/niet    |
     | ----------- | ----------- |
     |   1         | wel         | 
     |   2         | niet        |
-    |   3         | wel         |
+    |   3         | wel         | x
     |   4         | niet        | 
     |   5         | niet        | 
     |   6         | wel         | 
     |   7         | niet        | 
-    |   8         | wel         | </br>
-40. "Verwitterung und Gesteinsabtragung"
+    |   8         | wel         | 3pt </br>
+40. "Verwitterung und Gesteinsabtragung" 1pt
+
+33pt - 6,5!
