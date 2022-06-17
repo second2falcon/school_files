@@ -2,6 +2,8 @@
 
 **Vraagblad**: https://debijlesstudent.b-cdn.net/wp-content/uploads/2022/03/Opgaven-Duits-2021-VWO-tijdvak-1.pdf </br>
 
+**Omzettingstabel normering**: https://www.examenblad.nl/examendocument/2021/cse-1/duits-vwo/omzettingstabel-normering/2021/vwo </br>
+
 **Antwoordblad**: https://debijlesstudent.b-cdn.net/wp-content/uploads/2022/03/Antwoorden-Duits-2021-VWO-tijdvak-1.pdf </br></br>
 
 1. A 1pt
