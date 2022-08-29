@@ -6,10 +6,11 @@
 - Verbale (met woorden) en non-verbale communicatie (zonder woorden, bv. gezichtsuitdrukkingen)
 - Communicatiemiddelen / media:
 - Communicatiedoelen: activeren (je publiek overhalen om iets te doen), amuseren (je publiek aan het lachen te zetten), informeren (je publiek informeren over een bepaald onderwerp), beschouwen (je publiek in staat stellen om een mening over het onderwerp van de boodschap te vormen), betogen (je publiek met je argumenten van je mening overtuigen)
-- Tekstvormen 
+- Tekstvormen (bv. een brief, een krant, een blogpost etc)
+- Tekstsoorten (zijn de verschillende doelen, bv informeren, amuseren etc)
 - Context (de context kan helpen zonder woorden je boodschap nog verder uit te leggen)
 - Iteratief (herhalend) proces
-- Ruis
+- Ruis (muscommunicatie, verschillende soorten ruis, bijvoorbeeld fysieke ruis, psychologische ruis, innterlijke ruis en semantische ruis; fysieke ruis: storingen van buiten die voor miscommunicatie zorgen; psychologische ruis en/of innerlijke ruis: een vorm van ruis waarbij in je hoofd er dingen zijn die ervoor zorgen dat de boodschap niet correct overkomt; semantische ruis: een vorm van ruis waarbij mensen elkaar niet verstaan omdat ze niet de zelfde taal spreken;)
 
 --- 
 o1: Zendera, ontvanger en boodschap </br>
@@ -25,3 +26,15 @@ a) Omdat iedereen andere interesses en gebeurtenissen heeft doorgemaakt, weet ie
 o5: Nee, omdat een medium een soort van iets is die de boodschap van jouw (de zender) ontvangt een doorgeeft aan de echte ontvanger. Een communicatie middel is de soort communicatie die je gebruik, dus bijvoorbeeld de manier waarop je iets zegt of woorden. </br>
 
 o6: Omdat je brein dan al een beter idee heeft, wat het met de informatie die je zo krijgt moet doen.
+
+o7: 
+
+    a) betogen
+    b) amuseren
+    c) informeren
+    d) informeren
+
+o8:
+
+    a) Woordkeuze, schrijfstijl, de emotie met die de boodschap is overgebracht, redenering, tekstopbouw, 
+    b) 

@@ -9,12 +9,15 @@ Opdracht:  </br>
 | Titel | Magnus |
 | Opdracht | Voor Wendela-Hiba, die mijn dans wist te ontspringen. |
 | Motto | Soms ben ik in mijn eigen huis. Dan zit ik thuis, op mijn bank en denk ik: ik wil naar huis. (Erwin Olaf, fotograaf) |
-| Inhoud |  |
+| Inhoud | 3 Akte's |
 
 Akte = deel van een (toneel)stuk </br>
 ---
-Aantekening over personages </br>
+---
+---
+## Aantekening over personages </br>
 | Syntax | Description |
 | --- | --- |
-| ik persoon | verlaten door zijn vriendin,  |
-| zij | een maand weg,  |
+| ik persoon (Merlijn) | net verlaten door zijn vriendin, zit thuis tussen spullen van zijn vriending, begint te vrezen dat ze voor altijd weg is, onderweg naar Florence  |
+| zij (Caro) | een maand weg,  |
+| Walter |  |
