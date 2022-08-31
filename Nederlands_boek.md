@@ -14,10 +14,10 @@ Opdracht:  </br>
 Akte = deel van een (toneel)stuk </br>
 ---
 ---
----
 ## Aantekening over personages </br>
-| Syntax | Description |
+| Persoon | Gegevens |
 | --- | --- |
-| ik persoon (Merlijn) | net verlaten door zijn vriendin, zit thuis tussen spullen van zijn vriending, begint te vrezen dat ze voor altijd weg is, onderweg naar Florence  |
+| ik persoon (Merlijn) | net verlaten door zijn vriendin, zit thuis tussen spullen van zijn vriending, begint te vrezen dat ze voor altijd weg is, onderweg naar Florence, had een MRI-scan en een operatie waar elektronen in zijn brein werden geplaatst  |
 | zij (Caro) | een maand weg,  |
-| Walter |  |
+| Walter | zanger(?) |
+
