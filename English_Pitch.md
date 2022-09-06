@@ -1,1 +1,0 @@
-Vitalik Buterin - Ethereum
