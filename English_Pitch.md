@@ -4,4 +4,4 @@
 
 - Took place on the internet 
 
-- He made a network which helps revolutionizing money. 
+- He made a network which helps relovutionize money. 
