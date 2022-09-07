@@ -9,5 +9,5 @@ Hast du eigentlich noch Tips, was man wenn man in Deutschland war gesehen haben 
 Ich hoffe es geht dir gut, gesundheitlich und Schulnoten-Technisch.
 </br>
 </br>
-Grüße und bis bald,
+Grüße und bis bald, </br>
 Max
