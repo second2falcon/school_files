@@ -5,20 +5,10 @@ x,t diagram is een diagram van plaats en tijd. Om hiervoor een gemiddelde snelhe
 Vt = *delta* x gedeelt door *delta* t </br>
 
 tw = 0,5 * c * pA * v
+
+
 ---
 ---
-1. Daardoor dat de lijn steeds steiler gaat.
-2. 
-    a) Die met een glijgetal van 7,5. </br>
-    b) 10km = 1km (hoogte) en glijgetal 10 (horizontale verplaatsing)
-3. 
-    a) 9,375 m/s2 aangezien de valversnelling 9,8 m/s2 </br>
-    b) 
----
----
----
---- 
-hw 1-9 (blz 15) </br>
 1. 
 
     a) L 
@@ -77,4 +67,39 @@ hw 1-9 (blz 15) </br>
     a) 10ˆ16/(2,99792458*10ˆ8) = 33356409,52 s
     
        33356409,52 s -> 9.265,6693111111 uur
-    b)
+    b) 
+
+32. 
+
+    a) Gemiddelde telt voor een periode terwijl moment maar voor een moment (dus bijvoorbeeld een second of een minuut) telt
+    b) v = delta(plaats) gedeelt door delta(tijd)
+
+33. 
+
+    a) 1,9/8*10/3,6 = ~0,66 m/s
+    b) 90/2,5/3,6 = 10 m/s
+    c) 21/1,7/3,6 = ~3,43 m/s
+    d) (1,9+90+21)/(0,8+2,5+1,7)/3,6 = ~6,27 m/s
+
+34. 
+
+    a) Momentane, omdat die weer gaat dalen.
+    b) Constant (in een vacuum), omdat die in sommige omstandigheden verschillend gaat.
+    c) Momentane, omdat dat de top snelheid is en niet de begin snelheid.
+    d) Gemiddelde snelheid, omdat je niet op elke straat 100 km/h kunt rijden.
+    e) Momentane, omdat die sneller en sloomer kan en gaat zijn.
+
+35.
+
+    a) 3 m/s
+    b) -2,25 m/s
+    c) -1,4 m/s
+    d) -2,7 m/s
+
+36. 
+
+    (80+50+12,5)/(1+0,5+0,25) = 81,4285714286 km/h = ~81 km/h
+
+37. 
+
+    
