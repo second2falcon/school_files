@@ -109,4 +109,5 @@ tw = 0,5 * c * pA * v
 
 38. 
 
-    (4,2 + 3,8)/2 = 4. Die 12 secondes van 12 km/h maken zo een klein verschil dat het niet uitmaakt. Het zou een snelheids verschil van ongeveer 0,0 nogiets km/h zijn.
+    (4,2 + 3,8)/2 = 4. Die 12 secondes van 12 km/h maken zo een klein verschil dat het niet uitmaakt. Het zou een
+    snelheids verschil van ongeveer 0,0 nogiets km/h zijn.
