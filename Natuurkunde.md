@@ -102,4 +102,11 @@ tw = 0,5 * c * pA * v
 
 37. 
 
-    
+    a) 14 / 4 = 3,5 m/s
+    b) (16 - 14) / (8  - 4) = 0,5 m/s
+    c) (7,5 - 16) / (12 - 8) = -2,125 m/s = ~ -2,1 m/s
+    d) (0 - 7,5) / (12 - 0) = -0,625 m/s = ~ -0,6 m/s
+
+38. 
+
+    (4,2 + 3,8)/2 = 4. Die 12 secondes van 12 km/h maken zo een klein verschil dat het niet uitmaakt. Het zou een snelheids verschil van ongeveer 0,0 nogiets km/h zijn.
