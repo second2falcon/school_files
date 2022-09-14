@@ -22,7 +22,24 @@
 - Feitelijke uitspraak
 - Waarderende uitspraak
 - Meningsverschillen oplossen en beslechten
+</br>
+Signaalwoorden die een argument aangeven:
 
+- Want -> S, want A.
+- Omdat -> S, omdat A.
+- Aangezien -> S, aangezien A.
+</br>
+Signaalwoorden die een standpunt aangeven:
+
+- Daarom -> A, daarom S.
+- Dan ook -> A, dan ook S.
+## Argumentatiestructuren
+- Enkelvoudige argumentatie: Een mening wordt maar door één argument ondersteunt.
+- Nevenschikkende argumentatie: Een mening wordt door meerdere, verschillende argumenten ondersteunt.
+- Onafhankelijke nevenschikkende argumentatie: Een mening wordt door meerdere onafhanklijke argumenten ondersteunt.
+- Afhankleijke nevenschikkende argumentatie: Een mening wordt door meerdere argumenten ondersteunt, maar de argumenten kun je niet los zetten, die zijn dus afhankelijk van elkaar.
+- Onderschikkende argumentatie: Een mening wordt door een argument ondersteunt, welke door een subargument wordt ondersteunt, welke door een sub-subargument kan worden ondersteunt. Dit kan verder zo door gaan.
+- Verzwegen argumenten: De spreker gaat ervan uit dat de luisteraar dezelfde argumenten heeft.
 --- 
 § ?: ?
 o1: Zender, ontvanger en boodschap </br>
@@ -112,7 +129,7 @@ o3:
 | b | x |  | vind |
 | c |  | x | aangezien |
 | d | x |  | dan |
-| e |  | x | vandaar |
+| e | x |  | vandaar |
 | f | x |  | kortom |
 
 o5:
@@ -131,7 +148,7 @@ o6:
 | --- | --- | --- | --- |
 | a | x |  |  |
 | b | x |  | x |
-| c |  | x |  |
+| c | x |  |  |
 | d | x |  | x |
 | e | x |  |  |
 | f | x |  | x |
@@ -140,5 +157,36 @@ o6:
 
 o7:
 
-    Dat je bij een meningsverschil oplossen aan het einde dezelfde mening hebt, en bij een meningsverschil beslechten niet.
+    Een partij is tevreden bij een beslechting en twee bij een oplossing.
 
+o11:
+
+    Inleiding
+
+o12:
+
+    Dat je gewoon geluk hebt al je in een rijke familie bent geboren.
+
+o13: 
+
+    Door de zin "Nou, dat valt eigenlijk best mee."
+
+o14: 
+
+    Met gelukt wordt bedoelt om in een rijke familie te worden geboren. Dus als je met die belasting te maken hebt en geluk hebt/had, dan krijg je heel veel geld omdat je in een rijke familie bent geboren.
+
+o15: 
+
+    Tegenargument
+
+o16:
+
+    Weerlegging
+
+o17:
+
+    Het is een tegenstelling tot wat er in het begin werd gezegt over dat die erfbelasting goed is, omdat er nu wordt gezegt dat die juist slecht is omdat de economie daardoor schade kan gaan nemen.
+
+o18: 
+
+    Ik denk dat de meningsverschillen worden opgelost, zodat zoveel mogelijk mensen er blij mee gaan zijn, anders zou er eigenlijk altijd 1 persoon/ 1 parij iets bepalen, en dat zou niet democratisch zijn.
