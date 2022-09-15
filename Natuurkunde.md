@@ -142,3 +142,24 @@ tw = 0,5 * c * pA * v
     a) 12 / 25 = 0,48 m/s²
     b) 0 = 4 m/s; 20 = 13,6 m/s
     c) 4 * 25 + (16 - 4) * 25 * 0,5 = 250 m
+
+47. 
+
+    6000 / 26 = 230,7692307692 = ~231 secondes
+
+48. 
+
+    a) De lijn is recht
+    b) 9,8 * 10 = 98 m/s
+    c) 103 m/s
+
+49. 
+
+    delta T is extreem groot oftewel de raket vliegt gewoon heel erg lang
+
+50. 
+
+    a) De lijn is niet recht, waardoor je kunt concluderen dat het geen eenparig versnelde beweging is.
+    b) Steeds kleiner omdat de lijn minder stijl gaat.
+    c) 0,5 m/s²
+    d) a(0,0) 4 m/s²; a(4,0)
