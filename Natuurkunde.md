@@ -105,9 +105,40 @@ tw = 0,5 * c * pA * v
     a) 14 / 4 = 3,5 m/s
     b) (16 - 14) / (8  - 4) = 0,5 m/s
     c) (7,5 - 16) / (12 - 8) = -2,125 m/s = ~ -2,1 m/s
-    d) (0 - 7,5) / (12 - 0) = -0,625 m/s = ~ -0,6 m/s
+    d) (7,5 - 0) / (12 - 0) = 0,625 m/s = ~ 0,6 m/s
 
 38. 
 
     (4,2 + 3,8)/2 = 4. Die 12 secondes van 12 km/h maken zo een klein verschil dat het niet uitmaakt. Het zou een
     snelheids verschil van ongeveer 0,0 nogiets km/h zijn.
+
+42. 
+
+    a) Versnelling is de hoeveelheid met die je sneller wordt (dus bijvoorbeeld van 10 km/h naar 25 km/h). 
+    b) delta V (snelheid) / delta T (tijd) = versnelling
+    c) m/s²
+    d) Een versnelling die met dezelfde versnelling.
+
+43. 
+
+    a) De lijn start ergens boven nul
+    b) Begint bij de 0
+    c) delta V / delta T
+    d) Een rechte lijn
+    e) delta V = a * delta T
+
+44. 
+
+    a) 3 m/s
+    b) 2,1 m/s
+    c) 9,8 m/s
+
+45. 
+
+    a) 15
+
+46. 
+
+    a) 12 / 25 = 0,48 m/s²
+    b) 0 = 4 m/s; 20 = 13,6 m/s
+    c) 4 * 25 + (16 - 4) * 25 * 0,5 = 250 m
