@@ -162,4 +162,37 @@ tw = 0,5 * c * pA * v
     a) De lijn is niet recht, waardoor je kunt concluderen dat het geen eenparig versnelde beweging is.
     b) Steeds kleiner omdat de lijn minder stijl gaat.
     c) 0,5 m/s²
-    d) a(0,0) 4 m/s²; a(4,0)
+
+51. 
+
+    a) (Vbegin + Veind) / 2
+    b) Vgem * t
+
+52. 
+
+    a) delta V / delta T
+    b) de oppervlakte in het driehoek uitrekenen
+
+53. 
+
+    a) (5 * 1000) / 180 = 27,778 = ~28 m/s²
+    b) 2500 * 180 = 450000 m = 450 km
+
+54. 
+
+    a) 10,8 / 6,2 = 1,7419354839 = ~ 1,74 m/s²
+    b) 33 m
+    c) 12,4 s = 6,2 + ((100 - 33) / 10,8)
+
+55. 
+
+    a) 6,4 m
+    b) 10 m
+    c) 4 m
+
+56. 
+
+    a) 20,5
+    b) 5 mm
+    c) 10,25 cm
+    d) 0,82 / 0,4 = 2,05 m/s²
