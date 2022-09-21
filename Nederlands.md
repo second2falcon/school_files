@@ -34,12 +34,15 @@ Signaalwoorden die een standpunt aangeven:
 - Daarom -> A, daarom S.
 - Dan ook -> A, dan ook S.
 ## Argumentatiestructuren
+(insert scheem from page 105 and/or from mail)
+- Aanvaardbaarheid van feitelijke en waarderende argumenten
 - Enkelvoudige argumentatie: Een mening wordt maar door één argument ondersteunt.
-- Nevenschikkende argumentatie: Een mening wordt door meerdere, verschillende argumenten ondersteunt.
+- Nevenschikkende argumentatie: Een mening wordt door meerdere, verschillende argumenten ondersteunt. (een standpunt + 1 argument)
 - Onafhankelijke nevenschikkende argumentatie: Een mening wordt door meerdere onafhanklijke argumenten ondersteunt.
-- Afhankleijke nevenschikkende argumentatie: Een mening wordt door meerdere argumenten ondersteunt, maar de argumenten kun je niet los zetten, die zijn dus afhankelijk van elkaar.
-- Onderschikkende argumentatie: Een mening wordt door een argument ondersteunt, welke door een subargument wordt ondersteunt, welke door een sub-subargument kan worden ondersteunt. Dit kan verder zo door gaan.
-- Verzwegen argumenten: De spreker gaat ervan uit dat de luisteraar dezelfde argumenten heeft.
+- Afhankleijke nevenschikkende argumentatie: Een mening wordt door meerdere argumenten ondersteunt, maar de argumenten kun je niet los zetten, die zijn dus afhankelijk van elkaar. 
+- Onderschikkende argumentatie: Een mening wordt door een argument ondersteunt, welke door een subargument wordt ondersteunt, welke door een sub-subargument kan worden ondersteunt. Dit kan verder zo door gaan. (argument + subargument(en))
+- Verzwegen argumenten: De spreker gaat ervan uit dat de luisteraar dezelfde argumenten heeft. (Als... dan...- uitspraken) (vb Die broek is lelijk (standpunt), want hij is blaauw (argument), verzwegen argument hier is: Als iets blaauw is, dan is het lelijk)
+
 --- 
 § ?: ?
 o1: Zender, ontvanger en boodschap </br>
@@ -190,3 +193,44 @@ o17:
 o18: 
 
     Ik denk dat de meningsverschillen worden opgelost, zodat zoveel mogelijk mensen er blij mee gaan zijn, anders zou er eigenlijk altijd 1 persoon/ 1 parij iets bepalen, en dat zou niet democratisch zijn.
+
+---
+§ 20 Argumentatiestructuren
+o1:
+
+    Iemand gaat tegen je argumenten in, terwijl wat jij zegt wel klopt (feitelijk gezien)
+
+o2:
+
+    
+
+o3:
+
+| Zin | feitelijke uitspraak | waarderende uitspraak | kritiek |
+| --- | --- | --- | --- |
+| a | x |  | Dat klopt niet, de luchtvaart is nog erger. |
+| b | x |  | Dat is correct |
+| c |  | x | Dat is misschien van toepassing bij sommige mensen, maar niet bij iedereen. |
+| d |  | x | Dat klopt |
+| e | x |  | Dit werkt waarschijnlijk voor de meesten inderdaad beter, maar niet voor iedereen. |
+| f |  | x | Vind jij dat echt zo? Ik namelijk niet. |
+| g | x |  | Je zegt het al correct, de meeste, maar niet iedere. |
+| h |  | x |  |
+
+o4:
+
+    Omdat de kans dat andere mensen er verschillende meningen over hebben heel groot is aangezien er geen feit is en de meningen dus kunnen verschillen.
+
+o5:
+
+    Nevenschikkende-, onderschikkend- en enkelvoudige argumenten
+
+o6:
+
+| Zin | argumentatiestructuur | standpunt | argument(en) | verband |
+| --- | --- | --- | --- | --- |
+| a | Onderschikkend | Het is belangrijk dat de Kijkwijzer verplicht is | want niet alle films zijn geschikt voor kinderen omdat kinderen het onderscheid tussen echt en fictie nog niet kunnen maken |  |
+| b |  |  |  |  |
+| c |  |  |  |  |
+| d |  |  |  |  |
+| e |  |  |  |  |
