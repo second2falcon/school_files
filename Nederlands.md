@@ -230,7 +230,15 @@ o6:
 | Zin | argumentatiestructuur | standpunt | argument(en) | verband |
 | --- | --- | --- | --- | --- |
 | a | Onderschikkend | Het is belangrijk dat de Kijkwijzer verplicht is | want niet alle films zijn geschikt voor kinderen omdat kinderen het onderscheid tussen echt en fictie nog niet kunnen maken |  |
-| b |  |  |  |  |
-| c |  |  |  |  |
-| d |  |  |  |  |
-| e |  |  |  |  |
+| b | enkelvoudig | Ik heb echt niks met haar | ik val op grappige, kleine vourwen en zij is groot en altijd bloedserieus |  |
+| c | onafhankelijk nevenschikkend | Het is onmogelijk dat je mij in het Texas Steak House hebt gezien | ik ben sinds vorig jaar vegetarïer en ik was toen met de camper op vakantie in Italië |  |
+| d | onderschikkend | Ik ga niet op kanopolo | want mijn zus zit daarbij en ik wil niet bij dezelfde vereniging als mijn zus |  |
+| e | enkelvoudig | Honden zijn leuker dan katten | want honden lijken in hun gedrag net mensen |  |
+
+o7:
+
+    A, aangezien het geld toch niet naar de bewoners van die buurt gaat, maar naar de gemeente.
+
+o8:
+
+    Als je boven de partijen staat, dan  ben je een goede minister-president.
