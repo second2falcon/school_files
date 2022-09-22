@@ -195,4 +195,34 @@ tw = 0,5 * c * pA * v
     a) 20,5
     b) 5 mm
     c) 10,25 cm
-    d) 0,82 / 0,4 = 2,05 m/s²
+    d) 0,82 / 0,4 = 2,05 m/s² 
+
+66. 
+
+    a) Een vrijve val is het moment wanneer een object valt zonder dat er krachten (behalve de aardaantrekkingskracht) op werken.
+    b) s = vgem * t & g = delta V / delta T
+    c) Het object wordt sloomer.
+
+67. 
+
+    8 / 9,81 = 0,8154943935 = ~ 0,815; 8 / 2 = 4; 4 * 0,815 = 3,26 m
+
+68. 
+
+    a) 10 / 2,3 * 2 / 2,3 = 3,7807183365 = ~ 3,8 m/s²
+    b) Mars
+
+69. 
+
+    a) 30 / 2,47 * 2 = 24,2914979757 m/s;
+    c) 0,5 s: 1,2293268207 m = ~ 1,23 m; 1 s: 4,9173072826 m = ~ 4,91 m; 1,5 s: 11,0639413858 m = ~ 11,1 m; 2 s: 19,6692291302 m = ~ 19,7 m
+
+70. 
+
+    a) Auto1: – 3,7 m/s²; Auto2: - 1,1 m/s²
+    b) 67 m; 55,6 m
+    c) 5,6 s
+    d) 93 m
+
+71. 
+
