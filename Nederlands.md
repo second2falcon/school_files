@@ -241,4 +241,21 @@ o7:
 
 o8:
 
-    Als je boven de partijen staat, dan  ben je een goede minister-president.
+    a) Als je boven de partijen staat, dan  ben je een goede minister-president.
+
+o8: 
+
+    *Zou mooi zijn als ik de video had kunnen vinden* 
+
+o9: 
+
+    -
+
+o10: 
+
+    Dat geweld in de meeste gevallen niet de oplossing is, weet iedereen (neem ik aan). Dit betekent dus dat je in de meeste gevallen door een gesprek of een andere vorm van contact (dus geen contact met handen, vuisten, voeten, wapens of dergelijke) het probleem kunt oplossen. Kijk naar de politiek. Daar gaan ze elkaar ook niet slaan en alsnog komen ze bij (bijna) alle problemen uit. Heelaas als die problemen niet lokaal zijn (dus niet binnen het land blijven), wordt er heelaas wel vaker eens geweld gebruikt, maar dat zorgt dan alsnog niet ervoor dat het probleem of de conflict zo is opgelost. Meestal geeft een kant zich aan het einde over, omdat er te veel gewonden/doden zijn en die kant zich dus soms ook niet meer kan verdedigen. Je denkt soms misschien wel dat je probleem sneller is opgelost met geweld, maar als je naar oorlogen kijkt, dan duren die meestal heel lang, en lijden soms zelfs veel later naar een nieuwe oorlog.
+    Kijk naar de "oorlog" (het was meer een conflict) tussen de Scilly-eilanden en Nederland. Die duurde (volgens) historici ongeveer 335 jaar lang.
+
+o11:
+
+    Inleiding
