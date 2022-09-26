@@ -41,4 +41,4 @@ Akte = deel van een (toneel)stuk </br>
 - Krista lijkt een aanwijzing te hebben, maar dat blijkt een misverstand (p. 81)
 - Merlijn en Krista ontdekken een mogelijke dader op de foto's (p. 87)
 
-p. 73
+p. 86

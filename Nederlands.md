@@ -209,13 +209,13 @@ o3:
 | Zin | feitelijke uitspraak | waarderende uitspraak | kritiek |
 | --- | --- | --- | --- |
 | a | x |  | Dat klopt niet, de luchtvaart is nog erger. |
-| b | x |  | Dat is correct |
-| c |  | x | Dat is misschien van toepassing bij sommige mensen, maar niet bij iedereen. |
+| b |  | x | Dat is correct |
+| c | x |  | Dat is misschien van toepassing bij sommige mensen, maar niet bij iedereen. |
 | d |  | x | Dat klopt |
 | e | x |  | Dit werkt waarschijnlijk voor de meesten inderdaad beter, maar niet voor iedereen. |
 | f |  | x | Vind jij dat echt zo? Ik namelijk niet. |
 | g | x |  | Je zegt het al correct, de meeste, maar niet iedere. |
-| h |  | x |  |
+| h | x |  |  |
 
 o4:
 
@@ -230,9 +230,9 @@ o6:
 | Zin | argumentatiestructuur | standpunt | argument(en) | verband |
 | --- | --- | --- | --- | --- |
 | a | Onderschikkend | Het is belangrijk dat de Kijkwijzer verplicht is | want niet alle films zijn geschikt voor kinderen omdat kinderen het onderscheid tussen echt en fictie nog niet kunnen maken |  |
-| b | enkelvoudig | Ik heb echt niks met haar | ik val op grappige, kleine vourwen en zij is groot en altijd bloedserieus |  |
+| b | afhankelijk nevenschikkend | Ik heb echt niks met haar | ik val op grappige, kleine vourwen en zij is groot en altijd bloedserieus |  |
 | c | onafhankelijk nevenschikkend | Het is onmogelijk dat je mij in het Texas Steak House hebt gezien | ik ben sinds vorig jaar vegetarïer en ik was toen met de camper op vakantie in Italië |  |
-| d | onderschikkend | Ik ga niet op kanopolo | want mijn zus zit daarbij en ik wil niet bij dezelfde vereniging als mijn zus |  |
+| d | afhankelijk nevenschikkend | Ik ga niet op kanopolo | want mijn zus zit daarbij en ik wil niet bij dezelfde vereniging als mijn zus |  |
 | e | enkelvoudig | Honden zijn leuker dan katten | want honden lijken in hun gedrag net mensen |  |
 
 o7:
@@ -259,3 +259,21 @@ o10:
 o11:
 
     Inleiding
+
+o14: 
+
+    Standpunt: Ouders moeten hun negatieve houding over gamen aanpassen
+
+o15: 
+
+    5 & 7 </br>
+    De kans op gameverslaving is heel erg klein (ongeveer 2% van alle kinderen hebben het) en gamen kan ook sommige vaardigheden verbeteren, bijvoorbeeld taalvaarisheden en samenwerking.
+
+o16:
+
+    Feitelijk
+
+o17:
+
+    Is dat vastgesteld door een onderzoek of wordt dat gewoon gezegt?
+    Zijn daardoor de cijfers voor taalvaardigheid omhoog gegaan?
