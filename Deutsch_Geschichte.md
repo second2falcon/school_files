@@ -29,3 +29,26 @@
 - Schrijvers van de Klassik zijn teleurgesteld over het bloedvergieten van de Franse Revolutie en komen tot de conclussie dat de maatschappij blijkbaar niet te veranderen. Het individu moet door kunst (Bildung) worden gevormd.
 
 ## Romantik (1795 - 1830)
+- Romantici willen door middel van kunst de onrust in de maatschappij door industralisering en verstedelijking ontvluchten. Ze schrijven daarvoor thema's zoals: fantasie, droom, gevoel, reizen, sprookjes en het mystieke.
+- De schrijvers verlangen (Sehnsucht haben) naar een andere wereld, zonder oorlog en zo, maar gewoon met natuur.
+- Voorbeelden voor schrijvers van de Romantik vinden hun voorbeelden in de middeleeuwen inplaats van de Klassieke Oudheud. Volgens Romantici is de middeleeuwse maatschappij bestuurd door eenheid en duidelijke regels.
+
+## Biedermeier und Vormärz/Junges Deutschland (1830 - 1850)
+- Naar de val van Napoleon komt de politieke orde van voor 1789 door een besluit wat is genomen op het Wiener Kongress in 1815. Dit tot grote teuleurstelling van de burgers.
+- Twee stromingen in de literatuur:
+    - Biedermeier: Door alle maatschappelijke onrust willen schrijvers van deze stroming niets liever dan zich terugtrekken in de huiselijke kring. A-polotiek, verlangen naar rust en vrede.
+    - Vormärz/Junges Deutschland: Jonge schrijvers willen door middel van literatuur een politieke omwenteling bereieken: meer vrijheid en democratie. In maart 1848 vindt in Duitsland een mislukte revolutie plaats.
+
+## Realismus (1850 - 1895)
+- Poetischer Realismus:
+    - Literatuur gaat nu het leven van de burgers nauwkeurig bschrijven, maar de 'lelijke plekken' mooi weergeven dan ze in werkelijkheid zijn.
+
+## Naturalismus (1880 - 1900)
+- Schrijvers van het Naturalisme:
+    - Deze schrijvers reageren op politieke en sociale verhoudingen in de samenleving en beschrijven gedetailleerd de omstandigheden waarin (arme) mensen verkeren. Armoede, ziekte, geweld, misdaad, prostitutie en waanzin worden realistisch beschreven en de hoofdpersonen in die verhalen spreken hun eigen taal of dialect.
+
+## Jahrhundertwende und Moderne (1900 - 1930)
+- Alle drie literatuur stromingen (Impressionismus, Expressionismus, Dadaismus) streven het zelfde na, het afstand nemen van het naturalisme. Vooral bij de expressionisten zoeken naar nieuwe uitdrukkingsvormen in de literatuur.
+
+## Nationalsozialismus Weltkrieg und Zweiter Weltkrieg (1930 - 1945)
+- 
