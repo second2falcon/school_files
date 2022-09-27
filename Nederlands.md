@@ -266,7 +266,7 @@ o14:
 
 o15: 
 
-    5 & 7 </br>
+    5 & 7 
     De kans op gameverslaving is heel erg klein (ongeveer 2% van alle kinderen hebben het) en gamen kan ook sommige vaardigheden verbeteren, bijvoorbeeld taalvaarisheden en samenwerking.
 
 o16:
@@ -277,3 +277,13 @@ o17:
 
     Is dat vastgesteld door een onderzoek of wordt dat gewoon gezegt?
     Zijn daardoor de cijfers voor taalvaardigheid omhoog gegaan?
+
+o18: 
+
+    a) Dat het aantal jongeren met een lichtere game verslaving heel hoog zou kunnen zijn.
+    b) 
+    c) c
+
+o19: 
+
+    D
