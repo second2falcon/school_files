@@ -224,5 +224,55 @@ tw = 0,5 * c * pA * v
     c) 5,6 s
     d) 93 m
 
-71. 
 
+Hfdstk 3
+
+1. 
+
+    a) Elastische vervorming gaat/kan weer terug vormen. Bij een plastische vervorming gebeurt dit niet.
+    b)  Vector: Snelheid, versnelling en verplaatsing
+        Scalair: Temperatuur, snelheid en massa
+    c) Zwaartekracht is de kracht die massa ergens naar toe trekt. Massa is hierbij gewoon het gewicht wat de snelheid daarvan bepaald.
+
+2. 
+
+    a) Zwaartekracht, veerkracht, normaalkracht en spankracht
+    b) Zwaartekracht, schuifwrijvingskracht, normaalkracht en luchtweerstandskracht
+    c) Zwaartekracht, rolweerstandskracht, normaalkracht en luchtweerstandskracht
+    d) Zwaartekracht, rolweerstandskracht, spankracht, normaalkracht en luchtweerstandskracht
+    e) Zwaartekracht, spankracht, normaalkracht en veerkracht
+
+3. 
+
+    a) 50 * 2,3 = 115 N
+    b) 24 / 1,2 = 20 N/cm
+
+4. 
+
+    (150 / 1000) * 9,81 / 0,1 = 14,715 cm = ~ 14,7 cm = 0,15 m
+
+5. 
+
+    a) 110 * 9,81 = 1079,1 N
+    b) 110 * 1,62 = 178,2 N
+    c) Even groot als de zwaarte kracht aangezien hij anders gekke rakket man zou worden, of door de oppervlakte van de maan zou vallen.
+    
+6. 
+
+    2,3*1000 / 3,7 = 621,6216216216 kg = ~ 621,6 kg
+
+8. 
+
+    a) Je maakt een paralellogram met pijlen welke gescaleert zijn door de kracht die er op staat.
+    b) De ene kracht min (of plus) de andere kracht
+    c)  – sin α = overstaande zijde/schuine zijde
+        – cos α = aanliggende zijde/schuine zijde
+        – tan α = overstaande zijde/aanliggende zijde
+
+9. 
+
+    Pythagoras en parallellogrammethode
+
+10. 
+
+    a) F1: 2,7 * 150 = 405 N; F2: 2,0 * 150 = 300 N
