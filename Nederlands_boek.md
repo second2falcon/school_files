@@ -26,7 +26,7 @@ Akte = deel van een (toneel)stuk </br>
 ## Aantekening over personages </br>
 | Persoon | Gegevens |
 | --- | --- |
-| ik persoon (Merlijn) | net verlaten door zijn vriendin, zit thuis tussen spullen van zijn vriending, begint te vrezen dat ze voor altijd weg is, onderweg naar Florence, had een MRI-scan en een operatie waar elektronen in zijn brein werden geplaatst  |
+| ik persoon (Merlijn J. Kaiser) | net verlaten door zijn vriendin, zit thuis tussen spullen van zijn vriending, begint te vrezen dat ze voor altijd weg is, onderweg naar Florence, had een MRI-scan en een operatie waar elektronen in zijn brein werden geplaatst  |
 | zij (Caro) | een maand weg,  |
 | Walter | zanger(?) |
 
@@ -41,4 +41,4 @@ Akte = deel van een (toneel)stuk </br>
 - Krista lijkt een aanwijzing te hebben, maar dat blijkt een misverstand (p. 81)
 - Merlijn en Krista ontdekken een mogelijke dader op de foto's (p. 87)
 
-p. 86
+p. 104
