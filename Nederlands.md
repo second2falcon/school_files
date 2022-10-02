@@ -1,5 +1,7 @@
- # **Communicatie §1 Belangrijke begrippen**
+# **Communicatie §1 Belangrijke begrippen**
+
 ## (theorieboek blz. 52 t/m 55)
+
 - Communicatie: verbinding, informatie-uitwisseling, mededeling
 - Zender (persoon die boodschap verstuurd), boodschap (een tekst die informatie beïnhoudt), ontvanger / publiek (persoon of groep mensen die de boodschap ontvangt)
 - Referentiekader (hoe mensen dingen opvatten, een soort filter)
@@ -11,7 +13,9 @@
 - Context (de context kan helpen zonder woorden je boodschap nog verder uit te leggen)
 - Iteratief (herhalend) proces
 - Ruis (miscommunicatie, verschillende soorten ruis, bijvoorbeeld fysieke ruis, psychologische ruis, innterlijke ruis en semantische ruis; fysieke ruis: storingen van buiten die voor miscommunicatie zorgen; psychologische ruis en/of innerlijke ruis: een vorm van ruis waarbij in je hoofd er dingen zijn die ervoor zorgen dat de boodschap niet correct overkomt; semantische ruis: een vorm van ruis waarbij mensen elkaar niet verstaan omdat ze niet de zelfde taal spreken;)
-## Overtuigen:
+
+## Overtuigen
+
 - Beïnvloeden: zes manieren om invloed uit te oefenen op anderen
 - Argumenteren
 - Standpunt: mening
@@ -33,17 +37,20 @@ Signaalwoorden die een standpunt aangeven:
 
 - Daarom -> A, daarom S.
 - Dan ook -> A, dan ook S.
+
 ## Argumentatiestructuren
-(insert scheem from page 105 and/or from mail)
+
+(insert scheme from page 105 and/or from mail)
+
 - Aanvaardbaarheid van feitelijke en waarderende argumenten
 - Enkelvoudige argumentatie: Een mening wordt maar door één argument ondersteunt.
 - Nevenschikkende argumentatie: Een mening wordt door meerdere, verschillende argumenten ondersteunt. (een standpunt + 1 argument)
 - Onafhankelijke nevenschikkende argumentatie: Een mening wordt door meerdere onafhanklijke argumenten ondersteunt.
-- Afhankleijke nevenschikkende argumentatie: Een mening wordt door meerdere argumenten ondersteunt, maar de argumenten kun je niet los zetten, die zijn dus afhankelijk van elkaar. 
+- Afhankleijke nevenschikkende argumentatie: Een mening wordt door meerdere argumenten ondersteunt, maar de argumenten kun je niet los zetten, die zijn dus afhankelijk van elkaar.
 - Onderschikkende argumentatie: Een mening wordt door een argument ondersteunt, welke door een subargument wordt ondersteunt, welke door een sub-subargument kan worden ondersteunt. Dit kan verder zo door gaan. (argument + subargument(en))
 - Verzwegen argumenten: De spreker gaat ervan uit dat de luisteraar dezelfde argumenten heeft. (Als... dan...- uitspraken) (vb Die broek is lelijk (standpunt), want hij is blaauw (argument), verzwegen argument hier is: Als iets blaauw is, dan is het lelijk)
 
---- 
+---
 § ?: ?
 o1: Zender, ontvanger en boodschap </br>
 
@@ -60,7 +67,7 @@ o5: Soms, omdat een medium een soort van iets is die de boodschap van jouw (de z
 
 o6: Omdat je brein dan al een beter idee heeft, wat het met de informatie die je zo krijgt moet doen.
 
-o7: 
+o7:
 
     a) betogen 
     X: *overtuigen*
@@ -80,7 +87,7 @@ o9:
 
     Omdat er meestal een reactie op komt op wat je zei. Dat kan zijn dat iemand van je weg loopt, het kan ook zijn dat iemand een besprek met jou begint.
 
-o10: 
+o10:
 
     a) Een reward of waardering te krijgen van je ouders.
     b) Je ouders weten niet hoe moeilijk de toetsen etc waren, waardoor ze zouden kunnen denken dat de toetsen makkelijker waren dan ze in echt waren of juist moeilijker. Je kunt je ouders het beste direct zeggen of het jaar juist moeilijk was of niet. Dan komt er geen kans dat dat gebeurt.
@@ -111,11 +118,10 @@ o20:
 
     Uit te leggen wat mensen wel en niet moeten doen als reactie op een actie van een scheidsrechter.
 
-
 ---
 
 §19: Overtuigen
- 
+
 o1:
 
     a) anderen bedreigen, iemand manipuleren, chanteren of geweld uitoefenen
@@ -127,7 +133,7 @@ o2:
 
 o3:
 | Zin | standpunt | argument | signaalwoord |
-| --- | --- | --- | --- | 
+| --- | --- | --- | --- |
 | a | x |  | adviseert |
 | b | x |  | vind |
 | c |  | x | aangezien |
@@ -142,7 +148,7 @@ o5:
 | b | Stop er nou maar mee | Gisteren lukte het je ookal niet |
 | c | Drugs moeten helemaal gelegaliseerd worden | Dan daalt de criminaliteit |
 | d | Het zou zonde zijn van de miljoenen die we in de grond gestopt hebben | Laten we daarom ondanks het verzet tegen de nieuwe luchthaven toch maar doorgaan met de bouw |
-| e | Mij zul je niet op zo'n ding zien | Snelle e-bikes zijn vaker betrokken bij ongelukken | 
+| e | Mij zul je niet op zo'n ding zien | Snelle e-bikes zijn vaker betrokken bij ongelukken |
 | f | Dat de maximumsnelheid op de snelwegen is verlaagd van 130km/u naar 100km/u is goed | het is beter voor de veiligheid, het is beter voor het milieu en voor de reistijd maakt het toch niks uit |
 
 o6:
@@ -170,15 +176,15 @@ o12:
 
     Dat je gewoon geluk hebt al je in een rijke familie bent geboren.
 
-o13: 
+o13:
 
     Door de zin "Nou, dat valt eigenlijk best mee."
 
-o14: 
+o14:
 
     Met gelukt wordt bedoelt om in een rijke familie te worden geboren. Dus als je met die belasting te maken hebt en geluk hebt/had, dan krijg je heel veel geld omdat je in een rijke familie bent geboren.
 
-o15: 
+o15:
 
     Tegenargument
 
@@ -190,7 +196,7 @@ o17:
 
     Het is een tegenstelling tot wat er in het begin werd gezegt over dat die erfbelasting goed is, omdat er nu wordt gezegt dat die juist slecht is omdat de economie daardoor schade kan gaan nemen.
 
-o18: 
+o18:
 
     Ik denk dat de meningsverschillen worden opgelost, zodat zoveel mogelijk mensen er blij mee gaan zijn, anders zou er eigenlijk altijd 1 persoon/ 1 parij iets bepalen, en dat zou niet democratisch zijn.
 
@@ -202,7 +208,7 @@ o1:
 
 o2:
 
-    
+    -
 
 o3:
 
@@ -243,15 +249,15 @@ o8:
 
     a) Als je boven de partijen staat, dan  ben je een goede minister-president.
 
-o8: 
+o8:
 
     *Zou mooi zijn als ik de video had kunnen vinden* 
 
-o9: 
+o9:
 
     -
 
-o10: 
+o10:
 
     Dat geweld in de meeste gevallen niet de oplossing is, weet iedereen (neem ik aan). Dit betekent dus dat je in de meeste gevallen door een gesprek of een andere vorm van contact (dus geen contact met handen, vuisten, voeten, wapens of dergelijke) het probleem kunt oplossen. Kijk naar de politiek. Daar gaan ze elkaar ook niet slaan en alsnog komen ze bij (bijna) alle problemen uit. Heelaas als die problemen niet lokaal zijn (dus niet binnen het land blijven), wordt er heelaas wel vaker eens geweld gebruikt, maar dat zorgt dan alsnog niet ervoor dat het probleem of de conflict zo is opgelost. Meestal geeft een kant zich aan het einde over, omdat er te veel gewonden/doden zijn en die kant zich dus soms ook niet meer kan verdedigen. Je denkt soms misschien wel dat je probleem sneller is opgelost met geweld, maar als je naar oorlogen kijkt, dan duren die meestal heel lang, en lijden soms zelfs veel later naar een nieuwe oorlog.
     Kijk naar de "oorlog" (het was meer een conflict) tussen de Scilly-eilanden en Nederland. Die duurde (volgens) historici ongeveer 335 jaar lang.
@@ -260,11 +266,11 @@ o11:
 
     Inleiding
 
-o14: 
+o14:
 
     Standpunt: Ouders moeten hun negatieve houding over gamen aanpassen
 
-o15: 
+o15:
 
     5 & 7 
     De kans op gameverslaving is heel erg klein (ongeveer 2% van alle kinderen hebben het) en gamen kan ook sommige vaardigheden verbeteren, bijvoorbeeld taalvaarisheden en samenwerking.
@@ -278,12 +284,14 @@ o17:
     Is dat vastgesteld door een onderzoek of wordt dat gewoon gezegt?
     Zijn daardoor de cijfers voor taalvaardigheid omhoog gegaan?
 
-o18: 
+o18:
 
     a) Dat het aantal jongeren met een lichtere game verslaving heel hoog zou kunnen zijn.
     b) 
     c) c
 
-o19: 
+o19:
 
     D
+
+§21 Argumentatieschema's
