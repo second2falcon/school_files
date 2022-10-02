@@ -224,6 +224,7 @@ tw = 0,5 * c * pA * v
     c) 5,6 s
     d) 93 m
 
+---
 
 Hfdstk 3
 
@@ -256,8 +257,8 @@ Hfdstk 3
     a) 110 * 9,81 = 1079,1 N
     b) 110 * 1,62 = 178,2 N
     c) Even groot als de zwaarte kracht aangezien hij anders gekke rakket man zou worden, of door de oppervlakte van de maan zou vallen.
-    
-6. 
+
+6.  
 
     2,3*1000 / 3,7 = 621,6216216216 kg = ~ 621,6 kg
 

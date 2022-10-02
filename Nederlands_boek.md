@@ -1,4 +1,5 @@
 # **!!!Mondeling literatuur over 8 boeken (4 in h4 en 4 in h5) in h5 periode 3!!!**
+
 ---
 ---
 ---
@@ -14,16 +15,19 @@ Opdracht:  </br>
 ### Aandachtspunten:
 - Perspectief: ik persoon
 - Opbouw verhaal: persoon blikt terug op verleden
-- Intertekstualiteit: 
-- Fotografie: 
-- Toneel: 
+- Intertekstualiteit:
+- Fotografie:
+- Toneel:
 - Namen: Magnus, hotel Rival, Cecilia, Merlijn Kaiser
-- Spanning: 
+- Spanning:
 
 Akte = deel van een (toneel)stuk </br>
+
 ---
 ---
+
 ## Aantekening over personages </br>
+
 | Persoon | Gegevens |
 | --- | --- |
 | ik persoon (Merlijn J. Kaiser) | net verlaten door zijn vriendin, zit thuis tussen spullen van zijn vriending, begint te vrezen dat ze voor altijd weg is, onderweg naar Florence, had een MRI-scan en een operatie waar elektronen in zijn brein werden geplaatst  |
@@ -31,6 +35,7 @@ Akte = deel van een (toneel)stuk </br>
 | Walter | zanger(?) |
 
 ### Kamer 302
+
 - Aankomst Stockholm (p. 59)
 - Intertekstualiteit: Nooit meer slapen - W.F. Hermans (p. 60)
 - Start flashback  examenjaar (p. 63)
