@@ -1,23 +1,25 @@
 # §1 Beweging
-## 
+
+##
+
 *Delta* x gedeelt door *delta* t is de gemiddelde snelheid. </br>
 x,t diagram is een diagram van plaats en tijd. Om hiervoor een gemiddelde snelheid te krijgen, doe je ***x***-eind min ***x***-begin gedeelt door ***t***-eind min ***t***-begin. </br>
 Vt = *delta* x gedeelt door *delta* t </br>
 
-tw = 0,5 * c * pA * v
-
+tw = 0,5 *c* pA * v
 
 ---
 ---
-1. 
+
+1.
 
     a) L 
     b) graden celsius 
     c) seconde 
     d) N 
 
-2. 
-    
+2.
+
     a) a 
     b) R 
     c) A 
@@ -27,34 +29,26 @@ tw = 0,5 * c * pA * v
 
     a)
 
-
-
-
-
-
-
-
-
-15. 
+15.
 
     a) 0,1
     b) 1
     c) 145
 
-16. 
+16.
 
     1259200 cm³
 
-17. 
+17.
 
     a) 
     b) Exponentiël
 
-18. 
+18.
 
     -
 
-26. 
+26.
 
     a) 37,5             km/u
     b) 72000            m/s
@@ -62,26 +56,26 @@ tw = 0,5 * c * pA * v
     d) 17,8571428571    km/u
     e) 5,4285714286     uur
 
-27. 
+27.
 
     a) 10ˆ16/(2,99792458*10ˆ8) = 33356409,52 s
     
        33356409,52 s -> 9.265,6693111111 uur
     b) 
 
-32. 
+32.
 
     a) Gemiddelde telt voor een periode terwijl moment maar voor een moment (dus bijvoorbeeld een second of een minuut) telt
     b) v = delta(plaats) gedeelt door delta(tijd)
 
-33. 
+33.
 
     a) 1,9/8*10/3,6 = ~0,66 m/s
     b) 90/2,5/3,6 = 10 m/s
     c) 21/1,7/3,6 = ~3,43 m/s
     d) (1,9+90+21)/(0,8+2,5+1,7)/3,6 = ~6,27 m/s
 
-34. 
+34.
 
     a) Momentane, omdat die weer gaat dalen.
     b) Constant (in een vacuum), omdat die in sommige omstandigheden verschillend gaat.
@@ -96,30 +90,30 @@ tw = 0,5 * c * pA * v
     c) -1,4 m/s
     d) -2,7 m/s
 
-36. 
+36.
 
     (80+50+12,5)/(1+0,5+0,25) = 81,4285714286 km/h = ~81 km/h
 
-37. 
+37.
 
     a) 14 / 4 = 3,5 m/s
     b) (16 - 14) / (8  - 4) = 0,5 m/s
     c) (7,5 - 16) / (12 - 8) = -2,125 m/s = ~ -2,1 m/s
     d) (7,5 - 0) / (12 - 0) = 0,625 m/s = ~ 0,6 m/s
 
-38. 
+38.
 
     (4,2 + 3,8)/2 = 4. Die 12 secondes van 12 km/h maken zo een klein verschil dat het niet uitmaakt. Het zou een
     snelheids verschil van ongeveer 0,0 nogiets km/h zijn.
 
-42. 
+42.
 
     a) Versnelling is de hoeveelheid met die je sneller wordt (dus bijvoorbeeld van 10 km/h naar 25 km/h). 
     b) delta V (snelheid) / delta T (tijd) = versnelling
     c) m/s²
     d) Een versnelling die met dezelfde versnelling.
 
-43. 
+43.
 
     a) De lijn start ergens boven nul
     b) Begint bij de 0
@@ -127,97 +121,97 @@ tw = 0,5 * c * pA * v
     d) Een rechte lijn
     e) delta V = a * delta T
 
-44. 
+44.
 
     a) 3 m/s
     b) 2,1 m/s
     c) 9,8 m/s
 
-45. 
+45.
 
     a) 15
 
-46. 
+46.
 
     a) 12 / 25 = 0,48 m/s²
     b) 0 = 4 m/s; 20 = 13,6 m/s
     c) 4 * 25 + (16 - 4) * 25 * 0,5 = 250 m
 
-47. 
+47.
 
     6000 / 26 = 230,7692307692 = ~231 secondes
 
-48. 
+48.
 
     a) De lijn is recht
     b) 9,8 * 10 = 98 m/s
     c) 103 m/s
 
-49. 
+49.
 
     delta T is extreem groot oftewel de raket vliegt gewoon heel erg lang
 
-50. 
+50.
 
     a) De lijn is niet recht, waardoor je kunt concluderen dat het geen eenparig versnelde beweging is.
     b) Steeds kleiner omdat de lijn minder stijl gaat.
     c) 0,5 m/s²
 
-51. 
+51.
 
     a) (Vbegin + Veind) / 2
     b) Vgem * t
 
-52. 
+52.
 
     a) delta V / delta T
     b) de oppervlakte in het driehoek uitrekenen
 
-53. 
+53.
 
     a) (5 * 1000) / 180 = 27,778 = ~28 m/s²
     b) 2500 * 180 = 450000 m = 450 km
 
-54. 
+54.
 
     a) 10,8 / 6,2 = 1,7419354839 = ~ 1,74 m/s²
     b) 33 m
     c) 12,4 s = 6,2 + ((100 - 33) / 10,8)
 
-55. 
+55.
 
     a) 6,4 m
     b) 10 m
     c) 4 m
 
-56. 
+56.
 
     a) 20,5
     b) 5 mm
     c) 10,25 cm
     d) 0,82 / 0,4 = 2,05 m/s² 
 
-66. 
+66.
 
     a) Een vrijve val is het moment wanneer een object valt zonder dat er krachten (behalve de aardaantrekkingskracht) op werken.
     b) s = vgem * t & g = delta V / delta T
     c) Het object wordt sloomer.
 
-67. 
+67.
 
     8 / 9,81 = 0,8154943935 = ~ 0,815; 8 / 2 = 4; 4 * 0,815 = 3,26 m
 
-68. 
+68.
 
     a) 10 / 2,3 * 2 / 2,3 = 3,7807183365 = ~ 3,8 m/s²
     b) Mars
 
-69. 
+69.
 
     a) 30 / 2,47 * 2 = 24,2914979757 m/s;
     c) 0,5 s: 1,2293268207 m = ~ 1,23 m; 1 s: 4,9173072826 m = ~ 4,91 m; 1,5 s: 11,0639413858 m = ~ 11,1 m; 2 s: 19,6692291302 m = ~ 19,7 m
 
-70. 
+70.
 
     a) Auto1: – 3,7 m/s²; Auto2: - 1,1 m/s²
     b) 67 m; 55,6 m
@@ -228,14 +222,14 @@ tw = 0,5 * c * pA * v
 
 Hfdstk 3
 
-1. 
+1.
 
     a) Elastische vervorming gaat/kan weer terug vormen. Bij een plastische vervorming gebeurt dit niet.
     b)  Vector: Snelheid, versnelling en verplaatsing
         Scalair: Temperatuur, snelheid en massa
     c) Zwaartekracht is de kracht die massa ergens naar toe trekt. Massa is hierbij gewoon het gewicht wat de snelheid daarvan bepaald.
 
-2. 
+2.
 
     a) Zwaartekracht, veerkracht, normaalkracht en spankracht
     b) Zwaartekracht, schuifwrijvingskracht, normaalkracht en luchtweerstandskracht
@@ -243,16 +237,16 @@ Hfdstk 3
     d) Zwaartekracht, rolweerstandskracht, spankracht, normaalkracht en luchtweerstandskracht
     e) Zwaartekracht, spankracht, normaalkracht en veerkracht
 
-3. 
+3.
 
     a) 50 * 2,3 = 115 N
     b) 24 / 1,2 = 20 N/cm
 
-4. 
+4.
 
     (150 / 1000) * 9,81 / 0,1 = 14,715 cm = ~ 14,7 cm = 0,15 m
 
-5. 
+5.
 
     a) 110 * 9,81 = 1079,1 N
     b) 110 * 1,62 = 178,2 N
@@ -262,7 +256,7 @@ Hfdstk 3
 
     2,3*1000 / 3,7 = 621,6216216216 kg = ~ 621,6 kg
 
-8. 
+8.
 
     a) Je maakt een paralellogram met pijlen welke gescaleert zijn door de kracht die er op staat.
     b) De ene kracht min (of plus) de andere kracht
@@ -270,10 +264,10 @@ Hfdstk 3
         – cos α = aanliggende zijde/schuine zijde
         – tan α = overstaande zijde/aanliggende zijde
 
-9. 
+9.
 
     Pythagoras en parallellogrammethode
 
-10. 
+10.
 
     a) F1: 2,7 * 150 = 405 N; F2: 2,0 * 150 = 300 N

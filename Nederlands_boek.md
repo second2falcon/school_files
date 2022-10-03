@@ -12,7 +12,8 @@ Opdracht:  </br>
 | Motto | Soms ben ik in mijn eigen huis. Dan zit ik thuis, op mijn bank en denk ik: ik wil naar huis. (Erwin Olaf, fotograaf) |
 | Inhoud | 3 Akte's |
 
-### Aandachtspunten:
+## Aandachtspunten
+
 - Perspectief: ik persoon
 - Opbouw verhaal: persoon blikt terug op verleden
 - Intertekstualiteit:
