@@ -137,81 +137,81 @@ tw = 0,5 *c* pA * v
     b) 0 = 4 m/s; 20 = 13,6 m/s
     c) 4 * 25 + (16 - 4) * 25 * 0,5 = 250 m
 
-47.
+47. 
 
     6000 / 26 = 230,7692307692 = ~231 secondes
 
-48.
+48. 
 
     a) De lijn is recht
     b) 9,8 * 10 = 98 m/s
     c) 103 m/s
 
-49.
+49. 
 
     delta T is extreem groot oftewel de raket vliegt gewoon heel erg lang
 
-50.
+50. 
 
     a) De lijn is niet recht, waardoor je kunt concluderen dat het geen eenparig versnelde beweging is.
     b) Steeds kleiner omdat de lijn minder stijl gaat.
     c) 0,5 m/s²
 
-51.
+51. 
 
     a) (Vbegin + Veind) / 2
     b) Vgem * t
 
-52.
+52. 
 
     a) delta V / delta T
     b) de oppervlakte in het driehoek uitrekenen
 
-53.
+53. 
 
     a) (5 * 1000) / 180 = 27,778 = ~28 m/s²
     b) 2500 * 180 = 450000 m = 450 km
 
-54.
+54. 
 
     a) 10,8 / 6,2 = 1,7419354839 = ~ 1,74 m/s²
     b) 33 m
     c) 12,4 s = 6,2 + ((100 - 33) / 10,8)
 
-55.
+55. 
 
     a) 6,4 m
     b) 10 m
     c) 4 m
 
-56.
+56. 
 
     a) 20,5
     b) 5 mm
     c) 10,25 cm
     d) 0,82 / 0,4 = 2,05 m/s² 
 
-66.
+66. 
 
     a) Een vrijve val is het moment wanneer een object valt zonder dat er krachten (behalve de aardaantrekkingskracht) op werken.
     b) s = vgem * t & g = delta V / delta T
     c) Het object wordt sloomer.
 
-67.
+67. 
 
     8 / 9,81 = 0,8154943935 = ~ 0,815; 8 / 2 = 4; 4 * 0,815 = 3,26 m
 
-68.
+68. 
 
     a) 10 / 2,3 * 2 / 2,3 = 3,7807183365 = ~ 3,8 m/s²
     b) Mars
 
-69.
+69. 
 
     a) 30 / 2,47 * 2 = 24,2914979757 m/s;
     c) 0,5 s: 1,2293268207 m = ~ 1,23 m; 1 s: 4,9173072826 m = ~ 4,91 m; 1,5 s: 11,0639413858 m = ~ 11,1 m; 2 s: 19,6692291302 m = ~ 19,7 m
 
-70.
+70. 
 
     a) Auto1: – 3,7 m/s²; Auto2: - 1,1 m/s²
     b) 67 m; 55,6 m
@@ -222,14 +222,14 @@ tw = 0,5 *c* pA * v
 
 Hfdstk 3
 
-1.
+1. 
 
     a) Elastische vervorming gaat/kan weer terug vormen. Bij een plastische vervorming gebeurt dit niet.
     b)  Vector: Snelheid, versnelling en verplaatsing
         Scalair: Temperatuur, snelheid en massa
     c) Zwaartekracht is de kracht die massa ergens naar toe trekt. Massa is hierbij gewoon het gewicht wat de snelheid daarvan bepaald.
 
-2.
+2. 
 
     a) Zwaartekracht, veerkracht, normaalkracht en spankracht
     b) Zwaartekracht, schuifwrijvingskracht, normaalkracht en luchtweerstandskracht
@@ -237,16 +237,16 @@ Hfdstk 3
     d) Zwaartekracht, rolweerstandskracht, spankracht, normaalkracht en luchtweerstandskracht
     e) Zwaartekracht, spankracht, normaalkracht en veerkracht
 
-3.
+3. 
 
     a) 50 * 2,3 = 115 N
     b) 24 / 1,2 = 20 N/cm
 
-4.
+4. 
 
     (150 / 1000) * 9,81 / 0,1 = 14,715 cm = ~ 14,7 cm = 0,15 m
 
-5.
+5. 
 
     a) 110 * 9,81 = 1079,1 N
     b) 110 * 1,62 = 178,2 N
@@ -256,7 +256,7 @@ Hfdstk 3
 
     2,3*1000 / 3,7 = 621,6216216216 kg = ~ 621,6 kg
 
-8.
+8. 
 
     a) Je maakt een paralellogram met pijlen welke gescaleert zijn door de kracht die er op staat.
     b) De ene kracht min (of plus) de andere kracht
@@ -264,10 +264,17 @@ Hfdstk 3
         – cos α = aanliggende zijde/schuine zijde
         – tan α = overstaande zijde/aanliggende zijde
 
-9.
+9. 
 
     Pythagoras en parallellogrammethode
 
-10.
+10. 
 
     a) F1: 2,7 * 150 = 405 N; F2: 2,0 * 150 = 300 N
+    b) 504N = √405²+300² = 5,0*10²N
+    c) tan-1(300/405) = 36,2 graden
+    d) Meetverschillen
+
+11. 
+
+    c) Conclusie: het maakt niet uit met welke twee krachten je de constructie begint.
