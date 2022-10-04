@@ -50,6 +50,19 @@ Signaalwoorden die een standpunt aangeven:
 - Onderschikkende argumentatie: Een mening wordt door een argument ondersteunt, welke door een subargument wordt ondersteunt, welke door een sub-subargument kan worden ondersteunt. Dit kan verder zo door gaan. (argument + subargument(en))
 - Verzwegen argumenten: De spreker gaat ervan uit dat de luisteraar dezelfde argumenten heeft. (Als... dan...- uitspraken) (vb Die broek is lelijk (standpunt), want hij is blaauw (argument), verzwegen argument hier is: Als iets blaauw is, dan is het lelijk)
 
+## Argumentatieschema's: theorie
+
+- Lees bladzijde 106/107
+- Argumentatieschema: verband tussen standpunt en argument
+- Zes types:
+    1. Kenmerk / eigenschap
+    2. Voorbeelden
+    3. Voor- en nadelen
+    4. Vergelijking
+    5. Oorzaak en gevolg
+    6. Autoriteut
+- Kritische reacties en aanvaardbaarheid
+
 ---
 § ?: ?
 o1: Zender, ontvanger en boodschap </br>
@@ -201,7 +214,8 @@ o18:
     Ik denk dat de meningsverschillen worden opgelost, zodat zoveel mogelijk mensen er blij mee gaan zijn, anders zou er eigenlijk altijd 1 persoon/ 1 parij iets bepalen, en dat zou niet democratisch zijn.
 
 ---
-§ 20 Argumentatiestructuren
+§ 20 Argumentatiestructuren </br>
+
 o1:
 
     Iemand gaat tegen je argumenten in, terwijl wat jij zegt wel klopt (feitelijk gezien)
@@ -294,4 +308,44 @@ o19:
 
     D
 
+---
 §21 Argumentatieschema's
+
+Opdrachtenblad
+
+| Zin | Type argumentatieschema |
+| --- | --- |
+| 1 | Voor- en nadelen |
+| 2 | Voorbeelden |
+| 3 | Vergelijking |
+| 4 | Autoriteit |
+| 5 | Eigenschap |
+| 6 | Eigenschap |
+| 7 | Vergelijking |
+| 8 | Voorbeelden |
+| 9 | Voor- en nadelen |
+| 10 | Oorzaak gevolg |
+| 11 | Voorbeelden |
+| 12 | Vergelijking |
+
+o5
+
+    a) -
+    b) Het is extremistisch
+    c) Als ik adem, dan stoot ik toch ook CO₂ uit. Dan zou ik ook niet mogen ademen.
+
+o6
+
+    b) Als je een van die dingen leuk vindt, dan ben je een meisje.
+    c) Kenmerk / eigenschap
+    d) Waarom mogen jonges niet ook een van die dingen leuk vinden.
+    e) Er zijn ook jongens die roze leuk vinden.
+
+o8
+
+    Kenmerk (leeftijd)
+
+o10
+
+    a) Eigenschappen, onafhankelijk nevenschikkend argument
+    b) Voorbeelden, afhankelijke nevenschikkende argumentatie

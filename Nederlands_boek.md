@@ -47,4 +47,10 @@ Akte = deel van een (toneel)stuk </br>
 - Krista lijkt een aanwijzing te hebben, maar dat blijkt een misverstand (p. 81)
 - Merlijn en Krista ontdekken een mogelijke dader op de foto's (p. 87)
 
-p. 104
+### blz. 109)
+
+- Hij vindt de man van de foto, Magnus, en er ontstaat een gesprek. Merlijn verzint dat ij een reisjournalist is. (p. 90)
+- Magnus rakkt in gesprek met een andere man, rekent na afloop af met de creditcard van Merlijn. (p. 94)
+- Merlijn belt met de creditcardmaatschappij. Hij is van plan terug naar Nederland te gaan
+
+p. 114
