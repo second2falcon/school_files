@@ -53,4 +53,4 @@ Akte = deel van een (toneel)stuk </br>
 - Magnus rakkt in gesprek met een andere man, rekent na afloop af met de creditcard van Merlijn. (p. 94)
 - Merlijn belt met de creditcardmaatschappij. Hij is van plan terug naar Nederland te gaan
 
-p. 114
+p. 128
