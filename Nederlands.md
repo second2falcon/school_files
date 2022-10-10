@@ -60,7 +60,7 @@ Signaalwoorden die een standpunt aangeven:
     3. Voor- en nadelen
     4. Vergelijking
     5. Oorzaak en gevolg
-    6. Autoriteut
+    6. Autoriteit
 - Kritische reacties en aanvaardbaarheid
 
 ---
