@@ -16,11 +16,15 @@ Opdracht:  </br>
 
 - Perspectief: ik persoon
 - Opbouw verhaal: persoon blikt terug op verleden
-- Intertekstualiteit:
-- Fotografie:
-- Toneel:
+- Thematiek: reden waarom iets gebeurt
+- (Leid)motieven (bijv. fotografie, toneel): terugkerende elementen die op een of andere manier zijn verbonden aan dat thema, leidmotief is dat een voorwerp de hele tijd terug komt
+- Intertekstualiteit: teksten van andere mensen gebruiken in je eigen boek, probeert het verhaal te omschrijven
 - Namen: Magnus, hotel Rival, Cecilia, Merlijn Kaiser
-- Spanning:
+- Spanning: je kunt spanning houden door open plekken te houden in je boek, dus bepaalde informatie niet aan de lezer geven, waardoor de lezer hoopt dat wanneer hij/zij langer doorleest dat die informatie dan wel komt
+- Karakteriserin personages
+- Verhaal structuur: personage wil een bepaald doel bereiken wat door personen of andere omstandigheden tegen werken (bijvoorbeeld de personage zich zelf), dus de eind vraag is, heeft de hoofdpersoon zijn/haar doel bereikt
+- Tijd en ruimte: hoeveel tijd gaat in dat boek voorbij, waar speelt het zich af etc
+- Open plekken: zie spanning
 
 Akte = deel van een (toneel)stuk </br>
 
@@ -47,10 +51,10 @@ Akte = deel van een (toneel)stuk </br>
 - Krista lijkt een aanwijzing te hebben, maar dat blijkt een misverstand (p. 81)
 - Merlijn en Krista ontdekken een mogelijke dader op de foto's (p. 87)
 
-### blz. 109)
+### blz. 109
 
 - Hij vindt de man van de foto, Magnus, en er ontstaat een gesprek. Merlijn verzint dat ij een reisjournalist is. (p. 90)
 - Magnus rakkt in gesprek met een andere man, rekent na afloop af met de creditcard van Merlijn. (p. 94)
 - Merlijn belt met de creditcardmaatschappij. Hij is van plan terug naar Nederland te gaan
 
-p. 128
+p. 148
