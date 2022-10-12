@@ -349,3 +349,34 @@ o10
 
     a) Eigenschappen, onafhankelijk nevenschikkend argument
     b) Voorbeelden, afhankelijke nevenschikkende argumentatie
+
+o14
+
+    In deze tekst gaat het om het verband tussen rappers en criminaliteit.
+
+o15
+
+    Femke Halsema: Criminelen worden niet zelden tot een rolmodel verheven, bijvoorbeeld omdat in de rapcultuur, in films en series misdaad aantrekkelijk wordt voorgesteld.
+    Angelo Diop, Dan Hassler-Forest, Jeroen van den Broek: Criminelen bedenken niet wat ze in films en rap muziek laten horen, ze vertellen alleen wat er op straat te horen is en ware gebeurtenissen.
+
+o16
+
+    Dat jongeren steeds crimineler worden, wat komt doordat rap muziek het veel leuker er uit laat zien dan dat het eigenlijk is.
+
+o17
+
+    Ze laten zien dat dat wat nu de rap cultuur doet, dat dat vroeger ook gebeurde, maar door andere media, bijvoorbeeld computerspellen, stripboeken, popmuziek, etc.
+
+o18
+
+    a) "'Het is heel gemakkelijk voor politici om naar populaire cultuur te wijzen als de oorzaak van sociaal-culturele problemen, want iedereen kan zich er iets bij voorstellen. ..." regel 40 t/m 43
+    b) "... De meeste wetenschappelijke onderzoeken laten zien dat er juist géén verband bestaat tussen beeldvorming in populaire cultuur en meetbare criminaliteit.'" regel 44 t/m 47
+
+o19
+
+    a) Hij zegt niet dat de rapcultuur jongeren aanspoort om de criminaliteit in te gaan, maar dat het wel hun mening verandert over dingen zoals vuurwapenbezit.
+    b) Oorzaak: rapcultuur -> gevolg: de mening van jongeren over dingen zoals vuurwapenbezit en andere criminële dingen verandert
+
+o20
+
+    Hij zegt dat er altijd al een medium was die een boosdoener was en dat met de tijd alleen het medium is verandert wat daarvoor werd gebruikt en het dus eigenlijk niks nieuws is.
