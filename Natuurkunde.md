@@ -278,3 +278,26 @@ Hfdstk 3
 11. 
 
     c) Conclusie: het maakt niet uit met welke twee krachten je de constructie begint.
+
+21. 
+
+    a) vertraagd, versnelt, constant
+    b) het staat stil, of bljift constant bewegen
+    c) traagheid beschrijft de weerstand die een object kan leveren
+
+22. 
+
+    Omdat er nog andere weerstanden (luchtweerstand, rolweerstand, etc) werken die je tegenhouden.
+
+23. 
+
+    Ja, omdat hij anders uit de loopbaan om de aarde weg zou vliegen.
+
+25. 
+
+    Daardoor dat een zwaarbeladen goederenwagon meet massa heeft en dus een grotere remweg nodig heeft.
+
+27. 
+
+    a) Omdat de lijnen parallel zijn.
+    b) Kleiner, omdat hij steeds sloomer werd.
