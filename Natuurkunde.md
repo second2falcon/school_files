@@ -220,7 +220,9 @@ tw = 0,5 *c* pA * v
 
 ---
 
-Hfdstk 3
+## Hfdstk 3
+
+Fᵣₑₛ = m * a = kg * m/s² = m * (delta V / delta T) = N
 
 1. 
 
@@ -300,4 +302,39 @@ Hfdstk 3
 27. 
 
     a) Omdat de lijnen parallel zijn.
-    b) Kleiner, omdat hij steeds sloomer werd.
+    b) Zowel op een hoogte van 500 m als op een hoogte van 1500 m voert de parachutist een eenparige beweging uit (het (h,t)-diagram is een rechte lijn). Dus in beide gevallen geldt dat de resulterende kracht gelijk is aan 0 N. In beide gevallen geldt dus: Fw = Fz. De wrijvingskracht op 1500 m is dus gelijk aan de wrijvingskracht op 500 m.
+
+29. 
+
+    a) Fres= m * a
+    b) F in newton, massa in kg en a(cceleratie) m/s²
+    c) de snelheid blijft het zelfde
+    d) Hij wordt slomer
+    e) Als de resulterende kracht nul is, is de versnelling ook nul. De snelheid verandert dus niet.
+    f) Fz = m * g
+
+30. 
+
+    a) 25 / 10 = 2,5 m/s²
+    b) 2,5 * 15 = ~ 38 m/s
+    c) Geen beginsnelheid, dus 38 is eindsnelheid.
+
+31. 
+
+    a) 30 / 10 = 3 m/s²
+    b) 2700 / 3 = 900kg
+    c) 0 N omdat de snelheid niet daalt.
+
+32. 
+
+    a) 9,81 * 2 = 19,62 N 
+    b) Hij hangt stil, er is dus geen versnelling, dus is het ~ 20 N.
+    c) De snelheid is constant. Er is dus geen versnelling waardoor de kracht nog steeds 20 N is.
+    d) De snelheid is constant. Er is dus geen versnelling waardoor de kracht nog steeds 20 N is.
+    e) 2 * 3 = 6 N
+    f) Fres = m * a = 2,0 * 3,0 = 6,0 N. De zwaartekracht is niet veranderd. De resulterende kracht is omhoog gericht, dus is de zwaartekracht kleiner dan de spankracht: Fres = Fspan – Fz waaruit volgt dat Fspan = Fres + Fz = 6,0 + 20 = 26 N
+    g) Fres = m * a = 2,0 * 3,0 = 6,0 N. De kogel beweegt omlaag en vertraagt, dus de resulterende kracht is omhoog gericht, dus is de zwaartekracht kleiner dan de spankracht: Fres = Fspan – Fz waaruit volgt dat Fspan = Fres + Fz = 6,0 + 20 = 26 N
+
+33. 
+
+    a) a =  Fres / m = -50 / 75 = - 0,67 m/s²
