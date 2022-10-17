@@ -63,8 +63,21 @@ Signaalwoorden die een standpunt aangeven:
     6. Autoriteit
 - Kritische reacties en aanvaardbaarheid
 
+## Drogredenen: argumentatiefouten (1 - 3) en argumentatietrucs (4 - 9)
+
+- Foute autoriteit: Als je je niet warm aankleedt, word je verkouden. Dat zegt mijn moeder altijd.
+- Vals dilemma: het is simpel: we creëren een EU-leger, of we worden prooi van Rusland.
+- Overhaaste generalisatie: die twee leren nooit, de klas zal wel een onvoldoende halen.
+- Verkeerde vergelijking: iedereen moet hetzelfde betalen voor een tros bananen, dus waarom betaalt niet iedereen evenveel belasting!
+- Persoonlijke aanval: Dion heeft wel commentaar op anderen, maar zelf haalt hij een onvoldoende
+- Ontduiken van bewijslast: het is natuurlijk logisch dat deze regering gaat vallen.
+- Cirkelredenering (standpunt en argument zijn bijna het zelfde): dit boek was verdrietig, want ik moest huilen.
+- Vertekenen van standpunt (reageren op iemand, door een ander stand punt in die persoons schoenen te schuiven): jij vindt goede doelen onzin? Jij heeft dus niks om anderen!
+- Bespelen van publiek: jullie voelen vast met mij mee als ik zeg dat schooltijdens dringend anders moeten!
+
 ---
 § ?: ?
+
 o1: Zender, ontvanger en boodschap </br>
 
 o2: Omdat er geen ontvanger is. X: Je maakt contact met de andere persoon en pas als de informatie is overgebracht én ontvangen is
@@ -380,3 +393,7 @@ o19
 o20
 
     Hij zegt dat er altijd al een medium was die een boosdoener was en dat met de tijd alleen het medium is verandert wat daarvoor werd gebruikt en het dus eigenlijk niks nieuws is.
+
+---
+§22
+

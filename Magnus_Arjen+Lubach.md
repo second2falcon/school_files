@@ -1,5 +1,19 @@
 # Magnus van Arjen Lubach
 
+## Aandachtspunten + begrippen
+
+- Perspectief
+- Opbouw verhaal
+- Thematiek
+- (Leid)motieven (bijv. fotografie, toneel)
+- Intertekstualiteit
+- Namen: Magnus hotel Rival, Cecilia, Merlijn Kaiser
+- Spanning
+- Karakterisering personages
+- Verhaalstructuur
+- Tijd en ruimte
+- Open plekken
+
 ## Samenvatting & belangrijke informatie
 
 - Gebeurtenissen
