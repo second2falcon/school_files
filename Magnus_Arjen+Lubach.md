@@ -31,5 +31,3 @@
   - Kopenhagen: hier gaan Merlijn en Caro naar toe om met elkaar te praten over wat er is gebeurd toen Caro in Zwitserland was
   - Geneve: Cecilia wil hier met Merlijn naartoe om het verleden op te halen
   - Einde roman: première van Merlijn's toneelstuk in Amsterdam
-
-- 
