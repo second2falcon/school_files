@@ -4,7 +4,7 @@
 
 1. 
 
-    Edelmetalen
+    Edelgassen
 
 2. 
 
@@ -12,39 +12,41 @@
 
 3. 
 
-    ?
+    Aantal protonen: 84p+
+    Aantal neutronen: 134
+    Element x = Po
 
 4. 
 
-    ?
+    Alle atomen/elementen die samen een atoomnumnmer van 86 hebben.
 
 5. 
 
-    12,01 * 3 + 12,01 * 8 + 16 = 148,11
+    12,01 * 3 + 1,008 * 8 + 16 = 60,09
 
 6. 
 
-    633 / 148,11 = 4,2738505165
+    633 / 60,09 = 10,53 mol
 
 7. 
 
-    17,1 * 148,11 = 2.532,681 gram
+    17,1 * 60,09 = 1027,53 gram
 
 8. 
 
-    oké
+    2,93 g/L
 
 9. 
 
-    0,0083 * 2,93 = 0,024319
+    8,3 / 2,93 = 2,83 L
 
 10. 
 
-    345,3 * 10ˆ22 / 6.022 × 10ˆ23 = 5,7 gram
+    345,3 * 10ˆ22 / 6.02 * 10ˆ23 = 5,7 gram
 
 11. 
 
-    (0,0344 * 2,93) / 64,064 * (6,022 * 10ˆ23) = 9,474 * 10ˆ20
+    (0,0344 * 2,93) / 64,064 * (6,02 * 10ˆ23) = 9,474 * 10ˆ20
 
 12. 
 
@@ -57,6 +59,7 @@
 14. 
 
     50% (niet in massa, maar in atomen)
+    74,49% (massapercentage)
 
 15. 
 
@@ -72,4 +75,8 @@
     Temperatuur
     Verhouding van de stoffen
     Andere omstandigheden (luchtschoonheid etc)
-    ?
+    Soort stof
+
+20. 
+
+    De hoeveelheid stof
