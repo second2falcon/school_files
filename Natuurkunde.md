@@ -338,3 +338,18 @@ Fᵣₑₛ = m * a = kg * m/s² = m * (delta V / delta T) = N
 33. 
 
     a) a =  Fres / m = -50 / 75 = - 0,67 m/s²
+
+36. 
+
+    a) kg
+    b) m/s²
+    c) newton = kg * m/s²
+
+37. 
+
+    Fn < Fz
+
+38. 
+
+    5,9 * 10² N
+
