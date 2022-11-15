@@ -1,6 +1,4 @@
-§17 t/m §24
-
-# Literatuurgeschiedenis
+# Literatuurgeschiedenis §17 t/m §24
 
 ## §17
 
