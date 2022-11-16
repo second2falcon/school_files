@@ -30,4 +30,21 @@
 
 29. 
 
-    a) 1: 2; 2:
+    a) 1; 2; 2; 3; 3: 4; 4: 1
+    b) 1: 2; 
+
+30. 
+
+    -
+
+31. 
+
+    Bij het ontleden. Bij het koken gaat het H2O molecuul over na de gas vorm.
+
+32. 
+
+    Hoeveel bindingen die atoomsoort aan kan gaan.
+
+33. 
+
+    a) 1: 1; 2: 3; 3: 1; 
