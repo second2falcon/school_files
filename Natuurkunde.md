@@ -366,4 +366,9 @@ Fᵣₑₛ = m * a = kg * m/s² = m * (delta V / delta T) = N
 
 45. 
 
+    a) 54kN
+    b) 378kN omhoog
+
+47. 
+
     
