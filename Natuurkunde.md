@@ -1,6 +1,6 @@
-# §1 Beweging
+## §1 Beweging
 
-##
+###
 
 *Delta* x gedeelt door *delta* t is de gemiddelde snelheid. </br>
 x,t diagram is een diagram van plaats en tijd. Om hiervoor een gemiddelde snelheid te krijgen, doe je ***x***-eind min ***x***-begin gedeelt door ***t***-eind min ***t***-begin. </br>
@@ -370,5 +370,15 @@ Fᵣₑₛ = m * a = kg * m/s² = m * (delta V / delta T) = N
     b) 378kN omhoog
 
 47. 
+
+## §2
+
+1. 
+
+    a) Omdat de protonen en elektronen elkaar aantrekken.
+    b) ion is een geladen atoom
+    c) Ja, stoffen die geaard zijn.
+
+2. 
 
     
