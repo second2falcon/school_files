@@ -48,3 +48,30 @@
 33. 
 
     a) 1: 1; 2: 3; 3: 1; 
+
+42. 
+
+    a) moleculaire stof
+    b) covalentebinding/atoombinding
+    c) 
+    d) Echte sneeuw is minder stabiel gebouwt dan kunstsneew (het heeft langere "takken")
+    e) 
+
+43. 
+
+    a) De verhouding van een aantal mol tot een ander aantal mol.
+    b) Stoichiometrische verhouding
+    c) Door een kloppende reactie te gebruiken om de molaire massa en zo ook het mol aantal te berekenen.
+
+44. 
+
+    a) 2, 2, 3, 1
+    b) 
+
+49. 
+
+    a) 1000 / (40,08+12,01+48) = 9,991 mol
+    b) 1:1
+    c) 
+    d) 1,05894 kg
+
