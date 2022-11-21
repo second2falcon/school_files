@@ -89,6 +89,26 @@ Signaalwoorden die een standpunt aangeven:
     - D Samenstellingen
     - E Hoofdletters en leestekens
 
+## § 11 Begrijpelijk formuleren
+
+- Onderdelen:
+    - Zeggen wat je bedoelt.
+    - Tekst afstemmen op publiek
+        - Woordkeuze
+    - Zinslengte
+    - Kern bij elkaar zetten
+    - Tangconstructie (niet doen)
+    - Lijdende vorm (niet doen)
+    - Naamwoordstijl (niet doen)
+
+## §12 Nauwkeurig formuleren
+
+- Standaard vragen van de lezer: wie, wat, waar, waarom, wanneer, hoe
+- Onnauwkeurige teksten
+- Lege woorden
+- Dubbelzinnigheid
+- Onnauwkeurige verwijzingen
+
 ---
 § ?: ?
 
@@ -410,3 +430,42 @@ o20
 
 ---
 §22
+
+---
+---
+---
+§11
+
+o1
+
+    Je gaat waarschijnlijk eerder vakbegrippen gebruiken, de onderwerpen goed (inplaats van simpel) uitleggen en de zinnen zullen dus complexer zijn.
+
+o5
+
+    a) Voor wc-papier bent u bij ons aan het juiste adres!
+    b) In onze online winkel zult u alle mogelijke wc-papieren vinden, van dun tot dik.
+    c) Bij ons kunt u het wc-papier met het hoogste absorptievermogen kopen.
+    d) Als uw wc veel wordt gebruikt, dan raden wij aan om grote rollen op te hangen.
+
+§22
+
+o2
+
+    a) Van welke van de beide er sprake is.
+    b) Ja, omdat de vraag op 2 manieren kan worden geïnterpreteerd.
+    c) Is in dit voorbeeld sprake van een zuivere metafoor, of is er sprake van een metonymia.
+
+o3
+
+    a) Wat voor maatregelen komen er? Hoe wordt de koopkracht in Caribisch Nederland verbeterd? Hoe wordt de infrastructuur verbeterd? Wat wordt aan de infrastructuur verbeterd? Hoe wordt het bestuur versterkt?
+    b) Zodat de regering een beetje speelruimte heeft met wat ze gaan doen.
+
+o6
+
+    a) De sollicitant bedankte zich bij zijn werkgever voor de baan.
+    b) 
+    c) 
+    d) 
+    e) 
+    f) 
+    g) 
