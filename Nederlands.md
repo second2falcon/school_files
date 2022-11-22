@@ -447,7 +447,7 @@ o5
     c) Bij ons kunt u het wc-papier met het hoogste absorptievermogen kopen.
     d) Als uw wc veel wordt gebruikt, dan raden wij aan om grote rollen op te hangen.
 
-§22
+§12
 
 o2
 
@@ -462,10 +462,10 @@ o3
 
 o6
 
-    a) De sollicitant bedankte zich bij zijn werkgever voor de baan.
-    b) 
-    c) 
-    d) 
-    e) 
-    f) 
-    g) 
+    a) Bij wie hij zich bedankt: De sollicitant bedankte zich bij zijn werkgever voor de baan.
+    b) Definitie van "beperkt gebruikt worden": Onder bepaalde omstandigheden is het niet aangeraden om energiedrankjes te consumeren.
+    c) In hoeveel delen moet je de tomaten snijden: Snij de tomaten in achtste stukken, scheur de slabladeren van de nerven en was ze in ijskoud water.
+    d) Definitie van reacties: De wetenschapper onderzocht de reactievermogen van mensen in zekere situaties.
+    e) Definitie van de minister: De minister president beschreef zijn werkzaamheden als lijnen uitzetten, politieke thema's agenderen en verkiezingen winnen.
+    f) Welke factoren: Daardoor dat onze roosters zo verschillend zijn, heeft ervoor gezorgd dat de samenwerking tijdens ons PWS over het algemeen niet zo soepel verliep.
+    g) Welk tripje: Denk niet aan dat tandartsbezoek, maar aan ons survival tripje, want het is voorbij voor je er erg in hebt!
