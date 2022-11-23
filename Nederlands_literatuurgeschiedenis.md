@@ -20,10 +20,21 @@
 - De Nederlandse literatuurgeschiedenis staat niet op zichzelf, maar wordt beïnvloed door allerlei culturen. Vroeger vooral vanuit de westerse wereld, maar tegenwoordig steeds vaker vanuit andere culturen.
 - Het Nederlands literaire erfgoed bestaat uit alle literaire teksten binnen het Nederlandse taalgebied. Een canon is een lijst met bijvoorbeeld de meest waardevolle Nederlandse romans. Daar is altijd veel discussie over.
 
+## §18 Gedenk te streven (middeleeuwen ~500 - ~1500)
+
+- Verhaal: Van den vos Reynaerde
+- Theocentrisme, memento mori
+- Schrijver als instrument van God
+- Handschriften / manuscripten
+- Verhaal: Karel ende Elegast
+- Feodaal systeem, trouw
+- Ridderromans: Karel- en Arthurromans
+
 ---
 ---
 ---
 
+## §17
 o1
 
     Wat de mensen toen de tijd dachten en aan geloven.
@@ -44,3 +55,15 @@ o4
     b) 
     c) 
     d) 
+
+## §18
+
+o1
+
+    
+
+o2
+o3
+o4
+o8
+o9
