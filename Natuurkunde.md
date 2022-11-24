@@ -382,3 +382,32 @@ Fᵣₑₛ = m * a = kg * m/s² = m * (delta V / delta T) = N
 2. 
 
     
+
+I (Amp) = Q / t -> (A = C / s)
+U (Volt) = 4
+
+7. 
+
+    a) Stroomsterkte is de hoeveelheid stroom die door een leiding gaat.
+    b) Q / t
+    c) mA, A, kA
+
+8. 
+
+    a) 0,02 A
+    b) 50000 V
+    c) 0,00014 A
+    d) 0,23 kV
+    e) 150 mA
+
+9. 
+
+    a) De wasmachine neemt stroom uit het stroomnet af.
+    b) 
+    c)
+
+10. 
+
+    a) 0,000095 * 60 = 0,0057C
+    b) 3,5625 * 10ˆ16
+    
