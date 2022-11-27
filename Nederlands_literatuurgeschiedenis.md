@@ -60,10 +60,24 @@ o4
 
 o1
 
-    
+    Dat alles in het teken van god staat.
 
 o2
+
+    a) Iedereen gelooft in god en wil naar de hemel.
+    b) Hij heeft een wond aan iemand anders veroorzaakt
+    c) Omdat dat bij de meeste fragmenten uit die tijd niet het geval was.
+
 o3
+
+    a) De koning
+    b) Omdat de bijna iedereen gelovig was en nietmand uit het koningrijk waar hij/zij woonde er uit wilde worden gestuurd.
+    c) Een ver minder grote rol dan vroeger, omdat nu minder mensen in god geloven dan toen en omdat er nu niet meer zo een besturingssysteem als toen is (er is dus geen koning meer).
+
 o4
+
+    a) 
+    b) 
+
 o8
 o9

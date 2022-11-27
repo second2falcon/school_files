@@ -1,6 +1,6 @@
-## **Communicatie §1 Belangrijke begrippen**
+# **Communicatie §1 Belangrijke begrippen**
 
-### (theorieboek blz. 52 t/m 55)
+## (theorieboek blz. 52 t/m 55)
 
 - Communicatie: verbinding, informatie-uitwisseling, mededeling
 - Zender (persoon die boodschap verstuurd), boodschap (een tekst die informatie beïnhoudt), ontvanger / publiek (persoon of groep mensen die de boodschap ontvangt)
@@ -14,7 +14,7 @@
 - Iteratief (herhalend) proces
 - Ruis (miscommunicatie, verschillende soorten ruis, bijvoorbeeld fysieke ruis, psychologische ruis, innterlijke ruis en semantische ruis; fysieke ruis: storingen van buiten die voor miscommunicatie zorgen; psychologische ruis en/of innerlijke ruis: een vorm van ruis waarbij in je hoofd er dingen zijn die ervoor zorgen dat de boodschap niet correct overkomt; semantische ruis: een vorm van ruis waarbij mensen elkaar niet verstaan omdat ze niet de zelfde taal spreken;)
 
-### Overtuigen
+## Overtuigen
 
 - Beïnvloeden: zes manieren om invloed uit te oefenen op anderen
 - Argumenteren
@@ -38,7 +38,7 @@ Signaalwoorden die een standpunt aangeven:
 - Daarom -> A, daarom S.
 - Dan ook -> A, dan ook S.
 
-### Argumentatiestructuren
+## Argumentatiestructuren
 
 (insert scheme from page 105 and/or from mail)
 
@@ -50,7 +50,7 @@ Signaalwoorden die een standpunt aangeven:
 - Onderschikkende argumentatie: Een mening wordt door een argument ondersteunt, welke door een subargument wordt ondersteunt, welke door een sub-subargument kan worden ondersteunt. Dit kan verder zo door gaan. (argument + subargument(en))
 - Verzwegen argumenten: De spreker gaat ervan uit dat de luisteraar dezelfde argumenten heeft. (Als... dan...- uitspraken) (vb Die broek is lelijk (standpunt), want hij is blaauw (argument), verzwegen argument hier is: Als iets blaauw is, dan is het lelijk)
 
-### Argumentatieschema's: theorie
+## Argumentatieschema's: theorie
 
 - Lees bladzijde 106/107
 - Argumentatieschema: verband tussen standpunt en argument
@@ -63,7 +63,7 @@ Signaalwoorden die een standpunt aangeven:
     6. Autoriteit
 - Kritische reacties en aanvaardbaarheid
 
-### Drogredenen: argumentatiefouten (1 - 3) en argumentatietrucs (4 - 9)
+## Drogredenen: argumentatiefouten (1 - 3) en argumentatietrucs (4 - 9)
 
 - Foute autoriteit: Als je je niet warm aankleedt, word je verkouden. Dat zegt mijn moeder altijd.
 - Vals dilemma: het is simpel: we creëren een EU-leger, of we worden prooi van Rusland.
@@ -74,40 +74,6 @@ Signaalwoorden die een standpunt aangeven:
 - Cirkelredenering (standpunt en argument zijn bijna het zelfde): dit boek was verdrietig, want ik moest huilen.
 - Vertekenen van standpunt (reageren op iemand, door een ander stand punt in die persoons schoenen te schuiven): jij vindt goede doelen onzin? Jij heeft dus niks om anderen!
 - Bespelen van publiek: jullie voelen vast met mij mee als ik zeg dat schooltijdens dringend anders moeten!
-
-## §18 Spelling en formuleren
-
-- Spelling is een manier om je te presenteren!
-- Zelfs de beste taalgebruiker heeft naslagwerken nodig om op te zoeken hoe je iets schrijft.
-- Spelfout: geheugen of regel
-- Interpunctie: leestekens zijn aanwijzingen voor hoe zinnen moeten klinken.
-
-- Onderdelen:
-    - A Werkwoordspelling
-    - B Meervoudsvorming
-    - C Het bijvoegelijk naamwoord
-    - D Samenstellingen
-    - E Hoofdletters en leestekens
-
-## § 11 Begrijpelijk formuleren
-
-- Onderdelen:
-    - Zeggen wat je bedoelt.
-    - Tekst afstemmen op publiek
-        - Woordkeuze
-    - Zinslengte
-    - Kern bij elkaar zetten
-    - Tangconstructie (niet doen)
-    - Lijdende vorm (niet doen)
-    - Naamwoordstijl (niet doen)
-
-## §12 Nauwkeurig formuleren
-
-- Standaard vragen van de lezer: wie, wat, waar, waarom, wanneer, hoe
-- Onnauwkeurige teksten
-- Lege woorden
-- Dubbelzinnigheid
-- Onnauwkeurige verwijzingen
 
 ---
 § ?: ?
@@ -430,42 +396,3 @@ o20
 
 ---
 §22
-
----
----
----
-§11
-
-o1
-
-    Je gaat waarschijnlijk eerder vakbegrippen gebruiken, de onderwerpen goed (inplaats van simpel) uitleggen en de zinnen zullen dus complexer zijn.
-
-o5
-
-    a) Voor wc-papier bent u bij ons aan het juiste adres!
-    b) In onze online winkel zult u alle mogelijke wc-papieren vinden, van dun tot dik.
-    c) Bij ons kunt u het wc-papier met het hoogste absorptievermogen kopen.
-    d) Als uw wc veel wordt gebruikt, dan raden wij aan om grote rollen op te hangen.
-
-§12
-
-o2
-
-    a) Van welke van de beide er sprake is.
-    b) Ja, omdat de vraag op 2 manieren kan worden geïnterpreteerd.
-    c) Is in dit voorbeeld sprake van een zuivere metafoor, of is er sprake van een metonymia.
-
-o3
-
-    a) Wat voor maatregelen komen er? Hoe wordt de koopkracht in Caribisch Nederland verbeterd? Hoe wordt de infrastructuur verbeterd? Wat wordt aan de infrastructuur verbeterd? Hoe wordt het bestuur versterkt?
-    b) Zodat de regering een beetje speelruimte heeft met wat ze gaan doen.
-
-o6
-
-    a) Bij wie hij zich bedankt: De sollicitant bedankte zich bij zijn werkgever voor de baan.
-    b) Definitie van "beperkt gebruikt worden": Onder bepaalde omstandigheden is het niet aangeraden om energiedrankjes te consumeren.
-    c) In hoeveel delen moet je de tomaten snijden: Snij de tomaten in achtste stukken, scheur de slabladeren van de nerven en was ze in ijskoud water.
-    d) Definitie van reacties: De wetenschapper onderzocht de reactievermogen van mensen in zekere situaties.
-    e) Definitie van de minister: De minister president beschreef zijn werkzaamheden als lijnen uitzetten, politieke thema's agenderen en verkiezingen winnen.
-    f) Welke factoren: Daardoor dat onze roosters zo verschillend zijn, heeft ervoor gezorgd dat de samenwerking tijdens ons PWS over het algemeen niet zo soepel verliep.
-    g) Welk tripje: Denk niet aan dat tandartsbezoek, maar aan ons survival tripje, want het is voorbij voor je er erg in hebt!
