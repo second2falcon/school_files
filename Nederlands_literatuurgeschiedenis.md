@@ -30,6 +30,17 @@
 - Feodaal systeem, trouw
 - Ridderromans: Karel- en Arthurromans
 
+
+- Verhalen om van te leren (over het geloof)
+- Beatrijs
+- Mariken van Nieuwmeghen
+- Hadewych
+- Bijbelkennis
+- Verhalenvertellers
+- Rederijkerskamers
+- Allegorie (bijvoorbeeld Elkerlyc)
+- Boekdrukkunst
+
 ---
 ---
 ---
@@ -76,8 +87,18 @@ o3
 
 o4
 
-    a) 
-    b) 
+    a) Hoofse ridders zijn trouwe en goede vechters en zijn daarnaast edelmoedig en hoffelijk ten opzichte van vrouwen en zwakkeren. Niet-hoofse ridders zijn bijvoorbeeld ruw, agressief en ontrouw en denken niet om zwakkeren en vrouwen.
+    b) Veel mensen doen vrijwilligerswerk. Dat kun je zien als een vorm van moderne hoofsheid. Vrijwilligers houden ouderen gezelschap, lezen voor aan kinderen met een taalachterstand, zamelen voedsel in voor mensen in armoede enzovoort. 
 
 o8
+
+    a) Egidius treurt om een gestorven vriend. De dood is altijd dichtbij in de middeleeuwen. Ook verwijst ‘nu bestu in den troon verheven’ naar de hemel.
+    b) Ja en nee: Ja, want hij gaat er vanuit dat zijn vriend in de hemel is. Nee, want zelf is hij ondanks het geloof ongelukkig in zijn aardse bestaan.
+    c) Het missen van een gestorven dierbare is nog steeds een universeel thema; de verzen die verwijzen naar gemis..
+
 o9
+
+    a) Walewein wil dat de ridder ophoudt met het mishandelen van een jonkvrouw.
+    b) Walewein gedraagt zich hoofs. Niet alleen komt hij op voor een zwakkere, in dit geval een jongvrouw, maar hij geeft zijn tegenstander ook nog de kans om zijn leven te beteren voordat hij het gevecht aangaat.
+    c) Walewein gaat op reis om zijn trouw aan de koning te bewijzen, wat een typisch middeleeuws thema is.
+    d) Nee, feministen zullen hoofse ridders geen ideale mannen vinden. Volgens het feminisme hoeven vrouwen niet aanbeden en beschermd te worden. Vrouwen zijn gelijkwaardig en krachtig genoeg om voor zichzelf te zorgen.
