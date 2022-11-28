@@ -30,7 +30,6 @@
 - Feodaal systeem, trouw
 - Ridderromans: Karel- en Arthurromans
 
-
 - Verhalen om van te leren (over het geloof)
 - Beatrijs
 - Mariken van Nieuwmeghen
@@ -45,7 +44,8 @@
 ---
 ---
 
-## §17
+## §17 Opdrachten
+
 o1
 
     Wat de mensen toen de tijd dachten en aan geloven.
@@ -67,7 +67,7 @@ o4
     c) 
     d) 
 
-## §18
+## §18 Opdrachten
 
 o1
 
@@ -89,6 +89,21 @@ o4
 
     a) Hoofse ridders zijn trouwe en goede vechters en zijn daarnaast edelmoedig en hoffelijk ten opzichte van vrouwen en zwakkeren. Niet-hoofse ridders zijn bijvoorbeeld ruw, agressief en ontrouw en denken niet om zwakkeren en vrouwen.
     b) Veel mensen doen vrijwilligerswerk. Dat kun je zien als een vorm van moderne hoofsheid. Vrijwilligers houden ouderen gezelschap, lezen voor aan kinderen met een taalachterstand, zamelen voedsel in voor mensen in armoede enzovoort. 
+
+o5
+
+    a) Omdat zij de mystieke verbinding met god zijn.
+    b) Jezus, de drie heilige koningen, Paashaas
+    c) Maria is Jezus zijn moeder
+    d) 
+
+o6
+
+
+
+o7
+
+
 
 o8
 
