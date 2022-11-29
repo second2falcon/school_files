@@ -95,15 +95,18 @@ o5
     a) Omdat zij de mystieke verbinding met god zijn.
     b) Jezus, de drie heilige koningen, Paashaas
     c) Maria is Jezus zijn moeder
-    d) 
+    d) Ze zorgt ervoor dat niemand in het klooster merkt dat Beatrijs er niet is.
 
 o6
 
-
+    a) 
+    b) Alleen als je gedeugd hebt tijdens je leven, ga je naar de hemel
+    c) Omdat het nog steeds een belangrijke life lesson is.
 
 o7
 
-
+    a) Omdat die ervoor zorgde dat meer mensen toegang kregen tot boeken waardoor meer mensen leerden lezen.
+    b) 
 
 o8
 
