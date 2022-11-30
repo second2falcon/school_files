@@ -97,3 +97,29 @@
     a) 45 / 80,063 = 0,5620573798 mol
     b) 20 / 18,015 = 1,1101859561
     c) 1,1101859561 / 0,5620573798 = ~ 2 -> 1:2
+
+---
+
+1. 
+    
+    a) Vanderwaalskracht
+    b) Vanderwaalsbinding
+
+2. 
+    
+    a) De molecuulmassa
+    b) Als de vorm (L, S of G) verandert en/of als het met een andere stof wordt gemengt.
+
+3. 
+
+    a) In C₄H₁₀ zijn geen metaal atomen, waardoor de stof een moleculaire stof is. Dat er geen metaal atomen inzitten, kun je zien aan welke atomen er wel in zitten en bij wat (welke groep) die horen.
+    b) Vanderwaalsbinding
+    c) C=4, H=1
+    e) Covalentebinding
+    f) C4H10 -> 4C + 5H₂
+    g) Vanderwaalsbinding en covalente bindingen
+    h)  1,73 g H₂
+
+4. 
+
+
