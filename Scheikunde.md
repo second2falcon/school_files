@@ -120,6 +120,34 @@
     g) Vanderwaalsbinding en covalente bindingen
     h)  1,73 g H₂
 
-4. 
+11. 
 
+    a) OH & NH
+    b) waterstofbrug
+    c) 1 & 16
 
+12. 
+
+    a) NH₃ = 17,031; PH₃ = 33,99; AsH₃ = 77,94; SbH₃ = 124,824
+    c) 
+
+13. 
+
+    Vaste moleculen bewegen minder dan vloeibare.
+
+15. 
+
+    Het kookpunt wordt hoger.
+
+16. 
+
+    Hij heeft geen covalentie en hij heeft ook geen zuurstof atoom.
+
+17. 
+
+    Methanal en ureum kunnen waterstofbruggen vormen, omdat ze O atomen (oftewel zuurstof atomen) hebben in tegenstelling tot ethaanamine en waterstofcyanide.
+
+18. 
+
+    a) Methanol, ethaan-1,2-diol en propaan-1-ol, omdat deze (in tegenstelling tot de anderen) zuurstof atomen bezitten, welke een benodigdheid zijn voor een waterstofbrug.
+    b) 1. Methaan (16U); 2. Propaan; 3. Butaan; 4. Methanol; 5. Propaan-1-ol; 6. Ethaan-1,2-diol; 
