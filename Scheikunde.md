@@ -151,3 +151,22 @@
 
     a) Methanol, ethaan-1,2-diol en propaan-1-ol, omdat deze (in tegenstelling tot de anderen) zuurstof atomen bezitten, welke een benodigdheid zijn voor een waterstofbrug.
     b) 1. Methaan (16U); 2. Propaan; 3. Butaan; 4. Methanol; 5. Propaan-1-ol; 6. Ethaan-1,2-diol; 
+
+24. 
+
+    a) Hoeveel hydrofobe atomen er in het molecul zitten. 
+    b) Een stof die niet goed met water mengt.
+
+25. 
+
+    Ethanol omdat die minder hydrofobe atomen (in dit geval C atomen) heeft.
+
+26. 
+
+    a) Omdat deze laag te veel atomen inhoudt die hydrofoob zijn.
+    b) Microniveau, omdat je de bindingen tussen de atomen kunt zien, en omdat er structuurformules staan.
+
+27. 
+
+    a) De oplosbaarheid van een stof geeft aan hoeveel gram van die stof maximaal kan oplossen in 100 gram water van een bepaalde temperatuur, de oplossing is dan verzadigd.
+    b) Het maakt het
