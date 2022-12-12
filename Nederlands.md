@@ -75,6 +75,17 @@ Signaalwoorden die een standpunt aangeven:
 - Vertekenen van standpunt (reageren op iemand, door een ander stand punt in die persoons schoenen te schuiven): jij vindt goede doelen onzin? Jij heeft dus niks om anderen!
 - Bespelen van publiek: jullie voelen vast met mij mee als ik zeg dat schooltijdens dringend anders moeten!
 
+## Bondig formuleren
+
+- Schrappen met beleid
+- Wees zuinig met hulpwerkwoorden als *zullen, mogen, kunnen, willen, gaan*
+- Vermijd een pleonasme: *ronde bal*
+  - (je noemt een eigenschap van iets, een bal is altijd rond; een dood lijk -> een lijk is altijd al dood)
+- Vermijd een tautologie: *Zodra hij mijn bericht kreeg, stapte hij onmiddelijk op de fiets.*
+  - (tijden herhalen, bijvoorbeeld onmiddelijk weg laten)
+- Wees zuinig met het gebruik van bijwoorden als *heel, soms, vaak, zeer*
+- Pas op met het gebruik van uitdrukkingen
+
 ---
 § ?: ?
 
@@ -395,4 +406,23 @@ o20
     Hij zegt dat er altijd al een medium was die een boosdoener was en dat met de tijd alleen het medium is verandert wat daarvoor werd gebruikt en het dus eigenlijk niks nieuws is.
 
 ---
-§22
+§13: Bondig Formuleren
+
+o2 
+
+    a) In de speeltuin mag alleen eten wat hier is gekocht worden geconsumeerd. Bedankt.
+    b) U moet zich eerst bij de assistente melden en dan in de wachtkamer gaan zitten
+    c) Laat geen waardevolle spullen in uw jaszakken. De directie is niet aansprakelijk voor verlies.
+
+06a
+
+    gesnipperd, gehakt, eventueel, 2 (Open het blijke met de tomatenpuree en de twee blikken met tomatenblokjes.), gecondenseerde, Je zult willen voorkomen dat je een nogal zure smaak zult houden. Daarom is het idee dat je de tomatenpuree even mee laat bakken.; , uit de blikjes, goed lang, Als je wilt;, "je favoriete, vrolijke", "en dien op"
+
+o7 
+
+    Je zou denken dat de keuzes die je in je leven maakt, de rest van je leven beïnvloeden. Maar dat is helemaal niet zo.
+
+o10 
+
+    a) De Laatste, omdat die iets onwaarschijnlijks heeft.
+    b) Moe, verslapen, te laat. Strat oplopen.
