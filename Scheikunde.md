@@ -170,3 +170,33 @@
 
     a) De oplosbaarheid van een stof geeft aan hoeveel gram van die stof maximaal kan oplossen in 100 gram water van een bepaalde temperatuur, de oplossing is dan verzadigd.
     b) Het maakt het
+
+32. 
+
+    62
+
+33. 
+
+    Hydrofiele en hydrofiele stoffen, hydrofobe en hydrofobe stoffen
+
+34. 
+
+    a) Ja, omdat ze allebeide te veel koolstof atomen hebben waardoor ze hydrofoob worden.
+    b) Nee, omdat het geen waterstof bruggen kan vormen.
+    c) Ja, omdat ze allebeide waterstof bruggen hebben.
+
+35. 
+
+    a) troebel, wit
+    b) helder, doorzichtig
+    c) helder
+
+36. 
+
+    a) 
+    b) 
+
+
+| Stof | Eigenschap | 
+| Hexaan | Hydrofoob
+| I2 | hydrofoob
