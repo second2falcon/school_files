@@ -196,6 +196,16 @@
     a) 
     b) 
 
+37. 
+
+    a) Omdat niet bijde hydrofiel of hydrofoob zijn.
+    b) 
+
+38. 
+
+    a) O2
+    b) De oppervlakte spanning van de zuurstof bubbel wordt te klein.
+    c) NaOH
 
 | Stof | Eigenschap | 
 | Hexaan | Hydrofoob
