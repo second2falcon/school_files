@@ -203,10 +203,32 @@
 
 38. 
 
-    a) O2
-    b) De oppervlakte spanning van de zuurstof bubbel wordt te klein.
-    c) NaOH
+    a) Moleculen uit de lucht en water (H₂O)
+    b) Omdat ze direct met het omgevende water reageren waardoor ze instabiel worden.
+    c) NaOH (zeep) en lucht
+    d) Omdat ze niet direct met de omgevende watermoleculen reageren in tegenstelling tot water bubbels
 
-| Stof | Eigenschap | 
-| Hexaan | Hydrofoob
-| I2 | hydrofoob
+39. 
+
+    Door de volume-%, door de maasa-ppm en de massa-%
+
+40. 
+
+    a) Dat 0,25% van het volume van het mengsel water is.
+    b) Lucht bevat 4,67 massa deeltjes ozon per miljoen luchtdeeltjes.
+    c) Van een dressing is kwa massa 60% olie.
+
+41. 
+
+    De hoeveelheid (massa) van de stoffen en wat voor stoffen het zijn.
+
+42. 
+
+    a) Alcohol en het mengsel is lucht + alcohol
+    b) 0,00022 g alcohol
+    c) 
+    d) 
+    e) 
+
+ppm = parts per million (x 10ˆ6)
+ppb = parts per billion (x 10ˆ9)
