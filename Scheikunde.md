@@ -226,9 +226,13 @@
 
     a) Alcohol en het mengsel is lucht + alcohol
     b) 0,00022 g alcohol
-    c) 
-    d) 
-    e) 
+    c) 1,29 + 0,00022 = 1,29022 g
+    d) 1000 / 1,29 * 0,00022 = 0,1705426357 g = ~170,5 mg
+    e) 0,00022 / 1,29 * 100 = 0,01705426357 % = ~0,02%
+
+43. 
+
+    
 
 ppm = parts per million (x 10ˆ6)
 ppb = parts per billion (x 10ˆ9)
