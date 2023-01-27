@@ -234,3 +234,70 @@
 
 ppm = parts per million (x 10ˆ6)
 ppb = parts per billion (x 10ˆ9)
+
+### §5.1
+
+1. 
+   
+    a) Als de buitenste schil van een atoom minder dan 4 elektronen heeft.
+    b) Als een atoom in de buitenste schil 5, 6 of 7 elektronen heeft.
+    c) Ijzer (Fe)
+    d) Door te kijken in welke atoomgroep ze zijn.
+    e) 99 (het periodiek systeem)
+    f) Het positief ion staat voor en het negatief ion achter met -ide daar achter.
+    g) De naam van het negatief ion komt eerst gevolgd door -aation of -ietion of -xide-ion
+    h) Als de stof uit een metaal en een niet metaal bestaat.
+
+2. 
+
+    a) Een ion bestaande uit 2 andere ionen.
+    b) Als een ion de open plekken van een ander ion kan opvullen.
+
+3. 
+
+    a) carbonaation
+    b) fosfaation
+    c) hydroxide-ion
+    d) ammoniumion
+    e) acetaation
+    f) nitraation
+
+4. 
+
+    a) NO₂⁻
+    b) SO₄²⁻
+    c) HCO₃⁻
+    d) S²⁻
+    e) O²⁻
+
+5. 
+
+    a) 32,06 * 5,33 = 170,8798
+    b) 0,0013 / 46,006 = 2,8257 * 10⁻⁵
+
+6. 
+
+    a) 1: 17 p, 18 e; 2: 12 p, 10 e; 3: 13 p, 10 e; 4: 11 p, 10 e;
+    b) 1: 35,5; 2: 24,5; 3: 27; 4: 18,042
+
+7. 
+
+    a) 77,7% = 14,01 / 18,042 * 100
+    b) 32,6% = 30,97 / (30,97 + 16 * 4) * 100
+
+8. 
+
+    Naam van positief geladen ion met -ide of -ion erachter (afhankelijk van de lading van de samenstelling).
+
+9. 
+
+    a) Magnesiumselenide
+    b) Zinknitraat
+    c) Strontiumfosfaat
+
+10. 
+
+    a) Aluminiumsulfide
+    b) Lood(IV)sulfiede
+    c) Ammoniumcarbonaat
+    d) Bariumsulfide
