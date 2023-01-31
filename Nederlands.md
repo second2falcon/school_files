@@ -426,3 +426,41 @@ o10
 
     a) De Laatste, omdat die iets onwaarschijnlijks heeft.
     b) Moe, verslapen, te laat. Strat oplopen.
+
+## Taalkunde 
+
+### §1: Mens & taal
+
+    Wat is taal? Wat maakt menselijke taal uniek?
+
+1. Praten over abstracte onderwerpen, over gebeurtenissen die in het verleden of in de toekomst zijn. (Iets vertellen en erg overdrijven of praten over de toekomst.)
+2. Productiviteit: taal bestaat uit bouwsteentjes. (Je gebruikt klanken steeds weer opnieuw om nieuwe woorden te maken.)
+3. Willekeurigheid: er is geen natuurlijke relatie tussen het teken (woord) en de betekenis. (Woorden/Namen hebben geen relatie tot waarnaar ze verwijzen - ananas / pineapple = een stekelige tropische fruit.)
+4. Taal is voor een groot deel aangeleerd. (Nederlands baby die in Brazilië bij Braziliaanse ouders opgroeit zal Portugees leren.)
+
+### Opdrachten
+
+1. 
+
+    a) Je kunt praten over gevoelens, vriendschap, de dood, theoretische zaken (wat als), leugens en fantasieën.
+    b) Theoretische zaken = bedrijf starten met mnr Wortman
+
+2. 
+
+    Omdat je dezelfde geluiden kunt hethalen om verschillende dingen aan te geven.
+
+3. 
+
+    Nee, omdat school niet automatisch iets uitzegt over wat je daar doet. School is in die zin dus gewoon een vervangings woord voor "Je leert verschillende onderwerpen van een docent, samen met andere kinderen".
+
+4. 
+
+    a) aangeleerd
+    b) aangeboren
+    c) aangeboren
+    d) aangeleerd
+    e) aangeleerd
+
+5. 
+
+    Wij kunnen met taal dingen aanwijzen die niet aanwezig zijn of net gebeuren, maar bijvoorbeeld in het verleden of de toekomst zitten. Ook kunnen wij over theoretische zaken praten en verschillende dingen aanwijzen.

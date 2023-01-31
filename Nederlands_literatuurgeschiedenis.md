@@ -40,6 +40,16 @@
 - Allegorie (bijvoorbeeld Elkerlyc)
 - Boekdrukkunst
 
+## §19 Pluk de dag (1600 - 1700)
+
+- Bloeiperiode op economisch, wetenschappelijk en cultureel niveau
+- Renaissance (wedergeboorte van de Klassieke oudheid)
+- Sonnet (dichtvorm)
+- ~~Memento mori~~ -> Carpe diem
+- Geloof blijft belangrijk, maar de mens richt zich meer op de wereld om hem heen.
+- Gouden eeuw?
+- Reisverhalen
+
 ---
 ---
 ---
@@ -120,3 +130,17 @@ o9
     b) Walewein gedraagt zich hoofs. Niet alleen komt hij op voor een zwakkere, in dit geval een jongvrouw, maar hij geeft zijn tegenstander ook nog de kans om zijn leven te beteren voordat hij het gevecht aangaat.
     c) Walewein gaat op reis om zijn trouw aan de koning te bewijzen, wat een typisch middeleeuws thema is.
     d) Nee, feministen zullen hoofse ridders geen ideale mannen vinden. Volgens het feminisme hoeven vrouwen niet aanbeden en beschermd te worden. Vrouwen zijn gelijkwaardig en krachtig genoeg om voor zichzelf te zorgen.
+
+## §19 Pluk de dag
+
+1. 
+
+    a) Bredero wilde zeggen dat het ok is als de wereld verandert.
+    b) Omdat toen de klassiekeoudheid terugkeerde.
+    c) In de renaissance werd wetenschap balangrijker en de economie bloeide. Ook veranderde het motto van ~~Memento mori~~ naar Carpe diem.
+
+2. 
+
+    a) Veel mensen vluchten uit Antwerpen met veel kennis en rijkdom richting het noorden en Nederland wordt groter in de internationale handel.
+    b) De Rijker werde rijker en de Armen werden armer.
+    c) Ja en nee, omdat wij daardoor mooie kunstwerken en sieraden zijn ontstaan maar ook niet, omdat sommige mensen in echte shit condities leefden.
