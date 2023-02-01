@@ -438,6 +438,16 @@ o10
 3. Willekeurigheid: er is geen natuurlijke relatie tussen het teken (woord) en de betekenis. (Woorden/Namen hebben geen relatie tot waarnaar ze verwijzen - ananas / pineapple = een stekelige tropische fruit.)
 4. Taal is voor een groot deel aangeleerd. (Nederlands baby die in Brazilië bij Braziliaanse ouders opgroeit zal Portugees leren.)
 
+### §4: Hoe kinderen taal leren
+
+-  Taal verwerf je, zonder dat iemand je dat allemaal uitlegt.
+- Voor de geboorte: ritme van taal leren
+- 0 - 1 jaar: fonologische vaardigheden
+- 1 - 2,5 jaar: semantische en synatische vaardigheden
+- 2,5 - 5 jaar: morfologische vaardigheden, metalinguïstisch bewustzijn
+- 5 - 9 jaar: pragmatische vardigheden
+- 9 jaar: einde *kritische periode*
+
 ### Opdrachten
 
 1. 
@@ -464,3 +474,24 @@ o10
 5. 
 
     Wij kunnen met taal dingen aanwijzen die niet aanwezig zijn of net gebeuren, maar bijvoorbeeld in het verleden of de toekomst zitten. Ook kunnen wij over theoretische zaken praten en verschillende dingen aanwijzen.
+
+### §4
+
+1. 
+
+    a) fonologische vaardigheden, semantische vaardigheden, syntactische vaardigheden, morfologische vaardigheden en pragmatische vaardigheden
+    b) 0 - 1 jaar: fonologische vaardigheden; 1 - 2,5 jaar: semantische en synatische vaardigheden; 2,5 - 5 jaar: morfologische vaardigheden, metalinguïstisch bewustzijn; 5 - 9 jaar: pragmatische vardigheden
+
+2. 
+
+    Omdat die de woordvolgorde heeft geleerd/gehoord.
+
+3. 
+
+    a) morfologische vaardigheden
+    b) semantische en synatische vaardigheden
+    c) pragmatische vaardigheden
+
+7. 
+
+    Een volwassene had al veel langer tijd om een grotere woordenschat te bouwen om die effectief te gerbuiken.

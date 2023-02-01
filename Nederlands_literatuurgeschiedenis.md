@@ -49,6 +49,14 @@
 - Geloof blijft belangrijk, maar de mens richt zich meer op de wereld om hem heen.
 - Gouden eeuw?
 - Reisverhalen
+- Humanisme (desiderius Erasmus)
+- Het Wilhelmus
+- Geloof en strijd
+- Homo universalis (Leonardo da Vinci, Constantijn Huygens)
+- Klassiek voorbeeld: epigrammen (korte gedichten ±4 regels) en embleem (een gedicht met een afbeelding en spreuk)
+- Sonnet naar Italiaans voorbeeld
+- Grand tour (P.C. Hooft)
+- Toneel: komedie Warenar
 
 ---
 ---
@@ -144,3 +152,15 @@ o9
     a) Veel mensen vluchten uit Antwerpen met veel kennis en rijkdom richting het noorden en Nederland wordt groter in de internationale handel.
     b) De Rijker werde rijker en de Armen werden armer.
     c) Ja en nee, omdat wij daardoor mooie kunstwerken en sieraden zijn ontstaan maar ook niet, omdat sommige mensen in echte shit condities leefden.
+
+3. 
+
+    a) De mens is een individu, en dus geen onderdeel van een groep.
+    b) Omdat de daar niet centraal staat.
+    c) Ja, het is nog steeds een onderdeel van het leven, maar niet het leven zelf.
+    d) Hummanistische gedachten zoals vinden hun weg naar de literatuur. Leonardo da Vinci en Constantijn Huygens.
+
+4. 
+
+    a) Er komen nieuwe schrijfvormen.
+    b) Hij geeft Nederlands een belangrijke rol.
