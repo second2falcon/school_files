@@ -301,3 +301,48 @@ ppb = parts per billion (x 10ˆ9)
     b) Lood(IV)sulfiede
     c) Ammoniumcarbonaat
     d) Bariumsulfide
+
+11. 
+
+    a) natriumwaterstofcarbonaat
+    b) koperacetaat
+    c) kwik(II)jodide
+    d) kaliumhydroxide
+    e) lithiumnitriet
+
+12. 
+
+    a) ICI₃, ICI en H₂O₂
+    b) joodtrichloride, joodmonochloride en waterstofperoxide (diwaterstofdioxide)
+    c) FeCl₃, AgCl en Na₂S
+    d) ijzer(III)chloride, zilverchloride en natriumsulfide
+
+14. 
+
+    a) Na₂SO₄
+    b) CuCO₃
+    c) Al₂S₃
+    d) Mg(NO₂)₂
+    e) Ba(HCO₃)₂
+    f) (NH₄)₃PO₄
+    g) Fe₂(SO₃)₃
+    h) Ca(OH)₂
+
+15. 
+
+    a) Moleculaire stoffen: stikstofmono-oxide, koolstofdisulfide, difosforpentaoxide
+       Zouten: kwik(III)chloride, magnesiumoxide, calciumsulfide
+       Te zien aan het telwoord die niet te vinden is bij een zout.
+    b) HgCl₂, NO, MgO, CS₂, CaS, P₂O₅
+
+16. 
+
+    35%
+
+17. 
+
+    - 
+
+18. 
+
+    a) 
