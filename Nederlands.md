@@ -448,6 +448,17 @@ o10
 - 5 - 9 jaar: pragmatische vardigheden
 - 9 jaar: einde *kritische periode*
 
+### §7: Sociale taalverschillen
+
+- Je taalgebruik verschilt niet alleen van dat van anderen; je past ook je taalgebruik aan op de situatie waarin je je bevindt.
+- Sociolect: taalvariant die bij een bepaalde sociale groep hoort.
+- De sociolinguïstiek houdt zich bezig met zulke sociale en culturele taalverschillen.
+- Sociale klasse: optelsom van opleiding, baan en inkomen
+- Leeftijd: bijv. jongerentaal
+- Geslacht: sekse / gender
+- Idiolect: persoonlijke taalgebruik
+- Register: taalstijl die je gebruikt in bepaalde situaties
+
 ### Opdrachten
 
 1. 
@@ -495,3 +506,49 @@ o10
 7. 
 
     Een volwassene had al veel langer tijd om een grotere woordenschat te bouwen om die effectief te gerbuiken.
+
+### §7
+
+1. 
+
+    Taalvariant die bij een bepaalde sociale groep hoort.
+
+2. 
+
+    Met klasse wordt bedoelt de optelsom van opleiding, baan en inkomen.
+
+3. 
+
+    Je kunt niet 1 op 1 exact dezelfde persoon uit bijde situaties hebben.
+
+4. 
+
+    a) Dat mijn ouders vaker vaktermen gebruiken uit hun werkleven die ik niet ken.
+    b) Ja
+    c) Vanaf ±10 jaar tot ±20 jaar
+
+5. 
+
+    ziek, generic ziektes (kanker, tyfus, etc)
+
+6. 
+
+    Sekse is wat je biologisch bent en gender is dat wat je jezelf aanmeet.
+
+7. 
+
+    a) Sekse, omdat het om biologie gaat.
+    b) Geen van beide, is een subjectieve vraag.
+    c) Geen van beide
+
+8. 
+
+    Geen
+
+9. 
+
+    Niet ieder persoon is hetzelfde waardoor iedereen ander taalgebruik heeft.
+
+10. 
+
+    Dat is het taalgebruik wat je zelf hebt ontwikkeld.
