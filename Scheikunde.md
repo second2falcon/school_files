@@ -346,3 +346,40 @@ ppb = parts per billion (x 10ˆ9)
 18. 
 
     a)  
+
+### §5.2
+
+- Zout oplossen in water
+    - NaClₛ -> Na⁺ₐq + Cl⁻ₐq
+
+19. 
+
+    a) Een zout is altijd geladen en de deeltjes kunnen bewegen.
+    b) Een ion dat omringt is door watermoleculen.
+
+20. 
+
+    a) ✅
+    b) K⁺ₐq + Cl⁻ₐq
+    c) ✅
+    d) 3 Na⁺ₐq + PO₄³⁻ₐq
+    e) C₂H₆Oₐq
+
+23. 
+
+    a) AgNO₃ (s) -> Ag⁺ₐq + NO₃⁻ₐq
+    b) Mg(NO₃)₂ (s)
+    c) Al³⁺ₐq + (Cl⁻)₃ₐq
+
+24. 
+
+    a) ZnCl₂ (s) -> Zn²⁺ₐq + 2Cl⁻ₐq
+    b) NH₄NO₃ (s) -> NH₄⁺ₐq + NO₃⁻ₐq
+    c) MgSO₄ (s) -> Mg²⁺ₐq + SO₄²⁻ₐq
+    d) Na₃PO₄ (s) -> 3Na⁺ₐq + PO₄³⁻ₐq
+    e) Fe3(SO₄)₃ (s) -> 2Fe³⁺ₐq + 3SO₄²⁻ₐq
+    f) K₂O (s) -> 2K⁺ + 2OH⁻
+
+25. 
+
+    
