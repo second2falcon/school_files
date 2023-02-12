@@ -380,6 +380,20 @@ ppb = parts per billion (x 10ˆ9)
     e) Fe3(SO₄)₃ (s) -> 2Fe³⁺ₐq + 3SO₄²⁻ₐq
     f) K₂O (s) -> 2K⁺ + 2OH⁻
 
-25. 
+28. 
 
-    
+    a) 1: Ca₃(PO₄)₂; 2: Na₂O; 3: HgCl₂;  4: MgI₂; 5: Cu(CH₃COO)₂; 6: Fe₂(SO₄)₃; 7: BaO; 8: PbBr₂; 9: HgCl; 10: BaSO₄;
+    b) 2: 2Na⁺ₐq + 2OH⁻ₐq; 3: Hg²⁺ₐq + 2Cl⁻ₐq; 4: Mg²⁺ₐq + 2I⁻ₐq; 5: Cu²⁺ₐq + 2(CH₃COO)⁻ₐq; 6: 2Fe³⁺ₐq + 3SO₄²⁻ₐq; 7: Ba²⁺ₐq + 2OH⁻ₐq; 8: Pb²⁺ₐq + 2Br⁻ₐq; 9: -; 10: -;
+
+33. 
+
+    a) Water dat in kristalroosters zit.
+    b) Een zout dat verbonden is met water.
+    c) Exotherm, endotherm
+
+34. 
+
+    a) 
+    b) 
+    c) 
+    d) 
