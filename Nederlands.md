@@ -515,11 +515,12 @@ o10
 
 2. 
 
-    Met klasse wordt bedoelt de optelsom van opleiding, baan en inkomen.
+    Met klasse wordt de optelsom van opleiding, baan en inkomen bedoeldt.
 
 3. 
 
     Je kunt niet 1 op 1 exact dezelfde persoon uit bijde situaties hebben.
+    Lager- en hogeropgeleiden bevinden zich doorgaans in verschillende milieus waardoor ze in contact komen met verschillende sociolecten.
 
 4. 
 
@@ -539,7 +540,9 @@ o10
 
     a) Sekse, omdat het om biologie gaat.
     b) Geen van beide, is een subjectieve vraag.
+        (Gender)
     c) Geen van beide
+        (Gender)
 
 8. 
 
