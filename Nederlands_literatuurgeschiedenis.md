@@ -58,6 +58,14 @@
 - Grand tour (P.C. Hooft)
 - Toneel: komedie Warenar
 
+## §19 Pluk de dag (1600 - 1700) - slot
+
+- Toneelstukken geïnspireerd op de toneelstukken uit de klassieke oudheid.
+- Transltio (vertalen), imitatio (namaken), aemulation (verbeteren) (vaak in combinatie met geloof)
+- Tragedie
+- Komedie
+- Bekende tragedie: Gysbreght van Aemstel - Joost van den Vondel
+
 ---
 ---
 ---
