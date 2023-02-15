@@ -393,7 +393,10 @@ ppb = parts per billion (x 10ˆ9)
 
 34. 
 
-    a) 
-    b) 
+    a) Gips: Calciumsulfaatdihydraat; soda: natriumcarbonaatdecahydraat; glauberzout: natriumsulfaatdecahydraat; chroomaluin: chroom(III)kaliumsulfaatdodecahydraat;
+    b) Gips: CaSO₄ . 2OH; soda: NaCO₃ . 10H₂O; glauberzout: NaSO₄ . 10OH; chroomaluin: CrK(SO₄)₂ . 12OH;
     c) 
     d) 
+
+- gehydrateerd = een ion met water omringt
+- hydraat = zout waarin watermoleculen zijn ingebouwd in het kristalrooster, dit noemen we kristalwater
