@@ -400,3 +400,23 @@ ppb = parts per billion (x 10ˆ9)
 
 - gehydrateerd = een ion met water omringt
 - hydraat = zout waarin watermoleculen zijn ingebouwd in het kristalrooster, dit noemen we kristalwater
+
+|   | No₃⁻ | PO₄³⁻
+| --- | --- | --- |
+| Cu²⁺ | g | s |
+| Na⁺ | g | g |
+
+3Cu²⁺₍ₐq₎ + 2PO₄³⁻₍ₐq₎ -> Cu₃(PO₄)₂₍ₛ₎
+
+45. 
+
+    Een reactie waarbij twee stoffen reageren en een vaste stof maken.
+
+46. 
+
+    Vergelijking voor de neerslagreactie.
+
+47. 
+
+    a) Na⁺; CO₃²⁻; Ca²⁺; Cl⁻; 
+    c) Ca²⁺ₐq+CO₃²⁻ₐq -> CaCO₃ₛ
