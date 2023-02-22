@@ -459,6 +459,24 @@ o10
 - Idiolect: persoonlijke taalgebruik
 - Register: taalstijl die je gebruikt in bepaalde situaties
 
+### §?: Poëzie (p 154)
+
+- Regelbouw
+    - Versregel
+    - Enjambement
+    - Strofe
+
+- Sonnet (14 regels)
+    - Meestal twee kwatrijnen en twee terzines
+    - Wendig / volta, meestal na de tweede strofe (1e deel heel positief, 2e deel negatief b.v.)
+
+- Rijm
+    - Volrijm
+    - Halfrijm
+        - Consonatie
+        - Alliteratie
+        - Assonantie
+    - Gelijk rijm
 ### Opdrachten
 
 1. 
