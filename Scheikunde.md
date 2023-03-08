@@ -420,3 +420,7 @@ ppb = parts per billion (x 10ˆ9)
 
     a) Na⁺; CO₃²⁻; Ca²⁺; Cl⁻; 
     c) Ca²⁺ₐq+CO₃²⁻ₐq -> CaCO₃ₛ
+
+48. 
+
+    geel, 
