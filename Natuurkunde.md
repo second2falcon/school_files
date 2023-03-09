@@ -410,4 +410,45 @@ U (Volt) = 4
 
     a) 0,000095 * 60 = 0,0057C
     b) 3,5625 * 10ˆ16
-    
+
+---
+
+## Hfdstuk 9
+
+1. 
+
+    a)  frequentie = Hz
+        trillingstijd = s
+        uitwijking = cm
+        amplitude = cm 
+    b) maximale uitwijking en evenwichts stand
+    c) frequentie is hoeveelheid trillingen per seconde terwijl de periode de tijd voor een hele trilling is
+
+2. 
+
+    a) 1 / 80 = 0,0125 s
+    b) 1200 / 60 = 20 Hz
+
+3. 
+
+    a) Het is een herhalende beweging
+    b) amplitude: 10 cm; trillingstijd: 0,125 s; frequentie: 8 Hz
+    c) 
+
+4. 
+
+    a) 2,5 m
+    b) 1 / (12 * 60 * 60) = 0,000023148148148 Hz 
+    c) Tussen 1 en 5 en 13 en 17.
+
+5. 
+
+    a) 1 / 0,75 = 1,33 Hz
+    b) Nee, die is namelijk de helft van de slingertijd/frequentie.
+    c) trillingstijd = 0,2127659574 seconde = 1 / (46/10) = 
+
+6. 
+
+    a) 0,4; 2,6; 3,6; 5,8; 6,7
+    b) 1,5; 4,7
+    c) 12 m
