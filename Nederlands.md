@@ -408,7 +408,7 @@ o20
 ---
 §13: Bondig Formuleren
 
-o2 
+o2
 
     a) In de speeltuin mag alleen eten wat hier is gekocht worden geconsumeerd. Bedankt.
     b) U moet zich eerst bij de assistente melden en dan in de wachtkamer gaan zitten
@@ -418,16 +418,16 @@ o2
 
     gesnipperd, gehakt, eventueel, 2 (Open het blijke met de tomatenpuree en de twee blikken met tomatenblokjes.), gecondenseerde, Je zult willen voorkomen dat je een nogal zure smaak zult houden. Daarom is het idee dat je de tomatenpuree even mee laat bakken.; , uit de blikjes, goed lang, Als je wilt;, "je favoriete, vrolijke", "en dien op"
 
-o7 
+o7
 
     Je zou denken dat de keuzes die je in je leven maakt, de rest van je leven beïnvloeden. Maar dat is helemaal niet zo.
 
-o10 
+o10
 
     a) De Laatste, omdat die iets onwaarschijnlijks heeft.
     b) Moe, verslapen, te laat. Strat oplopen.
 
-## Taalkunde 
+## Taalkunde
 
 ### §1: Mens & taal
 
@@ -440,7 +440,7 @@ o10
 
 ### §4: Hoe kinderen taal leren
 
--  Taal verwerf je, zonder dat iemand je dat allemaal uitlegt.
+- Taal verwerf je, zonder dat iemand je dat allemaal uitlegt.
 - Voor de geboorte: ritme van taal leren
 - 0 - 1 jaar: fonologische vaardigheden
 - 1 - 2,5 jaar: semantische en synatische vaardigheden
@@ -462,37 +462,109 @@ o10
 ### §?: Poëzie (p 154)
 
 - Regelbouw
-    - Versregel
-    - Enjambement
-    - Strofe
+  - Versregel
+  - Enjambement
+  - Strofe
 
 - Sonnet (14 regels)
-    - Meestal twee kwatrijnen en twee terzines
-    - Wendig / volta, meestal na de tweede strofe (1e deel heel positief, 2e deel negatief b.v.)
+  - Meestal twee kwatrijnen en twee terzines
+  - Wending / volta, meestal na de tweede strofe / tweede kwatrijn (1e deel heel positief, 2e deel negatief b.v.)
 
 - Rijm
-    - Volrijm
-    - Halfrijm
-        - Consonatie
-        - Alliteratie
-        - Assonantie
-    - Gelijk rijm
+  - Volrijm
+  - Halfrijm
+    - Consonatie
+    - Alliteratie
+    - Assonantie
+  - Gelijk rijm
+
+- Begrippen Poëzie
+  - Context van een gedicht
+  - Presentatie van een gedicht
+  - Perspectief
+  - Lyrisch ik (ik persoon in een gedicht)
+
+- Strofen
+  - Distichon (twee versregels)
+  - Terzine / terzet (drie versregels)
+  - Kwatrijn (vier versregels)
+  - Kwintet (vijf versregels)
+  - Sextet (zes versregels)
+  - Septet (zeven versregels)
+  - Octaaf (acht versregels)
+
+- Enjambement
+  - Een zin loopt door over twee of meerdere versregels, zonder pauze
+  - Woorden aan het begin of einde van de versregels krijgen zo meer nadruk
+
+- Rijm
+  - Volrijm: bl<ins>oo</ins>t - d<ins>oo</ins>d / m<ins>aa</ins>n - gr<ins>aa</ins>n / gr<ins>uwelijk</ins> - afsch<ins>uwelijk</ins>
+  - Halfrijm - assonantie: bl<ins>oo</ins>t - r<ins>oo</ins>k / m<ins>aa</ins>n - h<ins>aa</ins>r
+  - Halfrijm - alliteratie: bloot - blauw / languit liggende lichaam
+  - Halfrijm - consonantie: Een rustige gast stapt naar binnen
+  - Rijk rijm: Zij <ins>ligt</ins> hier zonnend in het middag<ins>licht</ins>
+
+  - Voorrijn: rijm aan het begin van opeenvolgende versregels
+  - Middenrijm: rijm in het midden van opeenvolgende versregels
+  - Eindrijm: rijm aan het einde van opeenvolgende versregels
+  - Binnenrijnm: rijm binnen één versregel
+
+  - Rijmschema's: regelmatigheid in eindrijm:
+    - Slagrijm (aaaa)
+    - Gekruist rijm (abab)
+    - Gepaard rijm (aabb)
+    - Omarmend rijm (abba)
+    - Verspringend rijm (abc abc)
+
+- Beeldspraak
+  - Figuurlijk taalgebruik
+  - Object (letterlijke) en beeld (figuurlijke)
+
+  - Vergelijking: <ins>De vuurtoren</ins> staat <ins>als een trouwe wachter</ins> bij de haven
+  - Vergelijking: <ins>Die man</ins> is <ins>een beest</ins>
+  - Metafoor: Wat <ins>een zwijnenstal</ins> is het hier!
+  - Personificatie: <ins>De wind huilt</ins> om het huis
+  - Synesthesie: schreeuwende kleuren, warme stem
+
+- Stijlfiguren
+    - Herhaling: woord of woordgroep wordt (vrijwel) ongewijzigd herhaald
+    - Anafoor: herhaling aan het begin van opeenvolgende zinnen / zinsdelen
+    - Paralellie: herhaling in zinsbouw
+    - Drieslag (tricolon): opsomming in drieën
+    - Climax: een serie van drie of meer tekstelementen, waarvan de inhoud steeds sterket wordt
+    - Anticlimax: in een reeks is de laatste stap een 'tegenvaller'
+
+- Stijlfiguren: tegenstellingen en ontkenningen
+    - Antithese (tegenstelling): licht - donker
+    - Paradox: schijbare tegenstelling ("weggaan ...)
+    - ...
+
+- Stijlfiguren: overdrijvingen en nuanceringen
+    - Eufenisme: iets mooier omschrijven dan het werkelijk is - Ik ben momenteel tussen twee banen in (Ik ben werkeloos)
+    - Hyperbol: sterke overdrijving (Ik stierf duizend doden van angst)
+    - Understatement: iets afzwakken - Dat heb je best aardig gedaan ( Dat heb je heel goed gedaan!)
+
+- Stijlfiguren: ...
+
+- Voorbeeld vraag
+  - Er staat in regel 8 een voorbeeld van beeldspraak. Welke beeldspraak is dat en leg deze uit.
+
 ### Opdrachten
 
-1. 
+1.
 
     a) Je kunt praten over gevoelens, vriendschap, de dood, theoretische zaken (wat als), leugens en fantasieën.
     b) Theoretische zaken = bedrijf starten met mnr Wortman
 
-2. 
+2.
 
     Omdat je dezelfde geluiden kunt hethalen om verschillende dingen aan te geven.
 
-3. 
+3.
 
     Nee, omdat school niet automatisch iets uitzegt over wat je daar doet. School is in die zin dus gewoon een vervangings woord voor "Je leert verschillende onderwerpen van een docent, samen met andere kinderen".
 
-4. 
+4.
 
     a) aangeleerd
     b) aangeboren
@@ -500,61 +572,61 @@ o10
     d) aangeleerd
     e) aangeleerd
 
-5. 
+5.
 
     Wij kunnen met taal dingen aanwijzen die niet aanwezig zijn of net gebeuren, maar bijvoorbeeld in het verleden of de toekomst zitten. Ook kunnen wij over theoretische zaken praten en verschillende dingen aanwijzen.
 
 ### §4
 
-1. 
+1.
 
     a) fonologische vaardigheden, semantische vaardigheden, syntactische vaardigheden, morfologische vaardigheden en pragmatische vaardigheden
     b) 0 - 1 jaar: fonologische vaardigheden; 1 - 2,5 jaar: semantische en synatische vaardigheden; 2,5 - 5 jaar: morfologische vaardigheden, metalinguïstisch bewustzijn; 5 - 9 jaar: pragmatische vardigheden
 
-2. 
+2.
 
     Omdat die de woordvolgorde heeft geleerd/gehoord.
 
-3. 
+3.
 
     a) morfologische vaardigheden
     b) semantische en synatische vaardigheden
     c) pragmatische vaardigheden
 
-7. 
+7.
 
     Een volwassene had al veel langer tijd om een grotere woordenschat te bouwen om die effectief te gerbuiken.
 
 ### §7
 
-1. 
+1.
 
     Taalvariant die bij een bepaalde sociale groep hoort.
 
-2. 
+2.
 
     Met klasse wordt de optelsom van opleiding, baan en inkomen bedoeldt.
 
-3. 
+3.
 
     Je kunt niet 1 op 1 exact dezelfde persoon uit bijde situaties hebben.
     Lager- en hogeropgeleiden bevinden zich doorgaans in verschillende milieus waardoor ze in contact komen met verschillende sociolecten.
 
-4. 
+4.
 
     a) Dat mijn ouders vaker vaktermen gebruiken uit hun werkleven die ik niet ken.
     b) Ja
     c) Vanaf ±10 jaar tot ±20 jaar
 
-5. 
+5.
 
     ziek, generic ziektes (kanker, tyfus, etc)
 
-6. 
+6.
 
     Sekse is wat je biologisch bent en gender is dat wat je jezelf aanmeet.
 
-7. 
+7.
 
     a) Sekse, omdat het om biologie gaat.
     b) Geen van beide, is een subjectieve vraag.
@@ -562,14 +634,14 @@ o10
     c) Geen van beide
         (Gender)
 
-8. 
+8.
 
     Geen
 
-9. 
+9.
 
     Niet ieder persoon is hetzelfde waardoor iedereen ander taalgebruik heeft.
 
-10. 
+10.
 
     Dat is het taalgebruik wat je zelf hebt ontwikkeld.

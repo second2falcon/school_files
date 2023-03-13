@@ -452,3 +452,38 @@ U (Volt) = 4
     a) 0,4; 2,6; 3,6; 5,8; 6,7
     b) 1,5; 4,7
     c) 12 m
+
+- u = A * sin(360t/T)
+- T = 2pi√(m/c)
+
+7. 
+
+    a) Wanneer het een golf is die de heel tijd smooth omhoog en omlaag gaat in een sinus grafiek.
+    b) Een eigentrilling is de trilling die een voorwerp gaat uitvoeren als het ui zijn evenwichtsstand is gebracht.
+    c) veerconstante, massa
+    d) Resonantie ontstaat als een voorwerp wordt gedwongen te trillen met een frequendie die overeenkomt met zijn eigenfrequentie.
+
+8. 
+
+    a) Vele malen meten en het gemiddelde nemen.
+    b) Omdat het moment dat die daar is, veel langer is dan in de evenwichtsstand.
+
+9. 
+
+    a) 1/40 seconde
+    b) 440 Hz = 1/(0,025/11)
+
+10. 
+
+    a) 52*9,81/0,129=3954,42
+    b) 0,18; 0,56; 0,91; 1,31
+    c) 1⅓Hz
+
+11. 
+
+    a) 90 * 9,81 / 0,05 = 17658
+    b) 17658 / 4 = 4414,5
+    c) 2pi√(90/17658) = 0,7170889497 s
+    d) 
+    e) Trillingstijd wordt groter
+    f) resonantie
