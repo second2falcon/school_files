@@ -487,3 +487,42 @@ U (Volt) = 4
     d) 
     e) Trillingstijd wordt groter
     f) resonantie
+
+15. 
+
+    a) Bij een traversale golf, gaan de golven omhoog en omlaag terwijl bij een longitudinale golf de trilling te zien is aan het afstands verschil tussen de trillingen in een horizontale zicht.
+    b) De afstand die een golf in een trilling beweegt.
+    c) De plek waar de golf op het eind moment is.
+
+16. 
+
+    a) 0,26 seconde
+    b) 3,65 seconde
+
+17. 
+
+    a)  A
+    b) 1,9 s
+    c) 
+
+18. 
+
+    a) omlaag
+    b) wel
+    c) 0,2 m
+    d) 0,32 s
+    e) 1 m/s
+    f) 0,5
+    g) omlaag
+    h) 0,07; 0,17; 0,27
+    i) 0,02; 0,12; 0,22
+
+19. 
+
+    a) 0,55 m
+    b) 2,4 s
+    c) 3,6 m; 2 s
+
+20. 
+
+    
