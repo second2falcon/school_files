@@ -424,3 +424,55 @@ ppb = parts per billion (x 10ˆ9)
 48. 
 
     geel, 
+
+## H6
+
+### §6.1
+
+1. 
+
+    a) Een keten van C en H atomen.
+    b) Wanneer er 1 of meer dubbele atoombindingen zijn.
+    c) Wanneer een atoom niet aan het uiteinde van een reeks is vertakt.
+
+2. 
+
+    Stoffen met dezelfde molecuulformule maar verschillende structuren.
+
+3. 
+
+    a) b=H₂C en CH; d=H₂C en CH, CH en CH
+    b) a=CH en CH₃; c=CH en CH₃, CH en CH₃
+
+4. 
+
+    a) 
+    b) 
+
+5. 
+
+    a & e
+
+6. 
+
+    Als er geen dubbelebindingen zijn.
+
+7. 
+
+    CₙH₂ₙ
+
+8. 
+
+    a) Nonaan
+    b) Alkenen omdat het niet CₙH₂ₙ₊₂ is maar CₙH₂ₙ.
+
+9. 
+
+    a) Onvertakte verbindingen
+    b) a=C₆H₁₄; b=
+
+10. 
+
+    Methyl, Ethyl, Propaan, Butaan, Pentaan, Hexaan, Heptaan
+
+11. 
