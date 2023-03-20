@@ -526,7 +526,7 @@ o10
   - Personificatie: <ins>De wind huilt</ins> om het huis
   - Synesthesie: schreeuwende kleuren, warme stem
 
-- Stijlfiguren
+- Stijlfiguren: herhalingen en opsommingen
     - Herhaling: woord of woordgroep wordt (vrijwel) ongewijzigd herhaald
     - Anafoor: herhaling aan het begin van opeenvolgende zinnen / zinsdelen
     - Paralellie: herhaling in zinsbouw
@@ -537,14 +537,21 @@ o10
 - Stijlfiguren: tegenstellingen en ontkenningen
     - Antithese (tegenstelling): licht - donker
     - Paradox: schijbare tegenstelling ("weggaan ...)
-    - ...
+    - Litotes: omschrijving van een woord door het ontkennen van het tegenovergestelde ("dat heb je niet slecht gedaan")
+    - Retorische vraag: vraag waarop je geen antwoord verwacht ("Hoe dom kun je zijn?")
+    - Chiasme (kruisstelling): één voor allen en allen voor één
 
 - Stijlfiguren: overdrijvingen en nuanceringen
     - Eufenisme: iets mooier omschrijven dan het werkelijk is - Ik ben momenteel tussen twee banen in (Ik ben werkeloos)
     - Hyperbol: sterke overdrijving (Ik stierf duizend doden van angst)
     - Understatement: iets afzwakken - Dat heb je best aardig gedaan ( Dat heb je heel goed gedaan!)
 
-- Stijlfiguren: ...
+- Stijlfiguren: spot
+    - Ironie: milde spot (het tegenovergestelde zegggen van wat je bedoelt)
+    - Sarcasme: spot die bedoeld is om te kwetsen
+    - Cynisme: bittere spot ("Je gelooft niet meer in het 'goede'.")
+    - Parodie: je doet bijvoorbeeld een bekend persoon na en maakt diegene een beetje belachelijk
+    - Woordspeling: gebruik van een woord of meerdere woorden in verschillende betekenissen ("Sommige mensen hebben hun buik vol van gezond eten.")
 
 - Voorbeeld vraag
   - Er staat in regel 8 een voorbeeld van beeldspraak. Welke beeldspraak is dat en leg deze uit.
