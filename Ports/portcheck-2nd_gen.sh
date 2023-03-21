@@ -4,7 +4,7 @@ start_port=1
 end_port=65535
 timeout=1
 parallel_jobs=1000
-csv_file="port_status.csv"
+csv_file="port_status-2nd_gen.csv"
 
 # Remove the file if it exists
 if [ -f "$csv_file" ]; then
