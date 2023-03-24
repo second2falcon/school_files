@@ -476,3 +476,68 @@ ppb = parts per billion (x 10ˆ9)
     Methyl, Ethyl, Propaan, Butaan, Pentaan, Hexaan, Heptaan
 
 11. 
+
+
+    x
+
+#### Alkaanzuren
+| Naam | Voorvoegsel | Achtervoegsel |
+| --- | --- | --- |
+| Alkaanzuren |  | -zuur |
+| Alkanolen | hydroxy- | -ol |
+| Alkaanaminen | amino- | -amine |
+
+17. 
+
+    a) Zuurstof- en stikstofatomen geven karakteristieke eigenschappen aan andere atomen.
+    b) alkanolen
+
+18. 
+
+    Een alkaan waarin een of meer H-atomen door Broom atomen zijn vervangen.
+
+19. 
+
+    a) 2-chloorbutaan
+    b) Broom-methaan
+    c) 2-joodbutaan
+    d) 2,4-dichloorpentaan
+    e) 2-broom-3-joodbutaan
+
+20. 
+
+21. 
+
+22. 
+
+    Een koolstofverbinding met een hydroxylgroep.
+
+23. 
+
+24. 
+
+25. 
+
+    a) Een koolstofverbinding met een carboxylgroep
+    b) Nee
+
+26. 
+
+    a) ethaanzuur
+    b) hexaanzuur
+    c) methaanzuur
+
+27. 
+
+28. 
+
+    a) ethanol en ethanzuur
+    b) 
+
+29. 
+
+    a) Nee, omdat er ook alkamine tussen zit.
+    b) Ja, omdat er geen andere karakteistieke groepen tussen zitten.
+    c) Nee, omdat er geen 2 dubbelebindingen kunnen zijn.
+
+31.
