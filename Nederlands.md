@@ -1,6 +1,8 @@
-# **Communicatie §1 Belangrijke begrippen**
+## Communicatie 
 
-## (theorieboek blz. 52 t/m 55)
+### §1 Belangrijke begrippen
+
+#### (theorieboek blz. 52 t/m 55)
 
 - Communicatie: verbinding, informatie-uitwisseling, mededeling
 - Zender (persoon die boodschap verstuurd), boodschap (een tekst die informatie beïnhoudt), ontvanger / publiek (persoon of groep mensen die de boodschap ontvangt)
@@ -14,7 +16,7 @@
 - Iteratief (herhalend) proces
 - Ruis (miscommunicatie, verschillende soorten ruis, bijvoorbeeld fysieke ruis, psychologische ruis, innterlijke ruis en semantische ruis; fysieke ruis: storingen van buiten die voor miscommunicatie zorgen; psychologische ruis en/of innerlijke ruis: een vorm van ruis waarbij in je hoofd er dingen zijn die ervoor zorgen dat de boodschap niet correct overkomt; semantische ruis: een vorm van ruis waarbij mensen elkaar niet verstaan omdat ze niet de zelfde taal spreken;)
 
-## Overtuigen
+#### Overtuigen
 
 - Beïnvloeden: zes manieren om invloed uit te oefenen op anderen
 - Argumenteren
@@ -38,7 +40,7 @@ Signaalwoorden die een standpunt aangeven:
 - Daarom -> A, daarom S.
 - Dan ook -> A, dan ook S.
 
-## Argumentatiestructuren
+#### Argumentatiestructuren
 
 (insert scheme from page 105 and/or from mail)
 
@@ -50,7 +52,7 @@ Signaalwoorden die een standpunt aangeven:
 - Onderschikkende argumentatie: Een mening wordt door een argument ondersteunt, welke door een subargument wordt ondersteunt, welke door een sub-subargument kan worden ondersteunt. Dit kan verder zo door gaan. (argument + subargument(en))
 - Verzwegen argumenten: De spreker gaat ervan uit dat de luisteraar dezelfde argumenten heeft. (Als... dan...- uitspraken) (vb Die broek is lelijk (standpunt), want hij is blaauw (argument), verzwegen argument hier is: Als iets blaauw is, dan is het lelijk)
 
-## Argumentatieschema's: theorie
+#### Argumentatieschema's: theorie
 
 - Lees bladzijde 106/107
 - Argumentatieschema: verband tussen standpunt en argument
@@ -63,7 +65,7 @@ Signaalwoorden die een standpunt aangeven:
     6. Autoriteit
 - Kritische reacties en aanvaardbaarheid
 
-## Drogredenen: argumentatiefouten (1 - 3) en argumentatietrucs (4 - 9)
+#### Drogredenen: argumentatiefouten (1 - 3) en argumentatietrucs (4 - 9)
 
 - Foute autoriteit: Als je je niet warm aankleedt, word je verkouden. Dat zegt mijn moeder altijd.
 - Vals dilemma: het is simpel: we creëren een EU-leger, of we worden prooi van Rusland.
@@ -75,7 +77,7 @@ Signaalwoorden die een standpunt aangeven:
 - Vertekenen van standpunt (reageren op iemand, door een ander stand punt in die persoons schoenen te schuiven): jij vindt goede doelen onzin? Jij heeft dus niks om anderen!
 - Bespelen van publiek: jullie voelen vast met mij mee als ik zeg dat schooltijdens dringend anders moeten!
 
-## Bondig formuleren
+#### Bondig formuleren
 
 - Schrappen met beleid
 - Wees zuinig met hulpwerkwoorden als *zullen, mogen, kunnen, willen, gaan*
@@ -427,9 +429,9 @@ o10
     a) De Laatste, omdat die iets onwaarschijnlijks heeft.
     b) Moe, verslapen, te laat. Strat oplopen.
 
-## Taalkunde
+#### Taalkunde
 
-### §1: Mens & taal
+#### §1: Mens & taal
 
     Wat is taal? Wat maakt menselijke taal uniek?
 
@@ -438,7 +440,7 @@ o10
 3. Willekeurigheid: er is geen natuurlijke relatie tussen het teken (woord) en de betekenis. (Woorden/Namen hebben geen relatie tot waarnaar ze verwijzen - ananas / pineapple = een stekelige tropische fruit.)
 4. Taal is voor een groot deel aangeleerd. (Nederlands baby die in Brazilië bij Braziliaanse ouders opgroeit zal Portugees leren.)
 
-### §4: Hoe kinderen taal leren
+#### §4: Hoe kinderen taal leren
 
 - Taal verwerf je, zonder dat iemand je dat allemaal uitlegt.
 - Voor de geboorte: ritme van taal leren
@@ -448,7 +450,7 @@ o10
 - 5 - 9 jaar: pragmatische vardigheden
 - 9 jaar: einde *kritische periode*
 
-### §7: Sociale taalverschillen
+#### §7: Sociale taalverschillen
 
 - Je taalgebruik verschilt niet alleen van dat van anderen; je past ook je taalgebruik aan op de situatie waarin je je bevindt.
 - Sociolect: taalvariant die bij een bepaalde sociale groep hoort.
@@ -459,7 +461,7 @@ o10
 - Idiolect: persoonlijke taalgebruik
 - Register: taalstijl die je gebruikt in bepaalde situaties
 
-### §?: Poëzie (p 154)
+#### §?: Poëzie (p 154)
 
 - Regelbouw
   - Versregel
@@ -556,7 +558,7 @@ o10
 - Voorbeeld vraag
   - Er staat in regel 8 een voorbeeld van beeldspraak. Welke beeldspraak is dat en leg deze uit.
 
-### Opdrachten
+#### Opdrachten
 
 1.
 
@@ -583,7 +585,7 @@ o10
 
     Wij kunnen met taal dingen aanwijzen die niet aanwezig zijn of net gebeuren, maar bijvoorbeeld in het verleden of de toekomst zitten. Ook kunnen wij over theoretische zaken praten en verschillende dingen aanwijzen.
 
-### §4
+#### §4
 
 1.
 
@@ -604,7 +606,7 @@ o10
 
     Een volwassene had al veel langer tijd om een grotere woordenschat te bouwen om die effectief te gerbuiken.
 
-### §7
+#### §7
 
 1.
 
@@ -652,3 +654,41 @@ o10
 10.
 
     Dat is het taalgebruik wat je zelf hebt ontwikkeld.
+
+### §2 Onderwerp en hoofdgedachte
+- Zender - boodschap - medium - ontvanger
+- Onderwerp: waar gaat de tekst over?
+- Deelonderwerpen: welke verschillende stukjes van het onderwerp komen aan bod?
+- Hoofdgedachte: wat is het belangrijkste wat over het onderwerp wordt gezegd?
+- Voorkeursplaatsen: op welke plekken in een tekst staat de belangrijkste informatie?
+- Kernzin: elke alinea in een tekst heeft een zin die het belangrijkste is
+
+- Voorbeeld
+    - Onderwerp: voedbal wedstrijd
+    - Deelonderwerpen: doelpunten, opstelling, eerste/tweede helft, perspectieven, overtredingen
+
+#### Opdrachten
+
+1. 
+
+    Omdat als je dat niet doet, er een grote kans is dat iemand anders je niet begrijpt.
+
+2. 
+
+    a) Je gaat oriënteren om een beetje een referentiekader te krijgen.
+    b) Dan ga je wel veel informatie horen, maar weinig tot niks ervan op kunnen nemen.
+
+3. 
+
+    a) Of het invloed kan hebben op hoe de spelers presteren.
+    b) De instandhouding van het veld en de kosten met het vervangen van echt gras.
+
+4. 
+
+    a) De continent afrika en de rode achtergrond.
+    b) Ze hebben te tekst groot en met een hoog contrast geschreven.
+    c) Dat je iets moet doen tegen de hongersnood in Afrika.
+
+5. 
+
+    Door de context te achterhalen, begrijpen en verwerken.
