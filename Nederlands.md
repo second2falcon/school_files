@@ -667,7 +667,16 @@ o10
     - Onderwerp: voedbal wedstrijd
     - Deelonderwerpen: doelpunten, opstelling, eerste/tweede helft, perspectieven, overtredingen
 
+### §3 Tekstsoorten
+- Tekstdoelen
+- Tekstsoorten
+- Tekstvormen (recensie etc)
+- Opbouw / stappen
+- Taalgebruik (afhaneklijk van de tekstvorm)
+
 #### Opdrachten
+
+##### §2
 
 1. 
 
@@ -692,3 +701,46 @@ o10
 5. 
 
     Door de context te achterhalen, begrijpen en verwerken.
+
+10. 
+
+    Het onderwerp van de tekst is ~~opvoedingsrobots en of deze goed of slecht zijn voor kinderen.~~ slim speelgoed.
+
+11. 
+
+    Het probleem wat in alinea 1 aan de orde wordt gesteld is of de opvoedingsrobots wel ethisch correcte dingen doen en of deze niet misschien het tegengestelde doen van wat de ouders zouden doen.
+
+12. 
+
+    Het voordeel van gezelschapsrobots is dat deze de communicatie van kinderen kunnen stimuleren en deze ook bij kinderen met bijvoorbeeld autisme kunnen helpen.
+
+13. 
+
+    Het voorbeeld moet duidelijk maken dat deze robots ook een privacy probleem zouden kunnen zijn.
+
+14. 
+
+    De toekomst
+
+15. 
+
+    Slimme speelgoeden zoals gezelschapsrobots, hebben een positief effect op de ontwikkeling van kinderen en moet daarom verder onderzocht worden.
+
+##### §3
+
+1. 
+
+    a) Instrueren over het koken van vegane gerechten.
+    b) Instrueren over het gebruik van je nieuwe telefoon
+    c) Informeren over dingen die op school gebeuren.
+
+2. 
+
+    Ze hebben allemaal met objectieve / non-feitelijke dingen te maken.
+
+3. 
+
+    a) Instrueren over de opbouw van een kast.
+    b) O.a. een handleiding.
+    c) Stappen die worden gezet om iets te maken of doen.
+    d) Een oproep om uit de kast te komen.
