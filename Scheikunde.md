@@ -540,4 +540,13 @@ ppb = parts per billion (x 10ˆ9)
     b) Ja, omdat er geen andere karakteistieke groepen tussen zitten.
     c) Nee, omdat er geen 2 dubbelebindingen kunnen zijn.
 
-31.
+31. 
+
+33. 
+
+    a) Een reactie waar 2 atomen worden vervangen door andere.
+    b) Endotherm, omdat er uv licht nodig is.
+
+34. 
+
+    a) 
