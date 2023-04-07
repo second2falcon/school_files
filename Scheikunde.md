@@ -550,3 +550,26 @@ ppb = parts per billion (x 10ˆ9)
 34. 
 
     a) 
+    b) 
+
+38. 
+
+    a) 2 & 3
+    b) 1 & 4
+
+39. 
+
+    a) ~~Niet genoeg bindsingsplekken door de dubbele binding.~~ Er zijn geen OH of NH groepen.
+    b) C=C-C-C + H₂O-> CH-C-C-C-OH
+    c) 1,4-diwaterstof-1-zuurstof-butaan
+    d) 
+
+---
+
+    Vergisting van glucose
+    C₆H₁₂O₆ -> 2C₂H₆O + 2CO₂
+
+40. 
+
+    a) 
+    b) 
