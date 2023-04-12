@@ -744,3 +744,31 @@ o10
     b) O.a. een handleiding.
     c) Stappen die worden gezet om iets te maken of doen.
     d) Een oproep om uit de kast te komen.
+
+11. 
+
+    Straattaal die in Bijmler word gesproken.
+
+12. 
+
+    ~~Dat het moeilijk te begrijpen kan zijn voor mensen die de straattaal niet leven.~~Jongeren die straattaal spreken, beheersen Nederland niet meer zo goed.
+
+13. 
+
+    Dat de betekenis soms niet duidelijk is en dat dingen die normaal als scheldwoord worden gezien, als compliment worden gebruikt (b.v. bitch).
+
+14. 
+
+    Dat door de straattaal cultuur, dat die gewoon andere normen hebben van wat "normale" woorden zijn.
+
+15. 
+
+    Van het ene naar het andere veranderen.
+
+16. 
+
+    ~~B~~D
+
+17. 
+
+    ~~Dat straattaal een eigen soort cultuur heeft, welke moeilijk te begrijpen is als je zelf niet in die cultuur zit.~~Straattaal draagt juist bij aan een rijkere taal en taalbehersing.
