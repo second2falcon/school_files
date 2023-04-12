@@ -560,9 +560,12 @@ ppb = parts per billion (x 10ˆ9)
 39. 
 
     a) ~~Niet genoeg bindsingsplekken door de dubbele binding.~~ Er zijn geen OH of NH groepen.
-    b) C=C-C-C + H₂O-> CH-C-C-C-OH
+    b) C=C-C-C + H₂O-> CH-COH-C-C
     c) 1,4-diwaterstof-1-zuurstof-butaan
-    d) 
+    d) C-C-C-C -> C-CBr-CBr-C
+    e) C-COH-C-C
+    f) C=C-C-C -> CBr-CBr-C-C
+    g) C-C=C-C -> C-CBr-CBr-C
 
 ---
 
@@ -573,3 +576,15 @@ ppb = parts per billion (x 10ˆ9)
 
     a) 
     b) 
+
+45. 
+
+    a) O=C-O-C
+    b) Door te kijken naar de onderdelen van esters.
+
+46. 
+
+    a) zuurstof, waterstof en koolstof
+    b) 
+    b) 
+    c) 
