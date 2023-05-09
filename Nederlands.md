@@ -674,6 +674,22 @@ o10
 - Opbouw / stappen
 - Taalgebruik (afhaneklijk van de tekstvorm)
 
+### §4 Inleiding, kern, slot
+
+- Inleiding:
+    - Introduceert het onderwerp.
+    - Kan iets zeggen over te kestsoort.
+    - Trekt de aandacht van de lezer.
+
+- Kern:
+    - Bespreekt de verschillende deelonderwerpen.
+    - Elke (groep) alinea('s) heeft een bepaaalde functie (taak) in de kern.
+
+- Slot:
+    - Rond de tekst af.
+    - Kan een samenvatting of conclusie bevatten.
+    - Hier vind je vaak de hoofdgedachte.
+
 #### Opdrachten
 
 ##### §2
@@ -772,3 +788,38 @@ o10
 17. 
 
     ~~Dat straattaal een eigen soort cultuur heeft, welke moeilijk te begrijpen is als je zelf niet in die cultuur zit.~~Straattaal draagt juist bij aan een rijkere taal en taalbehersing.
+
+##### §4
+
+2. 
+
+    a) De aandacht van de lezer trekken en het onderwerp introduceren.
+    b) De tekst afronden en samenvatting/conclusie.
+
+3. 
+
+    a) Informeren, amuseren en vraag stellen
+    b) Met een spreekwoord
+
+4. 
+
+    a) Een korte samenvatting van de tekst.
+    b) A: Of die kauwgommen gezonder zijn dan gewoon koffie drinken, of je uithoudingsvermogen daardoor echt beter wordt; B: Wat de voor- en nadelen van zo een chip in je hand zijn, hoeveel het kost, of het pijn doet en wat je er allemaal mee kunt.
+
+5. 
+
+    De tekst zal waarschijnlijk over vrouwen die nu in een bepaalde leger-/defensiefunctie zitten.
+
+6. 
+
+    a) Vast stelling van de uiting, beschrijving, evaluatie
+    b) Stelling, argumenten, bevestiging van de stelling
+    c) Handleiding
+    d) Ikea handleiding, iPhone handleiding
+
+7. 
+
+    a) Hij rijdt over een stuk pad, die handiger/korter/soepeler is, maar een slijtage in het landschap is en dus geen officiele weg is.
+    b) Zoekend lezen
+    c) De alineatitels
+    d) Je hoeft niet de hele tekst te lezen.
