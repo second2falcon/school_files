@@ -588,3 +588,17 @@ ppb = parts per billion (x 10ˆ9)
     b) 
     b) 
     c) 
+
+60. 
+
+    Reacties die bij voldoende stoffen heen en weer kunnen gaan, dus een productreactie kan weer splitsen.
+
+61. 
+
+    a) 2Cu + O₂ -> 2CuO
+    b) 4CuO + CH₄ -> 4Cu + CO₂ + 2H₂O
+    c) Zover er genoeg van alle stoffen aanwezig is, ja.
+
+62. 
+
+    a) Als de 
