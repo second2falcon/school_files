@@ -656,6 +656,7 @@ o10
     Dat is het taalgebruik wat je zelf hebt ontwikkeld.
 
 ### §2 Onderwerp en hoofdgedachte
+
 - Zender - boodschap - medium - ontvanger
 - Onderwerp: waar gaat de tekst over?
 - Deelonderwerpen: welke verschillende stukjes van het onderwerp komen aan bod?
@@ -668,6 +669,7 @@ o10
     - Deelonderwerpen: doelpunten, opstelling, eerste/tweede helft, perspectieven, overtredingen
 
 ### §3 Tekstsoorten
+
 - Tekstdoelen
 - Tekstsoorten
 - Tekstvormen (recensie etc)
@@ -689,6 +691,23 @@ o10
     - Rond de tekst af.
     - Kan een samenvatting of conclusie bevatten.
     - Hier vind je vaak de hoofdgedachte.
+
+### §5 Tekststructuur
+
+- Tekststructuur: hoe een tekst is opgebouwd
+- Waarom een tekststructuur?
+    - 
+- Soorten structuren: (enkele voorbeelden)
+    - Betoog:
+        - Standpunt
+        - Agrument
+        - Tegenargument/weerlegingen
+    - Beschouwing:
+        - Onderwerp
+        - Voor- en nadelen
+        - Conclusie
+
+- Hulpmiddel bij het bereiken van je schrijfdoel
 
 #### Opdrachten
 
@@ -823,3 +842,54 @@ o10
     b) Zoekend lezen
     c) De alineatitels
     d) Je hoeft niet de hele tekst te lezen.
+
+13. 
+
+    Inleiding: 1
+    Kern: 2, 3, 4, 5, 6, 7, 8, 9, 10, 11
+    Slot: 12, 13, 14
+
+14. 
+
+    a) Over een nieuwe methode die ervoor zorgt dat mensen met dyslexie sneller en effectiever kunnen lezen.
+    b) Zeggen waar het over gaat, en een vraag eraan hangen.
+    c) Het concentratieprobleem, het grotere probleem (digitaal lezen), de oplossing, de oplossing in de praktijk.
+
+15. 
+
+    5 t/m 11
+
+16. 
+
+    De tekst verspringt door het scrollen, er zijn meer afleidingen.
+
+17. 
+
+    Je hersen moet gewoon rustig lezen en soms een woord terug springen om een goede verbinding te maken.
+
+18. 
+
+    a) Dat er op het moment geen ideale oplossing is.
+    b) Om op een fout op te merken en te kijken wie hem heeft gezien.
+
+##### §5
+
+1. 
+
+    Je moet niet nadenken in welke volgorde je de tekst schrijft.
+
+2. 
+
+    Je brein heeft al een beetje een idee van wat er gaat komen.
+
+3. 
+
+    a) Inleiding, methode, voorspelling, resultaten, conclusie
+    b) Wat je gaat onderzoeken
+    c) Je voorspelling wat er gaat gebeuren en wat er echt gebeurt is.
+    d) De resultaten van het onderzoek
+
+4. 
+
+    a) Mensen te overtuigen om het product te kopen door het als iets heel goeds te presenteren.
+    b) Aspectenstructuur
