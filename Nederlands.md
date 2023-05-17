@@ -709,6 +709,15 @@ o10
 
 - Hulpmiddel bij het bereiken van je schrijfdoel
 
+### §6 Alinea's en tekstverbanden
+
+- Helpen van de lezer
+- Chunking
+    - Het verdelen van informatie in kleine blokjes
+- Alinea's
+- Verbanden en signaalwoorden
+- Functiewoorden
+
 #### Opdrachten
 
 ##### §2
@@ -893,3 +902,34 @@ o10
 
     a) Mensen te overtuigen om het product te kopen door het als iets heel goeds te presenteren.
     b) Aspectenstructuur
+
+##### §6
+
+7. 
+
+    Omdat je verbindingen moet leggen tussen alinea's en de verbanden.
+
+8. 
+
+    Verbinden wordt hiet uitgewerkt in de zin dat mensen hun verschillen moeten overbruggen om maatschappelijke problem op te lossen.
+
+9. 
+
+    C
+
+10. 
+
+    B
+
+11. 
+
+    Hij maakt een tegenwerping.
+
+12. 
+
+    Geen oplossing, maar verbetering
+
+13. 
+
+    a) Na een term die voor marketing wordt gebruikt.
+    b) Ja, omdat de mensen zonder grote ruzies met elkaar kunnen leven.
