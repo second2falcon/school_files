@@ -35,10 +35,17 @@
 - Mariken van Nieuwmeghen
 - Hadewych
 - Bijbelkennis
-- Verhalenvertellers
+- Verhalenvertellers (minstrelen of troubadours)
+    - Veel mensen kunnen niet lezen
+    - Maken er vaak een rijm van
+    - Later ook als toneelstuk
 - Rederijkerskamers
+    - Rederijkers = gilde van taalkunstenaars
 - Allegorie (bijvoorbeeld Elkerlyc)
 - Boekdrukkunst
+
+- Rond 12e eeuw de hoofse cultuur ontstaat en behelst een grote omslag in de normen en waarden van Edelen en Ridders.
+    - Ruw en aggresief gedrag wordt niet langer getolereerd
 
 ## §19 Pluk de dag (1600 - 1700)
 
@@ -50,6 +57,7 @@
 - Gouden eeuw?
 - Reisverhalen
 - Humanisme (desiderius Erasmus)
+    - Niet god, maar de mens staat centraal
 - Het Wilhelmus
 - Geloof en strijd
 - Homo universalis (Leonardo da Vinci, Constantijn Huygens)
