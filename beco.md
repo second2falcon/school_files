@@ -68,3 +68,27 @@ a)
 | Jaar | Annuïteit | Rente | Aflossing | 
 | --- | --- | --- | --- |
 | 1 | € 44.925,42 | € 4.925,42 | 
+
+17.6
+
+    a) Een restaurant, je eet eerst en betaalt daarna.
+    b) Omdat deze, ten minste in een restaurant, altijd groter zou kunnen worden en het dus geen zin heeft om vooraf af te rekenen, omdat je dan meerdere keren zou moeten betalen. Daarnaast is het handig zodat je in een hotel, als de kamer niet goed was, dus niet schoon gemaakt, of wat dan ook, dat je misschien niet alles hoeft te betalen.
+    c) Je auto zou op het moment dat je het hebt afbetaalt misschien stuk kunnen gaan, en dan hoeft de maker het misschien niet te vervangen, wat jou dus zelf veel geld zou kunnen kosten. 
+    d) 17,33%
+
+17.7
+
+    a) A
+    b) B
+    c) verstrekt afnemerskrediet
+    d) Iets online bestellen, een subscription bij Netflix etc, een telefoonabonnement.
+
+17.4
+
+    a) Een lening waarbij een bedrijf een grote som geld wil opbrengen, maar het niet van 1 persoon gaat kunnen krijgen.
+    b) Een obligatie is een brief/document/bestand waarin de nominale waarde, looptijd, rente en mogelijke andere informatie over een obligatielening in staan.
+    c) Aan het einde van de looptijd, via een loting en waarschijnlijk nog andere manieren.
+    d) Looptijd, nominale waarde en rente.
+    e) Omdat het bedrijf dan aan een zekere kant zou kunnen staan, dat ze de leninggevers ook kunnen betalen.
+    f) Wankel lost vervroegd af, omdat er nog 5 jaar op de obligatie eigenlijk staan. Dit doen ze omdat ze een lening tegen een betere rente kunnen krijgen.
+    g) 500*0,08*(2000000/500)*5=800000€;
