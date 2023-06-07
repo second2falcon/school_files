@@ -36,16 +36,16 @@
 - Hadewych
 - Bijbelkennis
 - Verhalenvertellers (minstrelen of troubadours)
-    - Veel mensen kunnen niet lezen
-    - Maken er vaak een rijm van
-    - Later ook als toneelstuk
+  - Veel mensen kunnen niet lezen
+  - Maken er vaak een rijm van
+  - Later ook als toneelstuk
 - Rederijkerskamers
-    - Rederijkers = gilde van taalkunstenaars
+  - Rederijkers = gilde van taalkunstenaars
 - Allegorie (bijvoorbeeld Elkerlyc)
 - Boekdrukkunst
 
 - Rond 12e eeuw de hoofse cultuur ontstaat en behelst een grote omslag in de normen en waarden van Edelen en Ridders.
-    - Ruw en aggresief gedrag wordt niet langer getolereerd
+  - Ruw en aggresief gedrag wordt niet langer getolereerd
 
 ## §19 Pluk de dag (1600 - 1700)
 
@@ -57,7 +57,7 @@
 - Gouden eeuw?
 - Reisverhalen
 - Humanisme (desiderius Erasmus)
-    - Niet god, maar de mens staat centraal
+  - Niet god, maar de mens staat centraal
 - Het Wilhelmus
 - Geloof en strijd
 - Homo universalis (Leonardo da Vinci, Constantijn Huygens)
@@ -73,6 +73,25 @@
 - Tragedie
 - Komedie
 - Bekende tragedie: Gysbreght van Aemstel - Joost van den Vondel
+
+## §20 Alles is maakbaar (1700 - 1800)
+
+- Kindergedichten en jeugdliteratuur
+- Opvoeding / tabula rasa
+- Verstand / denken / ratio
+- Satire
+- Briefroman / de eerste Nederlandse roman
+  - Persoanges sturen elkaar brieven over hoe je je hoort te gedragen en zo wordt het verhaal verteld.
+
+- Je beter voordoen dan je bent
+- Je gedragen als een nette burger
+
+- Koffiehuizen
+- Spectator (voorloper van de krant)
+- Encyclopedie
+- Imaginaire (verzonnen) reisverhalen
+    - Reizen na imaginaire plekken
+- Verlichting
 
 ---
 ---
