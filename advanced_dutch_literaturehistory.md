@@ -28,4 +28,8 @@ advanced_dutch_literaturehistory.md
 
 - Cogito ergo sum (ik denk dus ik ben)
     - Hoe weet je dat niet alles alleenmaar een droom is?
+
+- Nieuwe tijdschriftvormen:
+    - Roman
+    - **Encyclopedie** (alles wat je moet weten over een onderwerp)
     

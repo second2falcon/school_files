@@ -93,6 +93,23 @@
     - Reizen na imaginaire plekken
 - Verlichting
 
+## §21 Romantiek & werkelijkheid 
+
+- Vergane glorie
+- Een nieuw volkslied (niet Wilhelmus)
+- Nationalisme: taal en literatuur als bindmiddel
+- Trots op het verleden (ontstaan begrip 'Gouden Eeuw')
+- Bugerlijkheid in poëzie
+- Romantiek: het gevoelsleven als inspiratiebron
+- Inspiratie uit de natuur, het verleden (middeleeuwen) en het bovennatuurlijke (gothic novel)
+- Humor
+
+- Realisme: Camera Obscura van Nicolaas Beets
+- Domineespoezie: toegankeijke gedichten met een moralistische boodschap
+- Sociaal realisme: Fabriekskinderen van J.J. Cremer
+- Multatuli (Eduard Douwes Dekker) - Max Havelaar
+    - Saïdjah en Adinda (onderdeel van Max Havelaar)
+
 ---
 ---
 ---
