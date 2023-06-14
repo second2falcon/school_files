@@ -96,7 +96,7 @@
 ## §21 Romantiek & werkelijkheid 
 
 - Vergane glorie
-- Een nieuw volkslied (niet Wilhelmus)
+- Een nieuw volkslied (niet Wilhelmus, maar "Wien Neêrlands bloed" (1815))
 - Nationalisme: taal en literatuur als bindmiddel
 - Trots op het verleden (ontstaan begrip 'Gouden Eeuw')
 - Bugerlijkheid in poëzie
