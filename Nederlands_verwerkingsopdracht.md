@@ -1,0 +1,5 @@
+#
+
+Sinds enkele dagen zijn er in Griekenland weer meer bosbranden ontstaan. Dit komt door de extreme hitte en extreme droogte. Die vuur wordt verder ontvacht door de sterke wind die op het moment over Griekenland heen waait. Deze sterke winden zorgen er dus ook voor dat het vuur met grote snelheid door het land heen gaat. De brandweer geeft aan dat het vuur heel moeilijk te blussen is. Meerdere EU landen hebben al hulp belooft aan Griekenland. 
+
+Ook zijn er in de afgelopen dagen meerdere mensen omgekomen door de bosbranden. De verkolte lichaamsresten waren gevonden in de buurt van een hut in een bos. De brandweer geeft aan dat dit waarschijnlijk illegaal geïmmigreerden waren aangezien er geen vermiste personen gemeld zijn in de buurt. Ook was die regio een bekende route bij immigranten om naar Europa te komen. De immigranten werden vermoedelijke verrast door het snel bewegende vuur.
