@@ -1,0 +1,45 @@
+- God's plan
+- Toosie slide
+- Passionfruit (Drake)
+- One Dance
+- The Box
+- Sicko Mode
+- Goose bumps
+- Mask off (some remix)
+- Roxanne
+- Industry Baby
+- Moonlight
+- Mood
+- Stay
+- The Real Slim Shady
+- Without me
+- mockingbird
+- Stayboy
+- I fell it coming
+- moth to a flame
+- save your tears
+- the hills
+- can't feel my face
+- often
+- die for you
+- call out my name
+- heartless
+- take my breath
+- smells like teen spirit
+- gangsta's paradise
+- smooth criminal
+- Lean on (feat MO)
+- Hymn fot the weekend
+- Adventure fox a lifetime
+- Happy (Pharrel Williams)
+- Get Lucky
+- Cold Heart (PNAU REmix)
+- Cake by the ocean
+- take on me
+- mirros (justin timberlake)
+- lovely
+- Back to black
+- Bitter Sweet Symphony
+- Human (Rag'n'Bone Man)
+- Rollin in the Deep
+- https://www.youtube.com/watch?v=qod03PVTLqk&list=TLPQMjkwODIwMjP865O9hOLzJQ&index=39
