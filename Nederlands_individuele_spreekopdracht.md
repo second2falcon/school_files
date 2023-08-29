@@ -1,3 +1,5 @@
+# Mogelijke onderwerpen
+
 - De Star Wars films (1 t/m 6) (George Lucas)
 - Michael Jackson muziek
 - Queen muziek
@@ -8,3 +10,7 @@
 - The A-Team Series
 - The A-Team Film
 - The Simpsons
+
+# Finaal onderwerp
+
+- Hoe past het verhaal van de film The A-Team in de A-Team series?
