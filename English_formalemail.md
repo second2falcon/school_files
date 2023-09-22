@@ -72,3 +72,35 @@
 >
 > Yours faithfully, </br>
 > Max Blaauw
+
+# Formal Email
+
+> Subject:
+>
+> **Salutation** (=same as formal letter)
+>
+> Introduction
+>
+> Body
+>
+> Closing sentence
+>
+> Salutaiton
+>
+> Name
+> Own address
+
+> **Subject**: Instruction formal e-mail
+>
+> **Dear Mr** Student,
+> I am writing you to inform you about the formal email conventions. </br>
+> ...
+>
+> I am looking forward to hearing from you soon.
+>
+> Sincerily yours,
+>
+> Juliette Van Der Velde
+> Van Alkemadelaan 2, </br>
+> 1234 AB Sassenheim, </br>
+> The Netherlands </br>
