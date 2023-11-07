@@ -92,7 +92,7 @@
 
 > **Subject**: Instruction formal e-mail
 >
-> **Dear Mr** Student,
+> **Dear Mr** Student, </br>
 > I am writing you to inform you about the formal email conventions. </br>
 > ...
 >
@@ -104,3 +104,12 @@
 > Van Alkemadelaan 2, </br>
 > 1234 AB Sassenheim, </br>
 > The Netherlands </br>
+
+## Tips
+- Functie van = the **post** of / the **job** of
+- Diploma halen/krijgen: to **obtain** my diploma / to pass my exams / to graduate (USA)
+- At least/At last = lastly
+- In regards to = regarding / in regard to
+- Ik zit op **de** havo etc. I attent ~~the~~ Higher General Secondary Education / Rijnlands Lyceum Sassenheim
+- Do I get compensated -> Will there be a compensation? / Will I receive a compensation?
+- Ik ben benieuwd = ik vraag me af = ~~I am curious~~ -> I wonder if
