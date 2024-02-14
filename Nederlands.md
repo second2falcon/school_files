@@ -35,3 +35,21 @@
 1. Kies een van de onderwerpen uit het journaal en maak een samenvatting van 125-150 woorden ove rhet onderwerp. Mail deze naar je docent.
 2. Bedenk tien onderwerpen voor je presentatie, binnen de culturele domeinen films en series, kunst, literatuur, poëzie, theater en games.
 3. Vul je literatuurlijst in voor zover dat mogelijk is. Neem een geschikt leesboek mee naar de les.
+
+## CE Nederlnds
+
+- Leesvaardigheid en arumentatieleer
+- 180 minuten (+eventueel extra tijd)
+- Drie of vier teksten + vragen en opdrachten
+- Examen in ontwikkeling
+- Examenbundel
+
+### Aanpak
+
+- Februari/begin maart: theorie herhalen
+- Oefenen met examenteksten en examenvragen
+- Doelen:
+    - Zicht krijgen op eigen sterktes en zwaktes
+    - Theorie herhalen
+    - Wennen aan lengte en niveau examenteksten
+    - Wennen aan verschillende soorten examenvragen en hoe deze te beantwoorden zijn
