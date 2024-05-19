@@ -53,3 +53,93 @@
     - Theorie herhalen
     - Wennen aan lengte en niveau examenteksten
     - Wennen aan verschillende soorten examenvragen en hoe deze te beantwoorden zijn
+
+## §5 Intentie van de schijver etc.
+
+- Intenties. opvattingen en gevoelens van de uteur
+- Woordkeus, stijlmiddelen en figuurlijk taalgebruik
+- Framing: door middel van taal cree je een bepaald beeld van de werkelijkheid
+
+## §6 Citeren en met eigen woorden
+
+### Citeren
+
+- Je neemt iets letterlijk over uit de tekst.
+
+    Ik ben vanavond wat later thuis, want ik ga voetballen. Dat die ik samen met mijn zogenaamde vrienden Piet, Klaas en Jan.
+
+- Citeren:
+    - Een zin: "Ik ben (...) ga voetballen."
+
+### Met eigen woorden
+
+- Je formuleert zelf een antwoord, waarbij je de begrippen uit de tekst mag (**moet!**) gebruiken.
+
+    Ik ben vanavond wat later thuis, want ik ga voetballen. Dat die ik samen met mijn zogenaamde vrienden Piet, Klaas en Jan.
+
+## §7 Hoofdgedachte en hoofdvraag
+
+- Met-eigen-woorden-vraag
+- Citeervraag
+- Kopjesvraag
+- Meerkeuzevraag
+
+## §8 Samenvatten
+
+- Open samenvattingsopgaven
+- Samenvattingsopgaven in meerkeuzevorm
+- Samenvatten met een schema
+
+## §10 Standpunt en argumenten
+
+- Standpunt, stelling, mening, opvatting, bewering
+- Argumenten: feitelijk (objectief) of waarderend (subjectief)
+- Soorten argumenten
+
+## §11 Argumentatie en argumentatieschema's
+
+- Enkelvoudige argumentatie
+- Nevenschikkende argumentatie
+- Afhankelijke of onafhankelijke argumenten
+- Onderschikkende argumentatie
+
+- Argumentatieschema: hoe hangen standpun en argument(en) met elkaar samen.
+
+    Argumentatieschema's:
+    1) oorzaak/gevolg
+    2) voor- en nadelen
+    3) vergelijking
+    4) kenmerkeigenschap
+    5) autoriteit
+    6) voorbeeld
+
+## §12 Drogredenen
+
+- Argumentatiefouten:
+    - Onjuist beroep op oorzaak-gevolg
+    - Onjuist beroep op kenmerk
+    - Overdrijven voor- en nadelen
+    - Vals dilemma
+    - Overhaaste generalisatie
+    - Verkeerde vergelijking
+    - Onjuist beroep op autoriteit
+
+- Argumentatietrucs:
+    - Persoonlijke aanval
+    - Ontduiken vn de bewijslast
+    - Vertekenen van een standpunt
+    - Bespelen van het publiek
+    - Cirkelredenering
+
+## §13 Aanvaardbaarheid van argumentatie
+
+- De bron: deskundigeid, partijdigheid, consistentie
+- Feitelijke uitspraken: controleerbaarheid, kennis van de wereld, betrouwbaarheid bron
+- Waarderende uitspraken: kennis en opvatting van lezer, relevantie argumenten, consistentie van argumenten, toereikheid van de arumentatie
+
+## §13 Werken met scenario's
+
+- Nieuwe vraagtypen bij het beoordelen van informatie en argumentatie
+- Vragen naar aanleiding van een situatieschets (scenario)
+
+## §14 Belangrijke begrippen
